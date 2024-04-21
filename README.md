@@ -5,7 +5,9 @@
 # Dr. Sumanta Barman
 
 
-![Photo](SB.jpg)
+
+
+<img src="SB.jpg" alt="Profile Picture" width="100">
 
 
 ---
