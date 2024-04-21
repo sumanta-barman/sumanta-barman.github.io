@@ -106,9 +106,9 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 ## Contact Me
 
-- **Email:** barman.sumanta@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/dr-sumanta-barman-327954143/
-- **GitHub:** https://github.com/sumanta-barman
+- **Email:** [barman.sumanta@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/dr-sumanta-barman-327954143/]
+- **GitHub:** [https://github.com/sumanta-barman]
 
 ---
 
