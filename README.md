@@ -102,7 +102,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 - You can also find a complete list of my publications [here](https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en).
 
-
+---
 
 ## Contact Me
 
