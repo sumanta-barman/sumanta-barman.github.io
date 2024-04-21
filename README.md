@@ -6,6 +6,10 @@
 
 ![Profile Picture](url_to_your_picture)
 
+![Profile Picture](/Users/sumantabarman/Desktop/My_data/From_macbook/Others/My CV photo/)
+![Profile Picture](/Users/sumantabarman/Desktop/My_data/From_macbook/Others/My CV photo/.jpg)
+
+
 ---
 
 ## About Me
