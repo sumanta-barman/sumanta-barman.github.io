@@ -4,7 +4,6 @@
 
 # Dr. Sumanta Barman
 
-![Profile Picture](url_to_your_picture)
 
 ![Photo](SB.jpg)
 
