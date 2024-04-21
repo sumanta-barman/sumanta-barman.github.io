@@ -6,7 +6,7 @@
 
 ![Profile Picture](url_to_your_picture)
 
-![Photo](/Users/sumantabarman/Desktop/My_data/From_macbook/Others/My CV photo/IMG_9543 copy edit21.jpg)
+![Photo](https://github.com/sumanta-barman/sumanta-barman.github.io/blob/main/IMG_9543_21%20copy.jpg)
 
 
 ---
