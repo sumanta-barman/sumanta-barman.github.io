@@ -6,7 +6,7 @@
 
 ![Profile Picture](url_to_your_picture)
 
-![Photo](https://github.com/sumanta-barman/sumanta-barman.github.io/blob/main/IMG_9543_21%20copy.jpg)
+![Photo](SB.jpg)
 
 
 ---
