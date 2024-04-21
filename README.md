@@ -56,9 +56,9 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 ## Contact Me
 
-- **Email:** [your.email@example.com](barman.sumanta@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/dr-sumanta-barman-327954143/))
-- **GitHub:** [Your GitHub Profile]((https://github.com/sumanta-barman))
+- **Email:** barman.sumanta@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/dr-sumanta-barman-327954143/
+- **GitHub:** https://github.com/sumanta-barman
 
 ---
 
