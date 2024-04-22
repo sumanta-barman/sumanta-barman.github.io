@@ -1,13 +1,13 @@
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: flex-end;">
   <div>
     <img src="SB.jpg" alt="Profile Picture" width="200">
   </div>
-  <div style="margin-left: 20px;"> <!-- Adjust margin as needed -->
-    <ul>
-      <li><strong>Email:</strong> <a href="mailto:barman.sumanta@gmail.com"></a></li>
-      <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/"></a></li>
-      <li><strong>GitHub:</strong> <a href="https://github.com/sumanta-barman"></a></li>
-      <li><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en"></a></li>
+  <div style="margin-right: 20px;"> <!-- Adjust margin-right as needed -->
+    <ul style="list-style: none; padding: 0;">
+      <li style="display: inline-block; margin-right: 10px;"><a href="mailto:barman.sumanta@gmail.com"><strong>Email</strong></a></li>
+      <li style="display: inline-block; margin-right: 10px;"><a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/"><strong>LinkedIn</strong></a></li>
+      <li style="display: inline-block; margin-right: 10px;"><a href="https://github.com/sumanta-barman"><strong>GitHub</strong></a></li>
+      <li style="display: inline-block;"><a href="https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en"><strong>Google Scholar</strong></a></li>
     </ul>
   </div>
 </div>
