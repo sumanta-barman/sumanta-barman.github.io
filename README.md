@@ -6,8 +6,8 @@
 
   <!-- Right side: Text content -->
   <div>
-    <!-- Additional text -->
-    University Hospital Düsseldorf, Heinrich Heine University Düsseldorf
+  <!-- Additional text -->
+  University Hospital Düsseldorf, Heinrich Heine University Düsseldorf
 
   <!-- List of links -->
   <div>
