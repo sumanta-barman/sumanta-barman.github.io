@@ -66,12 +66,13 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 1. **[Alemtuzumab-induced immune phenotype and repertoire changes: implications for secondary autoimmunity](https://academic.oup.com/brain/article/145/5/1711/6590581)**  
    *Authors:* Tobias Ruck#, <strong>Sumanta Barman#</strong>, Andreas Schulte-Mecklenbeck#, Steffen Pfeuffer#, Falk Steffen, Christopher Nelke, Christina B Schroeter, Alice Willison, Michael Heming, Thomas Müntefering, Nico Melzer, Julia Krämer, Maren Lindner, Marianne Riepenhausen, Catharina C Gross, Luisa Klotz, Stefan Bittner, Paolo A Muraro, Tilman Schneider-Hohendorf, Nicholas Schwab, Gerd Meyer zu Hörste, Norbert Goebels, Sven G Meuth, Heinz Wiendl. *<strong>#equally contributing first authors</strong>*
+   
    *Journal:* Brain  
    *Year:* 2022
    
     <a href="https://academic.oup.com/brain/article/145/5/1711/6590581"><img src="https://academic.oup.com/view-large/figure/357455848/awac064f4.tif" alt="Thumbnail" width="200"></a>
 
-2. **[NMDAR encephalitis: passive transfer from man to mouse by a recombinant antibody](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444)**  
+3. **[NMDAR encephalitis: passive transfer from man to mouse by a recombinant antibody](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444)**  
    *Authors:* Manish Malviya#, <strong>Sumanta Barman#</strong>, Kristin S Golombeck#, Jesús Planagumà#, Francesco Mannara#, Nathalie Strutz‐Seebohm, Claudia Wrzos, Fatih Demir, Christine Baksmeier, Julia Steckel, Kim Kristin Falk, Catharina C Gross, Stjepana Kovac, Kathrin Bönte, Andreas Johnen, Klaus‐Peter Wandinger, Elena Martín‐García, Albert J Becker, Christian E Elger, Nikolaj Klöcker, Heinz Wiendl, Sven G Meuth, Hans‐Peter Hartung, Guiscard Seebohm, Frank Leypoldt, Rafael Maldonado, Christine Stadelmann, Josep Dalmau, Nico Melzer, Norbert Goebels. *<strong>#equally contributing first authors</strong>*
    
    *Journal:* Annals of clinical and translational neurology  
@@ -80,31 +81,31 @@ I have extensive expertise in evaluating the treatment effect of various disease
    <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444"><img src="https://onlinelibrary.wiley.com/cms/asset/20fe6556-ba39-4887-9dbb-0d067072d452/acn3444-fig-0004-m.jpg" alt="Thumbnail" width="200"></a>
 
 
-3. **N‐methyl‐D‐aspartate receptor antibodies in autoimmune encephalopathy alter oligodendrocyte function**  
+4. **N‐methyl‐D‐aspartate receptor antibodies in autoimmune encephalopathy alter oligodendrocyte function**  
    *Authors:* C Matute, A Palma, MP Serrano‐Regal, E Maudes, S Barman, ...  
    *Journal:* Annals of neurology  
    *Year:* 2020  
    *Citations:* 32
 
-4. **Alemtuzumab-induced immune phenotype and repertoire changes: implications for secondary autoimmunity**  
+5. **Alemtuzumab-induced immune phenotype and repertoire changes: implications for secondary autoimmunity**  
    *Authors:* T Ruck, S Barman, A Schulte-Mecklenbeck, S Pfeuffer, F Steffen, C Nelke, ...  
    *Journal:* Brain  
    *Year:* 2022  
    *Citations:* 29
 
-5. **Multimodal electrophysiological analyses reveal that reduced synaptic excitatory neurotransmission underlies seizures in a model of NMDAR antibody-mediated encephalitis**  
+6. **Multimodal electrophysiological analyses reveal that reduced synaptic excitatory neurotransmission underlies seizures in a model of NMDAR antibody-mediated encephalitis**  
    *Authors:* SK Wright, RE Rosch, MA Wilson, MA Upadhya, DR Dhangar, ...  
    *Journal:* Communications biology  
    *Year:* 2021  
    *Citations:* 22
 
-6. **Dose‐dependent inhibition of demyelination and microglia activation by IVIG**  
+7. **Dose‐dependent inhibition of demyelination and microglia activation by IVIG**  
    *Authors:* M Winter, C Baksmeier, J Steckel, S Barman, M Malviya, M Harrer‐Kuster, ...  
    *Journal:* Annals of clinical and translational neurology  
    *Year:* 2016  
    *Citations:* 21
 
-7. **Genetic diversity analysis of chewing sugarcane (Saccharum officinarum L.) varieties by using RAPD markers**  
+8. **Genetic diversity analysis of chewing sugarcane (Saccharum officinarum L.) varieties by using RAPD markers**  
    *Authors:* SM Sarid Ullah, MA Hossain, MM Hossain, S Barman, MM Hasan Sohag, ...  
    *Journal:* Journal of BioScience & Biotechnology  
    *Year:* 2013  
