@@ -1,15 +1,20 @@
 <div style="display: flex; align-items: center;">
   <!-- Left side: Profile picture (circle) -->
   <div style="margin-right: 30px;">
-    <img src="SB.jpg" alt="Profile Picture" width="150" style="border-radius: 60%;">
+    <img src="SB.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
+  </div>
+
+  <!-- Middle section: Additional text -->
+  <div>
+    <p>Neuroimmunology Scientist, Department of Neurology,<br>University Hospital Düsseldorf, Heinrich Heine University Düsseldorf</p>
   </div>
 
   <!-- List of links -->
   <div>
     <ul style="list-style: none; padding: 0;">
-      <li style="margin-bottom: 10px;"><a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/" style="margin-left: 60px;"><strong>LinkedIn</strong></a></li>
-      <li style="margin-bottom: 10px;"><a href="https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en" style="margin-left: 60px;"><strong>Google Scholar</strong></a></li>
-      <li style="margin-bottom: 10px;"><a href="https://github.com/sumanta-barman" style="margin-left: 60px;"><strong>GitHub</strong></a></li>
+      <li style="margin-bottom: 10px;"><a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/" style="margin-left: 260px;"><strong>LinkedIn</strong></a></li>
+      <li style="margin-bottom: 10px;"><a href="https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en" style="margin-left: 250px;"><strong>Google Scholar</strong></a></li>
+      <li style="margin-bottom: 10px;"><a href="https://github.com/sumanta-barman" style="margin-left: 250px;"><strong>GitHub</strong></a></li>
     </ul>
   </div>
 </div>
