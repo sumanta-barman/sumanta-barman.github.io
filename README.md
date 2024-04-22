@@ -69,8 +69,9 @@ I have extensive expertise in evaluating the treatment effect of various disease
    
    *Journal:* Brain  
    *Year:* 2022
-   
-    <a href="https://academic.oup.com/brain/article/145/5/1711/6590581"><img src="https://academic.oup.com/view-large/figure/357455848/awac064f4.tif" alt="Thumbnail" width="300"></a>
+
+    <a href="https://academic.oup.com/brain/article/145/5/1711/6590581"><img src="https://academic.oup.com/view-large/figure/357455848/awac064f4.tif" alt="Thumbnail" width="200"></a>
+    
 
 2. **[NMDAR encephalitis: passive transfer from man to mouse by a recombinant antibody](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444)**  
    *Authors:* Manish Malviya#, <strong>Sumanta Barman#</strong>, Kristin S Golombeck#, Jesús Planagumà#, Francesco Mannara#, Nathalie Strutz‐Seebohm, Claudia Wrzos, Fatih Demir, Christine Baksmeier, Julia Steckel, Kim Kristin Falk, Catharina C Gross, Stjepana Kovac, Kathrin Bönte, Andreas Johnen, Klaus‐Peter Wandinger, Elena Martín‐García, Albert J Becker, Christian E Elger, Nikolaj Klöcker, Heinz Wiendl, Sven G Meuth, Hans‐Peter Hartung, Guiscard Seebohm, Frank Leypoldt, Rafael Maldonado, Christine Stadelmann, Josep Dalmau, Nico Melzer, Norbert Goebels. *<strong>#equally contributing first authors</strong>*
@@ -79,6 +80,15 @@ I have extensive expertise in evaluating the treatment effect of various disease
    *Year:* 2017
    
    <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444"><img src="https://onlinelibrary.wiley.com/cms/asset/20fe6556-ba39-4887-9dbb-0d067072d452/acn3444-fig-0004-m.jpg" alt="Thumbnail" width="200"></a>
+
+   
+3. **[Myelinating Co-Culture as a Model to Study Anti-NMDAR Neurotoxicity](https://www.mdpi.com/1422-0067/24/1/248)**  
+   *Authors:* Mercedeh Farhat Sabet, <strong>Sumanta Barman#</strong>, Mathias Beller, Sven G Meuth, Nico Melzer, Orhan Aktas, Norbert Goebels, Tim Prozorovski.
+   
+   *Journal:* International Journal of Molecular Sciences  
+   *Year:* 2023
+   
+   <a href="https://www.mdpi.com/1422-0067/24/1/248"><img src="ttps://www.mdpi.com/ijms/ijms-24-00248/article_deploy/html/images/ijms-24-00248-g001.png" alt="Thumbnail" width="200"></a>
 
 
 3. **[Myelinating Co-Culture as a Model to Study Anti-NMDAR Neurotoxicity](https://www.mdpi.com/1422-0067/24/1/248)**  
