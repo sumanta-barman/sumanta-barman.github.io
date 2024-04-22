@@ -72,9 +72,9 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 ## Research articals
 
-*<strong>Selected Publications<strong>*
+<strong>Selected Publications<strong>
 
-*Computational immunology*
+*Computational immunology:*
 
 1. **[Alemtuzumab-induced immune phenotype and repertoire changes: implications for secondary autoimmunity](https://academic.oup.com/brain/article/145/5/1711/6590581)**  
    *Authors:* Tobias Ruck#, <strong>Sumanta Barman#</strong>, Andreas Schulte-Mecklenbeck#, Steffen Pfeuffer#, Falk Steffen, Christopher Nelke, Christina B Schroeter, Alice Willison, Michael Heming, Thomas Müntefering, Nico Melzer, Julia Krämer, Maren Lindner, Marianne Riepenhausen, Catharina C Gross, Luisa Klotz, Stefan Bittner, Paolo A Muraro, Tilman Schneider-Hohendorf, Nicholas Schwab, Gerd Meyer zu Hörste, Norbert Goebels, Sven G Meuth, Heinz Wiendl. *<strong>#equally contributing first authors</strong>*
@@ -93,7 +93,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
    <a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full"><img src="https://www.frontiersin.org/files/Articles/1198860/fimmu-14-1198860-HTML/image_m/fimmu-14-1198860-g004.jpg" alt="Thumbnail" width="300"></a>
 
     
-*Neuroimmunology*
+*Neuroimmunology:*
 
 1. **[NMDAR encephalitis: passive transfer from man to mouse by a recombinant antibody](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444)**  
    *Authors:* Manish Malviya#, <strong>Sumanta Barman#</strong>, Kristin S Golombeck#, Jesús Planagumà#, Francesco Mannara#, Nathalie Strutz‐Seebohm, Claudia Wrzos, Fatih Demir, Christine Baksmeier, Julia Steckel, Kim Kristin Falk, Catharina C Gross, Stjepana Kovac, Kathrin Bönte, Andreas Johnen, Klaus‐Peter Wandinger, Elena Martín‐García, Albert J Becker, Christian E Elger, Nikolaj Klöcker, Heinz Wiendl, Sven G Meuth, Hans‐Peter Hartung, Guiscard Seebohm, Frank Leypoldt, Rafael Maldonado, Christine Stadelmann, Josep Dalmau, Nico Melzer, Norbert Goebels. *<strong>#equally contributing first authors</strong>*
@@ -137,12 +137,12 @@ I have extensive expertise in evaluating the treatment effect of various disease
    <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25699"><img src="ana25699-fig-0001-m.png" alt="Thumbnail" width="200"></a>
 
 
-*Conference publications*
+*Conference publications:*
 
 1. **ddddd**
 2. **hhhh**
 
-*Others*
+*Others:*
 
 1. **jjj**
 2. **ggg**
