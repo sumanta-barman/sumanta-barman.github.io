@@ -4,11 +4,6 @@
     <img src="SB.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
   </div>
 
-  <!-- Right side: Text content -->
-  <div>
-  <!-- Additional text -->
-  University Hospital Düsseldorf, Heinrich Heine University Düsseldorf
-
   <!-- List of links -->
   <div>
     <ul style="list-style: none; padding: 0;">
