@@ -11,11 +11,14 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
 </div>
 
+
+
 <div style="text-align: justify;">
   
 My dedication and perseverance have resulted in numerous scientific publications and presentations, both oral and poster, at international conferences. Additionally, I have had the opportunity to mentor multi-cultural students in all aspects of research, including project conception, methodology, data analysis, presentation, and report writing for bachelor's, master's, and PhD theses.
 
 </div>
+
 
 
 <div style="text-align: justify;">
