@@ -122,22 +122,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
    
    <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.326"><img src="https://onlinelibrary.wiley.com/cms/asset/9b8bfd67-5778-4e1e-b7d5-aac0a7ec3b06/acn3326-fig-0002-m.jpg" alt="Thumbnail" width="200"></a>
 
-
-6. **Multimodal electrophysiological analyses reveal that reduced synaptic excitatory neurotransmission underlies seizures in a model of NMDAR antibody-mediated encephalitis**  
-   *Authors:* SK Wright, RE Rosch, MA Wilson, MA Upadhya, DR Dhangar, ...  
-   *Journal:* Communications biology  
-   *Year:* 2021  
-   *Citations:* 22
-
-7. **Dose‐dependent inhibition of demyelination and microglia activation by IVIG**  
-   *Authors:* M Winter, C Baksmeier, J Steckel, S Barman, M Malviya, M Harrer‐Kuster, ...  
-   *Journal:* Annals of clinical and translational neurology  
-   *Year:* 2016  
-   *Citations:* 21
-
-   
-
-...
+---
 
 ## Complete List of Publications
 
