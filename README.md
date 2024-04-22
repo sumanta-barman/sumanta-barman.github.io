@@ -6,7 +6,7 @@
 
   <!-- Middle section: Additional text -->
   <div>
-    <p>Neuroimmunology Scientist, Department of Neurology,<br>University Hospital Düsseldorf, Heinrich Heine University Düsseldorf</p>
+    <p>Neuroimmunology Scientist<br>Department of Neurology<br>University Hospital Düsseldorf<br>Heinrich Heine University Düsseldorf</p>
   </div>
 
   <!-- List of links -->
