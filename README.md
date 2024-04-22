@@ -4,10 +4,10 @@
   </div>
   <div style="margin-left: 20px;"> <!-- Adjust margin as needed -->
     <ul>
-      <li><strong>Email:</strong> <a href="mailto:barman.sumanta@gmail.com">barman.sumanta@gmail.com</a></li>
-      <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/">LinkedIn Profile</a></li>
-      <li><strong>GitHub:</strong> <a href="https://github.com/sumanta-barman">GitHub Profile</a></li>
-      <li><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en">Google Scholar Profile</a></li>
+      <li><strong>Email:</strong> <a href="mailto:barman.sumanta@gmail.com"></a></li>
+      <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/"></a></li>
+      <li><strong>GitHub:</strong> <a href="https://github.com/sumanta-barman"></a></li>
+      <li><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en"></a></li>
     </ul>
   </div>
 </div>
