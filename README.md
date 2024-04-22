@@ -70,31 +70,33 @@ I have extensive expertise in evaluating the treatment effect of various disease
    *Year:* 2017  
    *Citations:* 115
 
-2. **N‐methyl‐D‐aspartate receptor antibodies in autoimmune encephalopathy alter oligodendrocyte function**  
+   <a href="[URL_TO_PAPER](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444)"><img src="[THUMBNAIL_URL](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444)" alt="Thumbnail"></a>
+
+3. **N‐methyl‐D‐aspartate receptor antibodies in autoimmune encephalopathy alter oligodendrocyte function**  
    *Authors:* C Matute, A Palma, MP Serrano‐Regal, E Maudes, S Barman, ...  
    *Journal:* Annals of neurology  
    *Year:* 2020  
    *Citations:* 32
 
-3. **Alemtuzumab-induced immune phenotype and repertoire changes: implications for secondary autoimmunity**  
+4. **Alemtuzumab-induced immune phenotype and repertoire changes: implications for secondary autoimmunity**  
    *Authors:* T Ruck, S Barman, A Schulte-Mecklenbeck, S Pfeuffer, F Steffen, C Nelke, ...  
    *Journal:* Brain  
    *Year:* 2022  
    *Citations:* 29
 
-4. **Multimodal electrophysiological analyses reveal that reduced synaptic excitatory neurotransmission underlies seizures in a model of NMDAR antibody-mediated encephalitis**  
+5. **Multimodal electrophysiological analyses reveal that reduced synaptic excitatory neurotransmission underlies seizures in a model of NMDAR antibody-mediated encephalitis**  
    *Authors:* SK Wright, RE Rosch, MA Wilson, MA Upadhya, DR Dhangar, ...  
    *Journal:* Communications biology  
    *Year:* 2021  
    *Citations:* 22
 
-5. **Dose‐dependent inhibition of demyelination and microglia activation by IVIG**  
+6. **Dose‐dependent inhibition of demyelination and microglia activation by IVIG**  
    *Authors:* M Winter, C Baksmeier, J Steckel, S Barman, M Malviya, M Harrer‐Kuster, ...  
    *Journal:* Annals of clinical and translational neurology  
    *Year:* 2016  
    *Citations:* 21
 
-6. **Genetic diversity analysis of chewing sugarcane (Saccharum officinarum L.) varieties by using RAPD markers**  
+7. **Genetic diversity analysis of chewing sugarcane (Saccharum officinarum L.) varieties by using RAPD markers**  
    *Authors:* SM Sarid Ullah, MA Hossain, MM Hossain, S Barman, MM Hasan Sohag, ...  
    *Journal:* Journal of BioScience & Biotechnology  
    *Year:* 2013  
