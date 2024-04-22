@@ -1,12 +1,3 @@
-# sumanta-barman.github.io
-
-
-
-# Sumanta Barman, PhD
-
-
-
-
 <img src="SB.jpg" alt="Profile Picture" width="200">
 
 
