@@ -98,9 +98,17 @@ I have extensive expertise in evaluating the treatment effect of various disease
    
    <a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full"><img src="https://www.frontiersin.org/files/Articles/1198860/fimmu-14-1198860-HTML/image_m/fimmu-14-1198860-g004.jpg" alt="Thumbnail" width="300"></a>
    
+5. **[N‐methyl‐D‐aspartate receptor antibodies in autoimmune encephalopathy alter oligodendrocyte function](https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25699)**  
+   *Authors:* Carlos Matute, Ana Palma, María Paz Serrano‐Regal, Estibaliz Maudes, <strong>Sumanta Barman#</strong>, María Victoria Sánchez‐Gómez, María Domercq, Norbert Goebels, Josep Dalmau. 
+   
+   *Journal:* Annals of neurology  
+   *Year:* 2020
+   
+   <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25699"><img src="ana25699-fig-0001-m.png" alt="Thumbnail" width="300"></a>
+
 
 3. **N‐methyl‐D‐aspartate receptor antibodies in autoimmune encephalopathy alter oligodendrocyte function**  
-   *Authors:* C Matute, A Palma, MP Serrano‐Regal, E Maudes, S Barman, ...  
+   *Authors:* Carlos Matute, Ana Palma, María Paz Serrano‐Regal, Estibaliz Maudes, <strong>Sumanta Barman#</strong>, María Victoria Sánchez‐Gómez, María Domercq, Norbert Goebels, Josep Dalmau 
    *Journal:* Annals of neurology  
    *Year:* 2020  
    *Citations:* 32
