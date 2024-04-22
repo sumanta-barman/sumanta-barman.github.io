@@ -88,7 +88,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
    *Journal:* International Journal of Molecular Sciences  
    *Year:* 2023
    
-   <a href="https://www.mdpi.com/1422-0067/24/1/248"><img src="ttps://www.mdpi.com/ijms/ijms-24-00248/article_deploy/html/images/ijms-24-00248-g001.png" alt="Thumbnail" width="200"></a>
+   <a href="https://www.mdpi.com/1422-0067/24/1/248"><img src="https://www.mdpi.com/ijms/ijms-24-00248/article_deploy/html/images/ijms-24-00248-g001.png" alt="Thumbnail" width="200"></a>
 
 4. **[Classifying flow cytometry data using Bayesian analysis helps to distinguish ALS patients from healthy controls](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full)**  
    *Authors:* Saskia Räuber, Christopher Nelke, Christina B Schroeter,  <strong>Sumanta Barman</strong>, Marc Pawlitzki, Jens Ingwersen, Katja Akgün, Rene Günther, Alejandra P Garza, Michaela Marggraf, Ildiko Rita Dunay, Stefanie Schreiber, Stefan Vielhaber, Tjalf Ziemssen, Nico Melzer, Tobias Ruck, Sven G Meuth, Michael Herty.
