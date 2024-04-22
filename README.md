@@ -9,7 +9,7 @@
     <!-- Additional text -->
     University Hospital Düsseldorf, Heinrich Heine University Düsseldorf
 
-    <!-- List of links -->
+  <!-- List of links -->
   <div>
     <ul style="list-style: none; padding: 0;">
       <li style="margin-bottom: 10px;"><a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/" style="margin-left: 60px;"><strong>LinkedIn</strong></a></li>
