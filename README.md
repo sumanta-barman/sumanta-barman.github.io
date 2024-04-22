@@ -2,7 +2,7 @@
 
 
 
-# Dr. Sumanta Barman
+# Sumanta Barman, PhD
 
 
 
@@ -24,8 +24,8 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 ## Expertise
 
-- **Immunogenomics/Transcriptomics**
-- **NGS Data Analysis**
+- **Next generation sequencing library preparation**
+- **Immunogenomics/Transcriptomics/Proteomics data analysis**
 - **Single B Cell Recombinant Antibodies**
 - **Bioinformatics**
 - **Bulk and Single Cell RNA-Seq Analysis**
@@ -51,7 +51,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
 ## Tools & Technologies
 
 - **Programming:** Python, R
-- **Data Analysis:** Pandas, NumPy, SciPy
+- **Data Analysis:** Pandas, NumPy, SciPy, Seurat, Scanpy, Scvitolls
 - **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
 - **Bioinformatics:** BWA, SAMtools, Bioconductor
 - **Statistical Analysis:** RStudio, SPSS, GraphPad Prism
