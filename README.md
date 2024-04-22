@@ -70,7 +70,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
    *Year:* 2017  
    *Citations:* 115
 
-   <a href="[URL_TO_PAPER](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444)"><img src="[THUMBNAIL_URL](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444)" alt="Thumbnail"></a>
+   <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444"><img src="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444" alt="Thumbnail"></a>
 
 3. **N‐methyl‐D‐aspartate receptor antibodies in autoimmune encephalopathy alter oligodendrocyte function**  
    *Authors:* C Matute, A Palma, MP Serrano‐Regal, E Maudes, S Barman, ...  
