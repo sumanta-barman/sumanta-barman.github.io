@@ -64,13 +64,14 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 ## Selected Publications
 
-1. **NMDAR encephalitis: passive transfer from man to mouse by a recombinant antibody**  
+1. **NMDAR encephalitis: passive transfer from man to mouse by a recombinant antibody([https://example.com/paper1](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444))**  
    *Authors:* M Malviya, S Barman, KS Golombeck, J Planagumà, F Mannara, ...  
    *Journal:* Annals of clinical and translational neurology  
    *Year:* 2017  
    *Citations:* 115
 
-   <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444"><img src="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444" alt="Thumbnail"></a>
+   <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444"><img src="https://onlinelibrary.wiley.com/cms/asset/20fe6556-ba39-4887-9dbb-0d067072d452/acn3444-fig-0004-m.jpg" alt="Thumbnail"></a>
+
 
 3. **N‐methyl‐D‐aspartate receptor antibodies in autoimmune encephalopathy alter oligodendrocyte function**  
    *Authors:* C Matute, A Palma, MP Serrano‐Regal, E Maudes, S Barman, ...  
