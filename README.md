@@ -1,16 +1,16 @@
 <div style="display: flex; align-items: center;">
   <!-- Left side: Profile picture -->
-  <div style="margin-right: 20px;">
+  <div style="margin-right: 30px;">
     <img src="SB.jpg" alt="Profile Picture" width="150">
   </div>
 
   <!-- Right side: List of links -->
   <div>
     <ul style="list-style: none; padding: 0;">
-      <li style="margin-bottom: 10px;"><a href="mailto:barman.sumanta@gmail.com"><strong>Email</strong></a></li>
       <li style="margin-bottom: 10px;"><a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/"><strong>LinkedIn</strong></a></li>
-      <li style="margin-bottom: 10px;"><a href="https://github.com/sumanta-barman"><strong>GitHub</strong></a></li>
       <li><a href="https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en"><strong>Google Scholar</strong></a></li>
+      <li style="margin-bottom: 10px;"><a href="https://github.com/sumanta-barman"><strong>GitHub</strong></a></li>
+      
     </ul>
   </div>
 </div>
