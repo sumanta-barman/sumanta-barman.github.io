@@ -69,9 +69,9 @@ I have extensive expertise in evaluating the treatment effect of various disease
    *Journal:* Annals of clinical and translational neurology  
    *Year:* 2017  
    *Citations:* 115
-   *1 - Contributed equally*
+   *1* - Contributed equally
 
-   <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444"><img src="https://onlinelibrary.wiley.com/cms/asset/20fe6556-ba39-4887-9dbb-0d067072d452/acn3444-fig-0004-m.jpg" alt="Thumbnail" width="100"></a>
+   <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444"><img src="https://onlinelibrary.wiley.com/cms/asset/20fe6556-ba39-4887-9dbb-0d067072d452/acn3444-fig-0004-m.jpg" alt="Thumbnail" width="200"></a>
 
 
 3. **N‐methyl‐D‐aspartate receptor antibodies in autoimmune encephalopathy alter oligodendrocyte function**  
