@@ -70,7 +70,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
    *Journal:* Brain  
    *Year:* 2022
 
-    <a href="https://academic.oup.com/brain/article/145/5/1711/6590581"><img src="https://academic.oup.com/view-large/figure/357455848/awac064f4.tif" alt="Thumbnail" width="200"></a>
+    <a href="https://academic.oup.com/brain/article/145/5/1711/6590581"><img src="awac064f4.jpeg" alt="Thumbnail" width="200"></a>
     
 
 2. **[NMDAR encephalitis: passive transfer from man to mouse by a recombinant antibody](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444)**  
