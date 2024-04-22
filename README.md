@@ -1,5 +1,20 @@
 <img src="SB.jpg" alt="Profile Picture" width="200">
 
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="SB.jpg" alt="Profile Picture" width="200">
+  </div>
+  <div style="margin-left: 20px;"> <!-- Adjust margin as needed -->
+    <ul>
+      <li><strong>Email:</strong> <a href="mailto:barman.sumanta@gmail.com">barman.sumanta@gmail.com</a></li>
+      <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/">LinkedIn Profile</a></li>
+      <li><strong>GitHub:</strong> <a href="https://github.com/sumanta-barman">GitHub Profile</a></li>
+      <li><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en">Google Scholar Profile</a></li>
+    </ul>
+  </div>
+</div>
+
+
 
 ---
 
@@ -57,7 +72,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 ## Research articals
 
-*<strong>Selected Publications<strong>*
+**<strong>Selected Publications<strong>**
 
 1. **[Alemtuzumab-induced immune phenotype and repertoire changes: implications for secondary autoimmunity](https://academic.oup.com/brain/article/145/5/1711/6590581)**  
    *Authors:* Tobias Ruck#, <strong>Sumanta Barman#</strong>, Andreas Schulte-Mecklenbeck#, Steffen Pfeuffer#, Falk Steffen, Christopher Nelke, Christina B Schroeter, Alice Willison, Michael Heming, Thomas Müntefering, Nico Melzer, Julia Krämer, Maren Lindner, Marianne Riepenhausen, Catharina C Gross, Luisa Klotz, Stefan Bittner, Paolo A Muraro, Tilman Schneider-Hohendorf, Nicholas Schwab, Gerd Meyer zu Hörste, Norbert Goebels, Sven G Meuth, Heinz Wiendl. *<strong>#equally contributing first authors</strong>*
