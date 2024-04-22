@@ -107,17 +107,16 @@ I have extensive expertise in evaluating the treatment effect of various disease
    <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25699"><img src="ana25699-fig-0001-m.png" alt="Thumbnail" width="300"></a>
 
 
-3. **N‐methyl‐D‐aspartate receptor antibodies in autoimmune encephalopathy alter oligodendrocyte function**  
-   *Authors:* Carlos Matute, Ana Palma, María Paz Serrano‐Regal, Estibaliz Maudes, <strong>Sumanta Barman#</strong>, María Victoria Sánchez‐Gómez, María Domercq, Norbert Goebels, Josep Dalmau 
-   *Journal:* Annals of neurology  
-   *Year:* 2020  
-   *Citations:* 32
+6. **[An assay to determine mechanisms of rapid autoantibody-induced neurotransmitter receptor endocytosis and vesicular trafficking in autoimmune encephalitis](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2019.00178/full)**  
+   *Authors:* Elsie Amedonu, Christoph Brenker,  <strong>Sumanta Barman#</strong>, Julian A Schreiber, Sebastian Becker, Stefan Peischard, Nathalie Strutz-Seebohm, Christine Strippel, Andre Dik, Hans-Peter Hartung, Thomas Budde, Heinz Wiendl, Timo Strünker, Bernhard Wünsch, Norbert Goebels, Sven G Meuth, Guiscard Seebohm, Nico Melzer
+   
+   *Journal:* Frontiers in Neurology  
+   *Year:* 2019
+   
+   <a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2019.00178/full"><img src="https://www.frontiersin.org/files/Articles/425928/fneur-10-00178-HTML/image_m/fneur-10-00178-g003.jpg" alt="Thumbnail" width="200"></a>
 
-5. **Alemtuzumab-induced immune phenotype and repertoire changes: implications for secondary autoimmunity**  
-   *Authors:* T Ruck, S Barman, A Schulte-Mecklenbeck, S Pfeuffer, F Steffen, C Nelke, ...  
-   *Journal:* Brain  
-   *Year:* 2022  
-   *Citations:* 29
+
+
 
 6. **Multimodal electrophysiological analyses reveal that reduced synaptic excitatory neurotransmission underlies seizures in a model of NMDAR antibody-mediated encephalitis**  
    *Authors:* SK Wright, RE Rosch, MA Wilson, MA Upadhya, DR Dhangar, ...  
@@ -131,13 +130,6 @@ I have extensive expertise in evaluating the treatment effect of various disease
    *Year:* 2016  
    *Citations:* 21
 
-8. **[Myelinating Co-Culture as a Model to Study Anti-NMDAR Neurotoxicity](https://www.mdpi.com/1422-0067/24/1/248)**  
-   *Authors:* Mercedeh Farhat Sabet, Sumanta Barman, Mathias Beller, Sven G Meuth, Nico Melzer, Orhan Aktas, Norbert Goebels, Tim Prozorovski.
-    
-   *Journal:* International Journal of Molecular Sciences
-   *Year:* 2023
-
-      <a href="https://www.mdpi.com/1422-0067/24/1/248"><img src="https://www.mdpi.com/ijms/ijms-24-00248/article_deploy/html/images/ijms-24-00248-g001.png" alt="Thumbnail" width="200"></a>
    
 
 ...
