@@ -1,4 +1,4 @@
-<img src="SB.jpg" alt="Profile Picture" width="200">
+#<img src="SB.jpg" alt="Profile Picture" width="200">
 
 <div style="display: flex; align-items: center;">
   <div>
