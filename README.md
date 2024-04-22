@@ -81,6 +81,15 @@ I have extensive expertise in evaluating the treatment effect of various disease
    <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444"><img src="https://onlinelibrary.wiley.com/cms/asset/20fe6556-ba39-4887-9dbb-0d067072d452/acn3444-fig-0004-m.jpg" alt="Thumbnail" width="200"></a>
 
 
+3. **[Myelinating Co-Culture as a Model to Study Anti-NMDAR Neurotoxicity](https://www.mdpi.com/1422-0067/24/1/248)**  
+   *Authors:* Mercedeh Farhat Sabet, <strong>Sumanta Barman#</strong>, Mathias Beller, Sven G Meuth, Nico Melzer, Orhan Aktas, Norbert Goebels, Tim Prozorovski.
+    
+   *Journal:* International Journal of Molecular Sciences
+   *Year:* 2023
+
+   <a href="https://www.mdpi.com/1422-0067/24/1/248"><img src="https://www.mdpi.com/ijms/ijms-24-00248/article_deploy/html/images/ijms-24-00248-g001.png" alt="Thumbnail" width="200"></a>
+   
+
 3. **N‐methyl‐D‐aspartate receptor antibodies in autoimmune encephalopathy alter oligodendrocyte function**  
    *Authors:* C Matute, A Palma, MP Serrano‐Regal, E Maudes, S Barman, ...  
    *Journal:* Annals of neurology  
