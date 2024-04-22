@@ -57,9 +57,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 ## Research articals
 
-# Research
-
-## Selected Publications
+*Selected Publications*
 
 1. **[Alemtuzumab-induced immune phenotype and repertoire changes: implications for secondary autoimmunity](https://academic.oup.com/brain/article/145/5/1711/6590581)**  
    *Authors:* Tobias Ruck#, <strong>Sumanta Barman#</strong>, Andreas Schulte-Mecklenbeck#, Steffen Pfeuffer#, Falk Steffen, Christopher Nelke, Christina B Schroeter, Alice Willison, Michael Heming, Thomas Müntefering, Nico Melzer, Julia Krämer, Maren Lindner, Marianne Riepenhausen, Catharina C Gross, Luisa Klotz, Stefan Bittner, Paolo A Muraro, Tilman Schneider-Hohendorf, Nicholas Schwab, Gerd Meyer zu Hörste, Norbert Goebels, Sven G Meuth, Heinz Wiendl. *<strong>#equally contributing first authors</strong>*
@@ -96,7 +94,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
    <a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full"><img src="https://www.frontiersin.org/files/Articles/1198860/fimmu-14-1198860-HTML/image_m/fimmu-14-1198860-g004.jpg" alt="Thumbnail" width="300"></a>
    
 5. **[N‐methyl‐D‐aspartate receptor antibodies in autoimmune encephalopathy alter oligodendrocyte function](https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25699)**  
-   *Authors:* Carlos Matute, Ana Palma, María Paz Serrano‐Regal, Estibaliz Maudes, <strong>Sumanta Barman#</strong>, María Victoria Sánchez‐Gómez, María Domercq, Norbert Goebels, Josep Dalmau. 
+   *Authors:* Carlos Matute, Ana Palma, María Paz Serrano‐Regal, Estibaliz Maudes, <strong>Sumanta Barman</strong>, María Victoria Sánchez‐Gómez, María Domercq, Norbert Goebels, Josep Dalmau. 
    
    *Journal:* Annals of neurology  
    *Year:* 2020
@@ -104,7 +102,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
    <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25699"><img src="ana25699-fig-0001-m.png" alt="Thumbnail" width="200"></a>
 
 6. **[An assay to determine mechanisms of rapid autoantibody-induced neurotransmitter receptor endocytosis and vesicular trafficking in autoimmune encephalitis](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2019.00178/full)**  
-   *Authors:* Elsie Amedonu, Christoph Brenker, <strong>Sumanta Barman#</strong>, Julian A Schreiber, Sebastian Becker, Stefan Peischard, Nathalie Strutz-Seebohm, Christine Strippel, Andre Dik, Hans-Peter Hartung, Thomas Budde, Heinz Wiendl, Timo Strünker, Bernhard Wünsch, Norbert Goebels, Sven G Meuth, Guiscard Seebohm, Nico Melzer
+   *Authors:* Elsie Amedonu, Christoph Brenker, <strong>Sumanta Barman</strong>, Julian A Schreiber, Sebastian Becker, Stefan Peischard, Nathalie Strutz-Seebohm, Christine Strippel, Andre Dik, Hans-Peter Hartung, Thomas Budde, Heinz Wiendl, Timo Strünker, Bernhard Wünsch, Norbert Goebels, Sven G Meuth, Guiscard Seebohm, Nico Melzer
    
    *Journal:* Frontiers in Neurology  
    *Year:* 2019
@@ -112,7 +110,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
    <a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2019.00178/full"><img src="https://www.frontiersin.org/files/Articles/425928/fneur-10-00178-HTML/image_m/fneur-10-00178-g003.jpg" alt="Thumbnail" width="300"></a>
 
 7. **[Dose‐dependent inhibition of demyelination and microglia activation by IVIG](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.326)**  
-   *Authors:* Meike Winter, Christine Baksmeier, Julia Steckel, <strong>Sumanta Barman#</strong>, Manish Malviya, Melanie Harrer‐Kuster, Hans‐Peter Hartung, Norbert Goebels
+   *Authors:* Meike Winter, Christine Baksmeier, Julia Steckel, <strong>Sumanta Barman</strong>, Manish Malviya, Melanie Harrer‐Kuster, Hans‐Peter Hartung, Norbert Goebels
    
    *Journal:* Annals of clinical and translational neurology  
    *Year:* 2016
