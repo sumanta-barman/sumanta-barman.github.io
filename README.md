@@ -12,7 +12,7 @@
   <!-- Right side: Logos for LinkedIn, Google Scholar, GitHub -->
   <div>
     <ul style="list-style: none; padding: 0;">
-      <li style="margin-bottom: 10px;"><a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/" style="margin-left: 200px;"><img src="linkedin_logo.png" alt="LinkedIn" width="30"></a></li>
+      <li style="margin-bottom: 10px;"><a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/" style="margin-left: 200px;"><img src="linkedIn_logo.png" alt="LinkedIn" width="30"></a></li>
       <li style="margin-bottom: 10px;"><a href="https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en" style="margin-left: 200px;"><img src="google_scholar_logo.png" alt="Google Scholar" width="30"></a></li>
       <li style="margin-bottom: 10px;"><a href="https://github.com/sumanta-barman" style="margin-left: 200px;"><img src="github_logo.png" alt="GitHub" width="30"></a></li>
     </ul>
