@@ -9,19 +9,9 @@
 
 I am a research scientist specializing in Central Nervous System (CNS) autoimmune diseases with expertise in immunology, molecular biology, immunogenomics, transcriptomics, proteomics and bioinformatics. My work focuses on analyzing human immune repertoires using next-generation sequencing (NGS) and exploring the potential of AI in precision medicine. As a highly skilled research scientist with a focus on Central nervous system (CNS) autoimmune diseases, I possess extensive expertise in various aspects of human immune repertoire (IR) analysis, "-omics" technologies, especially immunogenomics/transcriptomics, single B cell recombinant antibody technology, and bioinformatics. My expertise in next-generation sequencing (NGS), both in laboratory and computational, as well as my proficiency in bulk and single cell RNA-Seq data analysis (IR & Transcriptomics), quantitative PCR, flow cytometry, affinity chromatography, cell culture, and more, allow me to extract valuable insights and drive progress in the field of neuroimmunology. My mastery of data analysis using Python and R, alongside machine learning and deep learning-based tools, empowers me to make informed decisions based on data and evidence. In addition, I possess good knowledge of statistical approaches, utilizing tools such as R, SPSS and GraphPad Prism, to derive meaningful insights and statistical interpretations in research. Furthermore, I am deeply enthusiastic about the application of artificial intelligence (AI) in healthcare and its potential to revolutionize precision medicine.
 
-</div>
-
-
-
-<div style="text-align: justify;">
   
 My dedication and perseverance have resulted in numerous scientific publications and presentations, both oral and poster, at international conferences. Additionally, I have had the opportunity to mentor multi-cultural students in all aspects of research, including project conception, methodology, data analysis, presentation, and report writing for bachelor's, master's, and PhD theses.
 
-</div>
-
-
-
-<div style="text-align: justify;">
   
 I have extensive expertise in evaluating the treatment effect of various disease-modifying therapies, including Alemtuzumab (Lemtrada) from Sanofi-Genzyme, Fingolimod (Gilenya) from Novartis, and Ocrelizumab (Ocrevus) from Roche, on the peripheral immune repertoire of multiple sclerosis patients. I also have experience in the development of recombinant human monoclonal antibodies from clonally expanded plasma cells (cePc) of patients with autoimmune and viral encephalitis. In addition, I have a comprehensive understanding of multi-omics technologies, as well as proficiency in R, Python, deep learning, and machine learning-based biological data analysis.
 
