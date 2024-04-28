@@ -113,8 +113,11 @@ I have extensive expertise in evaluating the treatment effect of various disease
    *Authors:* <strong>Sumanta Barman et al.</strong>
    
    *Ready to submit*   
-   
-   <a src="PatB_visualizations.jpg" alt="Thumbnail" width="300">
+
+   <div style="margin-right: 30px;">
+    <img src="PatB_visualizations.jpg" alt="Thumbnail" width="300">
+  </div>
+
     
 *Neuroimmunology:*
 
