@@ -114,7 +114,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
    
    *Ready to submit*   
    
-   <a src="PatB_visualizations.jpg" alt="Thumbnail" width="300"></a>
+   <a src="PatB_visualizations.jpg" alt="Thumbnail" width="300">
     
 *Neuroimmunology:*
 
