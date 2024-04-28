@@ -141,7 +141,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
    *Journal:* Frontiers in Neurology  
    *Year:* 2019
    
-   <a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2019.00178/full"><img src="https://www.frontiersin.org/files/Articles/425928/fneur-10-00178-HTML/image_m/fneur-10-00178-g003.jpg" alt="Thumbnail" width="300"></a>
+   <a src="https://www.frontiersin.org/files/Articles/425928/fneur-10-00178-HTML/image_m/fneur-10-00178-g003.jpg" alt="Thumbnail" width="300"></a>
 
 4. **[Dose‐dependent inhibition of demyelination and microglia activation by IVIG](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.326)**  
    *Authors:* Meike Winter, Christine Baksmeier, Julia Steckel, <strong>Sumanta Barman</strong>, Manish Malviya, Melanie Harrer‐Kuster, Hans‐Peter Hartung, Norbert Goebels
