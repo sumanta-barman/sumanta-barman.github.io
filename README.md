@@ -114,7 +114,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
    
    *Ready to submit*   
    
-   <a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full"><img src="PatB_visualizations.jpg" alt="Thumbnail" width="300"></a>
+   <a src="PatB_visualizations.jpg" alt="Thumbnail" width="300"></a>
     
 *Neuroimmunology:*
 
