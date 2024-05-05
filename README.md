@@ -121,7 +121,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
    
    *Under review* 
    
-5. **Dynamic Reshaping of Lymphocyte Repertoires in Multiple Sclerosis Patients Treated with Alemtuzumab: Insights into Secondary Autoimmunity**  
+5. **Dynamic reshaping of lymphocyte repertoires in multiple sclerosis patients treated with Alemtuzumab: Insights into secondary autoimmunity**  
    *Authors:* <strong>Sumanta Barman et al.</strong>
    
    *Ready to submit*   
