@@ -23,16 +23,6 @@
 
 ---
 
-
-<!-- Main Content Container -->
-<div style="display: flex; align-items: flex-start;">
-
-  <!-- Left side: Profile Picture (Circle) and Additional Text -->
-  <div style="margin-right: 30px;">
-    <img src="SB.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
-    <p style="margin-top: 10px;">Neuroimmunology Scientist<br>Department of Neurology<br>University Hospital Düsseldorf<br>Heinrich Heine University Düsseldorf</p>
-  </div>
-
   <!-- Middle section: Main Content -->
   <div style="flex: 1;">
     <!-- Anchor links and section headings (Table of Contents) -->
