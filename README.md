@@ -129,7 +129,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
    *Journal:* Nature communications  
    *Year:* 2024
    
-   Accepted 
+   *Accepted*
    *Journal:* Nature communications 
    *Year:* 2024
 
