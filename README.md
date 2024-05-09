@@ -128,17 +128,17 @@ I have extensive expertise in evaluating the treatment effect of various disease
    *Journal:* Nature communications (Accepted)  
    *Year:* 2024
 
-5. **Consensus clustering identifies disease subtypes of myasthenia gravis**  
+4. **Consensus clustering identifies disease subtypes of myasthenia gravis**  
    *Authors:* Christopher Nelke, Christina B. Schroeter, <strong>Sumanta Barman</strong>, Frauke Stascheit, Lars Masanneck, Lukas Theissen, Niklas Huntemann, Derya Cengiz, Vera Dobelmann, Marc Pawlitzki, Saskia Räuber, Hans-Peter Hartung, Simone König, Andreas Roos, Andreas Meisel, Sven G. Meuth, Tobias Ruck.
    
    *Under review* 
    
-6. **Dynamic reshaping of lymphocyte repertoires in multiple sclerosis patients treated with Alemtuzumab: Insights into secondary autoimmunity**  
+5. **Dynamic reshaping of lymphocyte repertoires in multiple sclerosis patients treated with Alemtuzumab: Insights into secondary autoimmunity**  
    *Authors:* <strong>Sumanta Barman et al.</strong>
    
    *Ready to submit*   
 
-7. **Anti GAD encephalitis**  
+6. **Anti GAD encephalitis**  
    *Authors:* <strong>Sumanta Barman et al.</strong>
    
    *On preparation*   
