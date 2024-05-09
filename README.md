@@ -31,85 +31,66 @@
 
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sumanta Barman - Neuroimmunology Scientist</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Get all heading elements (h2 or h3) inside the .content area
+    const headings = document.querySelectorAll(".content h2, .content h3");
+    const sidebar = document.createElement("div");
+    sidebar.className = "sidebar";
+
+    // Create a navigation menu based on headings
+    headings.forEach(function(heading) {
+      const anchor = document.createElement("a");
+      anchor.textContent = heading.textContent;
+      anchor.href = `#${heading.id}`;
+      anchor.classList.add("sidebar-link");
+      sidebar.appendChild(anchor);
+    });
+
+    // Append sidebar to the document body
+    document.body.appendChild(sidebar);
+
+    // Handle scroll events to highlight active section in sidebar
+    window.addEventListener("scroll", function() {
+      const scrollPosition = window.scrollY || window.pageYOffset;
+      headings.forEach(function(heading) {
+        const rect = heading.getBoundingClientRect();
+        const offsetTop = rect.top + scrollPosition;
+        const offsetBottom = offsetTop + rect.height;
+
+        if (scrollPosition >= offsetTop && scrollPosition < offsetBottom) {
+          document.querySelectorAll(".sidebar-link").forEach(function(link) {
+            link.classList.remove("active");
+          });
+          document.querySelector(`.sidebar a[href="#${heading.id}"]`).classList.add("active");
         }
-        .sidebar {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 200px;
-            height: 100%;
-            background-color: #f5f5f5;
-            padding: 20px;
-            overflow-y: auto;
-        }
-        .content {
-            margin-left: 220px; /* Adjust based on sidebar width */
-            padding: 20px;
-        }
-        h2 {
-            margin-top: 0;
-        }
-        .active {
-            font-weight: bold;
-            color: blue; /* Change color as desired */
-        }
-    </style>
-</head>
-<body>
-    <!-- Sidebar Navigation -->
-    <div class="sidebar">
-        <ul>
-            <li><a href="#biography">Biography</a></li>
-            <li><a href="#about-me">About Me</a></li>
-        </ul>
-    </div>
+      });
+    });
+  });
+</script>
 
-    <!-- Main Content -->
-   <div class="content">
-        <div id="biography">
-            <h2>Biography</h2>
-            <p>Sumanta Barman is a neuroimmunology scientist, specialized in computational immunology at the Department of Neurology, University Hospital Düsseldorf...</p>
-        </div>
+<style>
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px;
+    padding: 20px;
+    background-color: #f5f5f5;
+  }
 
-  <div id="about-me">
-            <h2>About Me</h2>
-            <p>I have this code for a GitHub website. I want to make titles such as Biography, About Me clickable on the left side where clicking directs to the corresponding section...</p>
-        </div>
-    </div>
+  .sidebar-link {
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: #333;
+  }
 
-    <!-- Script for Highlighting Active Section -->
-  <script>
-        window.onscroll = function() {
-            var sections = document.querySelectorAll('.content > div');
-            var sidebarLinks = document.querySelectorAll('.sidebar a');
-            var scrollPosition = window.scrollY || window.pageYOffset;
-
-            sections.forEach(function(current, index) {
-                var top = current.offsetTop;
-                var bottom = top + current.offsetHeight;
-
-                if (scrollPosition >= top && (scrollPosition < bottom || index === sections.length - 1)) {
-                    sidebarLinks[index].classList.add('active');
-                } else {
-                    sidebarLinks[index].classList.remove('active');
-                }
-            });
-        };
-    </script>
-</body>
-</html>
-
+  .sidebar-link.active {
+    font-weight: bold;
+    color: #007bff; /* Active link color */
+  }
+</style>
 
 
 
