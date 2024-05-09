@@ -128,7 +128,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
    *Journal:* Nature communications (Accepted)
    *Year:* 2024
 
-   *Journal:* Frontiers in Immunology (Accepted)  
+   *Journal:* Nature communications (Accepted)  
    *Year:* 2024
 
 5. **TConsensus clustering identifies disease subtypes of myasthenia gravis**  
