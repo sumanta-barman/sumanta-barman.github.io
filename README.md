@@ -34,6 +34,8 @@
 
 ## Biography
 
+<div style="text-align: justify;">
+
 Sumanta Barman is an neuroimmunology scientist, specialized in computational immulogy at the department of Neurology, University Hospital Düsseldorf. He is involved in analysing single cell multiomics, next generation sequencing and bioinformatics data, investigating treatment effects of immunotherapies on patients’ immune repertoire, as well as the development and characterization of recombinant human monoclonal antibodiesRecombinant antibody technology.
 
 ## About Me
@@ -205,11 +207,15 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 ## Contact Me
 
- <li ><a href="mailto:barman.sumanta@gmail.com" style="margin-left: 300px;"><img src="Email-logo.png" alt="Email" width="30"></a></li>
+[Email me] <li ><a href="mailto:barman.sumanta@gmail.com"><img src="Email-logo.png" alt="Email" width="30"></a></li>
+
+ 
+
+ [Email](mailto:barman.sumanta@gmail.com)
 
 ---
 
 Feel free to reach out if you are interested in collaboration or have any inquiries related to my research!
-[Email](mailto:barman.sumanta@gmail.com)
+
 
 
