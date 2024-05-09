@@ -1,3 +1,36 @@
+<div style="display: flex; align-items: center;">
+  <!-- Left side: Profile picture (circle) -->
+  <div style="margin-right: 30px;">
+    <img src="SB.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
+  </div>
+
+  <!-- Middle section: Additional text -->
+  <div>
+    <p>Neuroimmunology Scientist<br>Department of Neurology<br>University Hospital Düsseldorf<br>Heinrich Heine University Düsseldorf</p>
+  </div>
+
+  <!-- Right side: Logos for LinkedIn, Google Scholar, GitHub -->
+  <div>
+    <ul style="list-style: none; padding: 0;">
+      <li style="margin-bottom: 8px;"><a href="mailto:barman.sumanta@gmail.com" style="margin-left: 300px;"><img src="Email-logo.png" alt="Email" width="30"></a></li>
+      <li style="margin-bottom: 8px;"><a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/" style="margin-left: 300px;"><img src="linkedIn_logo.png" alt="LinkedIn" width="30"></a></li>
+      <li style="margin-bottom: 8px;"><a href="https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en" style="margin-left: 300px;"><img src="google_scholar_logo.png" alt="Google Scholar" width="30"></a></li>
+      <li style="margin-bottom: 8px;"><a href="https://github.com/sumanta-barman" style="margin-left: 300px;"><img src="github-logo.png" alt="GitHub" width="30"></a></li>
+    </ul>
+  </div>
+</div>
+
+
+---
+
+<!-- Anchor links and section headings -->
+<div style="margin-top: 20px;">
+  <a href="#biography">Biography</a> | <a href="#about-me">About Me</a> | <a href="#expertise">Expertise</a> | <a href="#research-highlights">Research Highlights</a> | <a href="#tools-&-Technologies">Tools & Technologies</a> | <a href="#professional-experience">Professional Experience</a> | <a href="#education">Education</a> | <a href="#research-articals">Research Articals</a> | <a href="#complete-list-of-publications ">Complete List of Publications </a> | <a href="#contact-me">Contact Me</a> 
+  
+</div>
+
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -80,42 +113,6 @@
 
 
 
-
-
-
-
-<div style="display: flex; align-items: center;">
-  <!-- Left side: Profile picture (circle) -->
-  <div style="margin-right: 30px;">
-    <img src="SB.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
-  </div>
-
-  <!-- Middle section: Additional text -->
-  <div>
-    <p>Neuroimmunology Scientist<br>Department of Neurology<br>University Hospital Düsseldorf<br>Heinrich Heine University Düsseldorf</p>
-  </div>
-
-  <!-- Right side: Logos for LinkedIn, Google Scholar, GitHub -->
-  <div>
-    <ul style="list-style: none; padding: 0;">
-      <li style="margin-bottom: 8px;"><a href="mailto:barman.sumanta@gmail.com" style="margin-left: 300px;"><img src="Email-logo.png" alt="Email" width="30"></a></li>
-      <li style="margin-bottom: 8px;"><a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/" style="margin-left: 300px;"><img src="linkedIn_logo.png" alt="LinkedIn" width="30"></a></li>
-      <li style="margin-bottom: 8px;"><a href="https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en" style="margin-left: 300px;"><img src="google_scholar_logo.png" alt="Google Scholar" width="30"></a></li>
-      <li style="margin-bottom: 8px;"><a href="https://github.com/sumanta-barman" style="margin-left: 300px;"><img src="github-logo.png" alt="GitHub" width="30"></a></li>
-    </ul>
-  </div>
-</div>
-
-
----
-
-<!-- Anchor links and section headings -->
-<div style="margin-top: 20px;">
-  <a href="#biography">Biography</a> | <a href="#about-me">About Me</a> | <a href="#expertise">Expertise</a> | <a href="#research-highlights">Research Highlights</a> | <a href="#tools-&-Technologies">Tools & Technologies</a> | <a href="#professional-experience">Professional Experience</a> | <a href="#education">Education</a> | <a href="#research-articals">Research Articals</a> | <a href="#complete-list-of-publications ">Complete List of Publications </a> | <a href="#contact-me">Contact Me</a> 
-  
-</div>
-
----
 
 
 ## Biography
