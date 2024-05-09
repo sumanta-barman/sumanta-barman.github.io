@@ -41,18 +41,11 @@
     <!-- Anchor links and section headings (Table of Contents) -->
     <div style="position: sticky; top: 20px;">
       <ul style="list-style: none; padding-left: 0;">
-        <li><a href="#biography">Biography</a></li>
-        <li><a href="#about-me">About Me</a></li>
-        <li><a href="#expertise">Expertise</a></li>
-        <li><a href="#research-highlights">Research Highlights</a></li>
-        <li><a href="#tools-technologies">Tools & Technologies</a></li>
-        <li><a href="#professional-experience">Professional Experience</a></li>
-        <li><a href="#education">Education</a></li>
-        <li><a href="#research-articles">Research Articles</a></li>
-        <li><a href="#complete-list-of-publications">Complete List of Publications</a></li>
-        <li><a href="#contact-me">Contact Me</a></li>
-      </ul>
-    </div>
+       <div style="margin-top: 20px;">
+  <a href="#biography">Biography</a> | <a href="#about-me">About Me</a> | <a href="#expertise">Expertise</a> | <a href="#research-highlights">Research Highlights</a> | <a href="#tools-&-Technologies">Tools & Technologies</a> | <a href="#professional-experience">Professional Experience</a> | <a href="#education">Education</a> | <a href="#research-articals">Research Articals</a> | <a href="#complete-list-of-publications ">Complete List of Publications </a> | <a href="#contact-me">Contact Me</a> 
+  
+   </ul>
+   </div>
 
 
 
