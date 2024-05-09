@@ -126,7 +126,9 @@ I have extensive expertise in evaluating the treatment effect of various disease
    *Authors:* Nicole Caduff, Lisa Rieble1, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz.
 
    *Journal:* Nature communications (Accepted)
-   
+   *Year:* 2024
+
+   *Journal:* Frontiers in Immunology (Accepted)  
    *Year:* 2024
 
 5. **TConsensus clustering identifies disease subtypes of myasthenia gravis**  
