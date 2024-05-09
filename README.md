@@ -23,10 +23,7 @@
 
 ---
 
-  <!-- Middle section: Main Content -->
-  <div style="flex: 1;">
-    <!-- Anchor links and section headings (Table of Contents) -->
-    <div style="position: sticky; top: 20px;">
+  <div style="position: sticky; top: 100px; padding-right: 20px; width: 200px;">
       <ul style="list-style: none; padding-left: 0;">
         <a href="#biography" style="margin-right: 10px;">Biography</a> |
         <a href="#about-me" style="margin-right: 10px;">About Me</a> |
