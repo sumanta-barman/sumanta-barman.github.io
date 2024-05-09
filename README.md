@@ -128,7 +128,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
    *Journal:* Nature communications (Accepted)  
    *Year:* 2024
 
-5. **TConsensus clustering identifies disease subtypes of myasthenia gravis**  
+5. **Consensus clustering identifies disease subtypes of myasthenia gravis**  
    *Authors:* Christopher Nelke, Christina B. Schroeter, <strong>Sumanta Barman</strong>, Frauke Stascheit, Lars Masanneck, Lukas Theissen, Niklas Huntemann, Derya Cengiz, Vera Dobelmann, Marc Pawlitzki, Saskia Räuber, Hans-Peter Hartung, Simone König, Andreas Roos, Andreas Meisel, Sven G. Meuth, Tobias Ruck.
    
    *Under review* 
@@ -138,9 +138,10 @@ I have extensive expertise in evaluating the treatment effect of various disease
    
    *Ready to submit*   
 
-   <div>
-    <img src="PatB_visualizations.jpg" alt="Thumbnail" width="300">
-  </div>
+7. **Anti GAD encephalitis**  
+   *Authors:* <strong>Sumanta Barman et al.</strong>
+   
+   *On preparation*   
 
     
 *Neuroimmunology:*
