@@ -125,16 +125,16 @@ I have extensive expertise in evaluating the treatment effect of various disease
 3. **T cell specificity and protective functions elicited by KSHV infection of B cells in vivo**  
    *Authors:* Nicole Caduff, Lisa Rieble1, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz.
    
-   *Accepted* 
+   Accepted 
    *Journal:* Nature communications 
    *Year:* 2024
 
-4. **TConsensus clustering identifies disease subtypes of myasthenia gravis**  
+5. **TConsensus clustering identifies disease subtypes of myasthenia gravis**  
    *Authors:* Christopher Nelke, Christina B. Schroeter, <strong>Sumanta Barman</strong>, Frauke Stascheit, Lars Masanneck, Lukas Theissen, Niklas Huntemann, Derya Cengiz, Vera Dobelmann, Marc Pawlitzki, Saskia Räuber, Hans-Peter Hartung, Simone König, Andreas Roos, Andreas Meisel, Sven G. Meuth, Tobias Ruck.
    
    *Under review* 
    
-5. **Dynamic reshaping of lymphocyte repertoires in multiple sclerosis patients treated with Alemtuzumab: Insights into secondary autoimmunity**  
+6. **Dynamic reshaping of lymphocyte repertoires in multiple sclerosis patients treated with Alemtuzumab: Insights into secondary autoimmunity**  
    *Authors:* <strong>Sumanta Barman et al.</strong>
    
    *Ready to submit*   
