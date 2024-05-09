@@ -205,7 +205,8 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 ## Contact Me
 
-- [Email](mailto:barman.sumanta@gmail.com)
+- [src="Email-logo.png" alt="Email" width="30"](mailto:barman.sumanta@gmail.com)
+- src="Email-logo.png" alt="Email" width="30"
 
 ---
 
