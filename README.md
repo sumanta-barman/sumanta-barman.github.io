@@ -25,7 +25,8 @@
 
 <!-- Anchor links and section headings -->
 <div style="margin-top: 20px;">
-  <a href="#biography">Biography</a> | <a href="#about-me">About Me</a>
+  <a href="#biography">Biography</a> | <a href="#about-me">About Me</a> | <a href="#expertise">Expertise</a> | <a href="#research-highlights">Research Highlights</a> | <a href="#tools-&-Technologies">Tools & Technologies</a> | <a href="#professional-experience">Professional Experience</a> | <a href="#education">Education</a> | <a href="#research-articals">Research articals</a> | <a href="#complete-list-of-publications ">Complete List of Publications </a> | <a href="#contact-me">Contact Me</a> 
+  
 </div>
 
 ---
