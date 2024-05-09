@@ -25,7 +25,7 @@
 
 <!-- Anchor links and section headings -->
 <div style="margin-top: 20px;">
-  <a href="#biography">Biography</a> | <a href="#about-me">About Me</a> | <a href="#expertise">Expertise</a> | <a href="#research-highlights">Research Highlights</a> | <a href="#tools-&-Technologies">Tools & Technologies</a> | <a href="#professional-experience">Professional Experience</a> | <a href="#education">Education</a> | <a href="#research-articals">Research articals</a> | <a href="#complete-list-of-publications ">Complete List of Publications </a> | <a href="#contact-me">Contact Me</a> 
+  <a href="#biography">Biography</a> | <a href="#about-me">About Me</a> | <a href="#expertise">Expertise</a> | <a href="#research-highlights">Research Highlights</a> | <a href="#tools-&-Technologies">Tools & Technologies</a> | <a href="#professional-experience">Professional Experience</a> | <a href="#education">Education</a> | <a href="#research-articals">Research Articals</a> | <a href="#complete-list-of-publications ">Complete List of Publications </a> | <a href="#contact-me">Contact Me</a> 
   
 </div>
 
@@ -37,6 +37,8 @@
 <div style="text-align: justify;">
 
 Sumanta Barman is an neuroimmunology scientist, specialized in computational immulogy at the department of Neurology, University Hospital Düsseldorf. He is involved in analysing single cell multiomics, next generation sequencing and bioinformatics data, investigating treatment effects of immunotherapies on patients’ immune repertoire, as well as the development and characterization of recombinant human monoclonal antibodiesRecombinant antibody technology.
+
+</div>
 
 ## About Me
 
@@ -98,7 +100,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 ---
 
-## Research articals
+## Research Articals
 
 <strong>Selected Publications<strong>
 
