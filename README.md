@@ -125,9 +125,6 @@ I have extensive expertise in evaluating the treatment effect of various disease
 3. **T cell specificity and protective functions elicited by KSHV infection of B cells in vivo**  
    *Authors:* Nicole Caduff, Lisa Rieble1, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz.
 
-   *Journal:* Nature communications (Accepted)
-   *Year:* 2024
-
    *Journal:* Nature communications (Accepted)  
    *Year:* 2024
 
