@@ -23,7 +23,7 @@
 
 ---
 
-  <div style="position: sticky; top: 100px; padding-right: 20px; width: 200px;">
+  <div style="position: sticky; top: 100px; padding-right: 20px; width: 200px; margin-left: -30px;">
       <ul style="list-style: none; padding-left: 0;">
         <a href="#biography" style="margin-right: 10px;">Biography</a> |
         <a href="#about-me" style="margin-right: 10px;">About Me</a> |
@@ -95,6 +95,8 @@
   </div>
 
 </div>
+
+
 
 
 
