@@ -213,7 +213,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
  
 
- [Email](mailto:barman.sumanta@gmail.com)
+ [Email me](mailto:barman.sumanta@gmail.com) <a href="mailto:barman.sumanta@gmail.com"><img src="Email-logo.png" alt="Email" width="30"></a>
 
 ---
 
