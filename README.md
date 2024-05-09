@@ -38,14 +38,21 @@
 
 <!-- Middle section: Main Content -->
   <div style="flex: 1;">
-    <!-- Anchor links and section headings (Table of Contents) -->
-    <div style="position: sticky; top: 20px;">
-      <ul style="list-style: none; padding-left: 0;">
-       <div style="margin-top: 20px;">
-  <a href="#biography">Biography</a> | <a href="#about-me">About Me</a> | <a href="#expertise">Expertise</a> | <a href="#research-highlights">Research Highlights</a> | <a href="#tools-&-Technologies">Tools & Technologies</a> | <a href="#professional-experience">Professional Experience</a> | <a href="#education">Education</a> | <a href="#research-articals">Research Articals</a> | <a href="#complete-list-of-publications ">Complete List of Publications </a> | <a href="#contact-me">Contact Me</a> 
-  
-   </ul>
- </div>
+    <div style="display: flex; justify-content: center; margin-bottom: 20px;">
+    <a href="#biography" style="margin-right: 10px;">Biography</a> |
+    <a href="#about-me" style="margin-right: 10px;">About Me</a> |
+    <a href="#expertise" style="margin-right: 10px;">Expertise</a> |
+    <a href="#research-highlights" style="margin-right: 10px;">Research Highlights</a> |
+    <a href="#tools-technologies" style="margin-right: 10px;">Tools & Technologies</a> |
+    <a href="#professional-experience" style="margin-right: 10px;">Professional Experience</a> |
+    <a href="#education" style="margin-right: 10px;">Education</a> |
+    <a href="#research-articles" style="margin-right: 10px;">Research Articles</a> |
+    <a href="#complete-list-of-publications" style="margin-right: 10px;">Complete List of Publications</a> |
+    <a href="#contact-me">Contact Me</a>
+    </div>
+  </div>
+
+---
 
 
 
