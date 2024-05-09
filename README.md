@@ -45,7 +45,7 @@
   <a href="#biography">Biography</a> | <a href="#about-me">About Me</a> | <a href="#expertise">Expertise</a> | <a href="#research-highlights">Research Highlights</a> | <a href="#tools-&-Technologies">Tools & Technologies</a> | <a href="#professional-experience">Professional Experience</a> | <a href="#education">Education</a> | <a href="#research-articals">Research Articals</a> | <a href="#complete-list-of-publications ">Complete List of Publications </a> | <a href="#contact-me">Contact Me</a> 
   
    </ul>
-   </div>
+ </div>
 
 
 
