@@ -23,6 +23,94 @@
 
 ---
 
+
+<!-- Main Content Container -->
+<div style="display: flex; align-items: flex-start;">
+
+  <!-- Left side: Profile Picture (Circle) and Additional Text -->
+  <div style="margin-right: 30px;">
+    <img src="SB.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
+    <p style="margin-top: 10px;">Neuroimmunology Scientist<br>Department of Neurology<br>University Hospital Düsseldorf<br>Heinrich Heine University Düsseldorf</p>
+  </div>
+
+  <!-- Middle section: Main Content -->
+  <div style="flex: 1;">
+    <!-- Anchor links and section headings (Table of Contents) -->
+    <div style="position: sticky; top: 20px;">
+      <ul style="list-style: none; padding-left: 0;">
+        <a href="#biography" style="margin-right: 10px;">Biography</a> |
+        <a href="#about-me" style="margin-right: 10px;">About Me</a> |
+        <a href="#expertise" style="margin-right: 10px;">Expertise</a> |
+        <a href="#research-highlights" style="margin-right: 10px;">Research Highlights</a> |
+        <a href="#tools-technologies" style="margin-right: 10px;">Tools & Technologies</a> |
+        <a href="#professional-experience" style="margin-right: 10px;">Professional Experience</a> |
+        <a href="#education" style="margin-right: 10px;">Education</a> |
+        <a href="#research-articles" style="margin-right: 10px;">Research Articles</a> |
+        <a href="#complete-list-of-publications" style="margin-right: 10px;">Complete List of Publications</a> |
+        <a href="#contact-me">Contact Me</a>
+      </ul>
+    </div>
+
+    <!-- Biography Section -->
+  <h2 id="biography">Biography</h2>
+    <div style="text-align: justify;">
+      Sumanta Barman is a neuroimmunology scientist specialized in computational immunology at the Department of Neurology, University Hospital Düsseldorf...
+    </div>
+
+    <!-- About Me Section -->
+  <h2 id="about-me">About Me</h2>
+    <div style="text-align: justify;">
+      I am a research scientist specializing in Central Nervous System (CNS) autoimmune diseases with expertise in immunology, molecular biology, immunogenomics, transcriptomics, proteomics, and bioinformatics...
+    </div>
+
+    <!-- Expertise Section -->
+  <h2 id="expertise">Expertise</h2>
+    <ul>
+      <li>Next generation sequencing library preparation</li>
+      <li>Immunogenomics/Transcriptomics/Proteomics data analysis</li>
+      <li>Single B Cell Recombinant Antibodies</li>
+      <li>Bioinformatics</li>
+      <!-- Add more expertise items -->
+    </ul>
+
+    <!-- Research Highlights Section -->
+  <h2 id="research-highlights">Research Highlights</h2>
+    <p>...</p>
+    
+    <!-- Tools & Technologies Section -->
+  <h2 id="tools-technologies">Tools & Technologies</h2>
+    <p>...</p>
+
+    <!-- Professional Experience Section -->
+  <h2 id="professional-experience">Professional Experience</h2>
+    <p>...</p>
+
+    <!-- Education Section -->
+  <h2 id="education">Education</h2>
+    <p>...</p>
+
+    <!-- Research Articles Section -->
+  <h2 id="research-articles">Research Articles</h2>
+    <p>...</p>
+
+    <!-- Complete List of Publications Section -->
+   <h2 id="complete-list-of-publications">Complete List of Publications</h2>
+    <p>...</p>
+
+    <!-- Contact Me Section -->
+  <h2 id="contact-me">Contact Me</h2>
+    <ul>
+      <li>Email: [barman.sumanta@gmail.com](mailto:barman.sumanta@gmail.com)</li>
+      <li>LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dr-sumanta-barman-327954143/)</li>
+      <li>GitHub: [GitHub Profile](https://github.com/sumanta-barman)</li>
+      <li>Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en)</li>
+    </ul>
+  </div>
+
+</div>
+
+
+
 <!-- Anchor links and section headings -->
 <div style="margin-top: 20px;">
   <a href="#biography">Biography</a> | <a href="#about-me">About Me</a> | <a href="#expertise">Expertise</a> | <a href="#research-highlights">Research Highlights</a> | <a href="#tools-&-Technologies">Tools & Technologies</a> | <a href="#professional-experience">Professional Experience</a> | <a href="#education">Education</a> | <a href="#research-articals">Research Articals</a> | <a href="#complete-list-of-publications ">Complete List of Publications </a> | <a href="#contact-me">Contact Me</a> 
@@ -238,5 +326,5 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 Feel free to reach out if you are interested in collaboration or have any inquiries related to my research!
 
-</div>
+
 
