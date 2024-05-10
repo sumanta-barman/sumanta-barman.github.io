@@ -40,7 +40,7 @@
   </details>
 </div>
 
-
+<style>
 #sticky-menu {
   position: sticky;
   top: 0;
@@ -58,6 +58,7 @@
   font-weight: bold;
 }
 
+<style>
 
 .main-content {
   padding-top: 60px; /* Adjust this value based on the height of the sticky menu */
