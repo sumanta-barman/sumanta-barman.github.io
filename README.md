@@ -40,6 +40,7 @@
         <a href="#contact-me">Contact Me</a>
       </ul>
     </div>
+    </div>
      
 <!-- Main content area with scrolling text -->
 <div style="padding-top: 10px;">
@@ -225,6 +226,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
       <li>Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en)</li>
     </ul>
 
+</div>
   </div>
 
      
