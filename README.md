@@ -27,7 +27,7 @@
 <!-- Middle section: Main Content -->
   <div style="flex: 1;">
     <!-- Anchor links and section headings (Table of Contents) -->
-    <div style="position: sticky; top: 120px; z-index: 1;">
+    <div sstyle="position: fixed; top: 0; left: 0; width: 100%; background-color: #fff; z-index: 100; padding: 10px;">
       <ul style="list-style: none; padding-left: 0;">
         <a href="#biography" style="margin-right: 10px;">Biography</a> |
         <a href="#about-me" style="margin-right: 10px;">About Me</a> |
@@ -42,7 +42,19 @@
       </ul>
     </div>
 
+<!-- Main content area with scrolling text -->
+<div style="padding-top: 70px; /* Adjust this value based on the height of your fixed menu */">
+  <h2 id="biography">Biography</h2>
+  <p>Text content for Biography...</p>
 
+  <h2 id="about-me">About Me</h2>
+  <p>Text content for About Me...</p>
+
+  <!-- Add more sections and content -->
+</div>
+
+<!-- Main content area with scrolling text -->
+div style="padding-top: 70px;">
     <!-- Biography Section -->
   <h2 id="biography">Biography</h2>
     <div style="text-align: justify;">
