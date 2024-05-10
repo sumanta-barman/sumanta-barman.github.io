@@ -38,6 +38,8 @@
     z-index: 1000;
   }
 </style>
+</head>
+<body>
 
 <!-- Middle section: Main Content -->
   <div style="flex: 1;">
