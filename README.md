@@ -93,11 +93,13 @@ I have extensive expertise in evaluating the treatment effect of various disease
     
     <!-- Tools & Technologies Section -->
   <h2 id="tools-technologies">Tools & Technologies</h2>
-    <p>- **Programming:** Python, R
-- **Data Analysis:** Pandas, NumPy, SciPy, Seurat, Scanpy, Scvitolls
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
-- **Bioinformatics:** BWA, SAMtools, Bioconductor
-- **Statistical Analysis:** RStudio, SPSS, GraphPad Prism</p>
+    <ul>
+      <li>**Programming:** Python, R</li>
+      <li>**Data Analysis:** Pandas, NumPy, SciPy, Seurat, Scanpy, Scvitolls</li>
+      <li>**Machine Learning:** Scikit-learn, TensorFlow, PyTorch</li>
+      <li>**Bioinformatics:** BWA, SAMtools, Bioconductor</li>
+      <li>**Statistical Analysis:** RStudio, SPSS, GraphPad Prism</li>
+    </ul>
 
     <!-- Professional Experience Section -->
   <h2 id="professional-experience">Professional Experience</h2>
@@ -109,7 +111,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
     <!-- Research Articles Section -->
   <h2 id="research-articles">Research Articles</h2>
-    <p><strong>Selected Publications<strong>
+    <div style="text-align: justify;">
 
 *Computational immunology:*
 
@@ -205,17 +207,14 @@ I have extensive expertise in evaluating the treatment effect of various disease
 1. **jjj**
 2. **ggg**
 
-   
+   </div>
 ---
-
-## Complete List of Publications
-
-- You can also find a complete list of my publications [here](https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en).
-</p>
 
     <!-- Complete List of Publications Section -->
    <h2 id="complete-list-of-publications">Complete List of Publications</h2>
-    <p>...</p>
+      <div style="text-align: justify;">
+        You can also find a complete list of my publications [here](https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en).
+      </div>
 
     <!-- Contact Me Section -->
   <h2 id="contact-me">Contact Me</h2>
