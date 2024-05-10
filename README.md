@@ -21,6 +21,72 @@
 </div>
 
 ---
+<nav id="sidebar">
+  <ul>
+    <li><a href="#biography">Biography</a></li>
+    <li><a href="#about-me">About Me</a></li>
+    <!-- Add the rest of the menu items here -->
+  </ul>
+</nav>
+
+
+#sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 200px; /* Adjust the width as needed */
+  height: 100vh;
+  background-color: #f1f1f1;
+  padding: 20px;
+  overflow-y: auto; /* Add scrollbar if content exceeds sidebar height */
+}
+
+#sidebar ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#sidebar li {
+  margin-bottom: 10px;
+}
+
+#sidebar a {
+  display: block;
+  padding: 8px 16px;
+  text-decoration: none;
+  color: #333;
+}
+
+#sidebar a:hover {
+  background-color: #ddd;
+}
+
+
+.main-content {
+  margin-left: 220px; /* Adjust this value based on the width of the sidebar */
+  padding: 20px;
+}
+
+
+
+<div class="main-content">
+  <!-- Your main content goes here -->
+  <div style="display: flex; align-items: center;">
+    <!-- Left side: Profile picture (circle) -->
+    <!-- ... -->
+  </div>
+
+  <!-- Main content area with scrolling text -->
+  <div style="padding-top: 10px;"></div>
+
+  <!-- Biography, About Me, Expertise, etc. -->
+  <!-- ... -->
+</div>
+
+---
+
+
 
 .nav-menu {
   position: sticky;
