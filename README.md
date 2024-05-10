@@ -49,7 +49,7 @@ margin-right: 10px;
   margin-right: 0;
 }
 #main-content {
-margin-top: 10px; /* Add this line */
+margin-top: 0px; /* Add this line */
 }
 
   </style>
