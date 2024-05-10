@@ -226,11 +226,12 @@ I have extensive expertise in evaluating the treatment effect of various disease
       <li>Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en)</li>
     </ul>
 
+  </div>
+
      
 
-
+---
    
-
 ## Biography
 
 <div style="text-align: justify;">
