@@ -51,7 +51,7 @@
   margin-right: 0;
 }
 
-  </style>
+</style>
 </head>
 <body>
 <div id="sticky-menu">
