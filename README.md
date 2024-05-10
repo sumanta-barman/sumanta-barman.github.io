@@ -22,8 +22,173 @@
 
 ---
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sumanta Barman - Neuroimmunology Scientist</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+  }
+
+  .profile-info {
+    margin-right: 30px;
+  }
+
+  .profile-info img {
+    width: 150px;
+    border-radius: 50%;
+  }
+
+  .contact-icons {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+  }
+
+  #navigation {
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    padding: 10px;
+    z-index: 1;
+  }
+
+  #navigation ul {
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+  }
+
+  #navigation li {
+    margin-right: 10px;
+  }
+
+  main {
+    padding-top: 80px;
+    padding: 20px;
+  }
+
+  h2 {
+    margin-top: 20px;
+  }
+
+  /* CSS class for highlighting active menu item */
+  .active {
+    font-weight: bold;
+    color: blue; /* You can adjust the highlight style */
+  }
+</style>
+</head>
+<body>
+
+<!-- Header Section -->
+<header class="container">
+  <div class="profile-info">
+    <img src="SB.jpg" alt="Profile Picture">
+    <p>Neuroimmunology Scientist<br>Department of Neurology<br>University Hospital Düsseldorf<br>Heinrich Heine University Düsseldorf</p>
+  </div>
+
+  <div class="contact-icons">
+    <ul>
+      <li><a href="mailto:barman.sumanta@gmail.com"><img src="Email-logo.png" alt="Email" width="30"></a></li>
+      <li><a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/" target="_blank"><img src="linkedIn_logo.png" alt="LinkedIn" width="30"></a></li>
+      <li><a href="https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en" target="_blank"><img src="google_scholar_logo.png" alt="Google Scholar" width="30"></a></li>
+      <li><a href="https://github.com/sumanta-barman" target="_blank"><img src="github-logo.png" alt="GitHub" width="30"></a></li>
+    </ul>
+  </div>
+</header>
+
+<!-- Navigation Section -->
+<nav id="navigation">
+  <ul>
+    <li><a href="#biography">Biography</a></li>
+    <li><a href="#about-me">About Me</a></li>
+    <li><a href="#expertise">Expertise</a></li>
+    <li><a href="#research-highlights">Research Highlights</a></li>
+    <li><a href="#tools-technologies">Tools & Technologies</a></li>
+    <li><a href="#professional-experience">Professional Experience</a></li>
+    <li><a href="#education">Education</a></li>
+    <li><a href="#research-articles">Research Articles</a></li>
+    <li><a href="#complete-list-of-publications">Complete List of Publications</a></li>
+    <li><a href="#contact-me">Contact Me</a></li>
+  </ul>
+</nav>
+
+<!-- Main Content Section -->
+<main>
+  <!-- Biography Section -->
+  <section id="biography">
+    <h2>Biography</h2>
+    <div style="text-align: justify;">
+      Sumanta Barman is a neuroimmunology scientist, specialized in computational immunology at the Department of Neurology, University Hospital Düsseldorf. He is involved in analyzing single-cell multiomics, next-generation sequencing, and bioinformatics data, investigating treatment effects of immunotherapies on patients' immune repertoire, as well as the development and characterization of recombinant human monoclonal antibodies.
+    </div>
+  </section>
+
+  <!-- About Me Section -->
+  <section id="about-me">
+    <h2>About Me</h2>
+    <div style="text-align: justify;">
+      <!-- Your About Me content goes here -->
+    </div>
+  </section>
+
+  <!-- Expertise Section -->
+  <section id="expertise">
+    <h2>Expertise</h2>
+    <ul>
+      <!-- Your Expertise list items go here -->
+    </ul>
+  </section>
+
+  <!-- Research Highlights Section -->
+  <section id="research-highlights">
+    <h2>Research Highlights</h2>
+    <ul>
+      <!-- Your Research Highlights list items go here -->
+    </ul>
+  </section>
+
+  <!-- Add more content sections as needed -->
+
+</main>
+
+<script>
+  // Function to add active class to the navigation menu based on scroll position
+  function highlightMenu() {
+    const sections = document.querySelectorAll('main section');
+    const navLinks = document.querySelectorAll('#navigation a');
+
+    sections.forEach(section => {
+      const sectionTop = section.offsetTop - 100;
+      const sectionHeight = section.clientHeight;
+      const id = section.getAttribute
 
 
+
+
+
+
+
+
+
+
+
+
+        
+---
+
+  
 <!-- Middle section: Main Content -->
   <div style="flex: 1;">
     <!-- Anchor links and section headings (Table of Contents) -->
