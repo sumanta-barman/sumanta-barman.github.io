@@ -34,22 +34,24 @@
       z-index: 1;
     }
 
-  #sticky-menu details {
+    #sticky-menu details {
       margin-bottom: 10px;
     }
 
-  #sticky-menu summary {
+    #sticky-menu summary {
       cursor: pointer;
       font-weight: bold;
     }
 
-  #sticky-menu ul {
+    #sticky-menu ul {
       list-style-type: none;
       padding: 0;
       margin: 0;
+      display: flex;
+      flex-direction: column; /* Add this line to make the list vertical */
     }
 
-  #sticky-menu li {
+    #sticky-menu li {
       margin-bottom: 5px;
     }
   </style>
