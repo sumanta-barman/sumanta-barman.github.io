@@ -21,6 +21,7 @@
 </div>
 
 ---
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -120,6 +121,7 @@
 
 </div>
 
+<!-- JavaScript for scroll-based navigation highlighting -->
 <script>
   window.addEventListener('scroll', () => {
     const navLinks = document.querySelectorAll('#navigation a');
