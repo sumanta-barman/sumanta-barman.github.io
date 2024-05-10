@@ -38,13 +38,17 @@ display: flex;
   align-items: center;
   flex-wrap: wrap; /* Add this line */
 }
-  #sticky-menu nav a {
+
+    #sticky-menu nav a {
   margin-right: 10px;
   text-decoration: none;
-  color: #333;
-  white-space: nowrap; /* Add this line */
+  color: #0000ff; /* Change the color to blue */
+  font-weight: bold; /* Make the text bold */
+  white-space: nowrap;
 }
-  #sticky-menu nav a:last-child {
+    
+    
+    #sticky-menu nav a:last-child {
   margin-right: 0;
 }
 
