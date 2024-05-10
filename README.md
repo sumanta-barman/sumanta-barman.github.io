@@ -21,7 +21,6 @@
 </div>
 
 ---
-
 <html>
 <head>
   <title>My Website</title>
@@ -34,34 +33,21 @@
       z-index: 1;
     }
 
-#sticky-menu details {
-  margin-bottom: 10px;
-}
+   #sticky-menu details {
+      margin-bottom: 10px;
+    }
 
-#sticky-menu summary {
-  cursor: pointer;
-  font-weight: bold;
-}
-
-#sticky-menu nav {
-  display: flex;
-  justify-content: space-between;
-}
-
-#sticky-menu a {
-  text-decoration: none;
-  color: #333;
-  margin-right: 10px;
-}
-
-#sticky-menu a:last-child {
-  margin-right: 0;
-}
-
+  #sticky-menu summary {
+      cursor: pointer;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
   <div id="sticky-menu">
-  <details>
-    <summary>Main menu</summary>
-    <div style="position: sticky; top: 0; left: 0; right: 0; width: 100%; background-color: #fff; z-index: 1; padding: 10px;">
+    <details>
+      <summary>Main menu</summary>
+      <div style="position: sticky; top: 0; left: 0; right: 0; width: 100%; background-color: #fff; z-index: 1; padding: 10px;">
     <nav>
       <a href="#biography" style="margin-right: 10px;">Biography</a> |
       <a href="#about-me" style="margin-right: 10px;">About Me</a> |
@@ -74,14 +60,15 @@
       <a href="#complete-list-of-publications" style="margin-right: 10px;">Complete List of Publications</a> |
       <a href="#contact-me">Contact Me</a>
     </nav>
-    </div>
-  </details>
-</div>
+      </div>
+    </details>
+  </div>
 
   <div class="main-content">
+    
     <!-- Add the rest of your content sections here -->
   </div>
-<head>
+</body>
 </html>
 
 ---
