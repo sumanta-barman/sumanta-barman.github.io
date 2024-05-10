@@ -67,9 +67,9 @@
       <a href="#complete-list-of-publications" style="margin-right: 10px;">Complete List of Publications</a> |
       <a href="#contact-me">Contact Me</a>
     </nav>
-      </div>
         </div>
-  </div>
+      </div>
+    </div>
 </body>
 </html>
 
