@@ -22,9 +22,6 @@
 
 ---
 
-<html lang="en">
-
-
 <!-- Middle section: Main Content -->
   <div style="flex: 1;">
     <div style="text-align: justify;">
@@ -129,8 +126,6 @@
     });
   });
 </script>
-
-</html>
 
 <!-- Anchor links and section headings -->
 <div style="margin-top: 20px;">
