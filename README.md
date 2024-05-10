@@ -66,9 +66,6 @@
     </details>
   </div>
 
-  <div class="main-content">
-    
-  </div>
 </body>
 </html>
 
