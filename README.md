@@ -55,6 +55,8 @@
     <div style="text-align: justify;">
       I am a research scientist specializing in Central Nervous System (CNS) autoimmune diseases with expertise in immunology, molecular biology, immunogenomics, transcriptomics, proteomics, and bioinformatics...
     </div>
+</div>
+
 
     <!-- Expertise Section -->
   <h2 id="expertise">Expertise</h2>
