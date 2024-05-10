@@ -108,16 +108,16 @@
   window.addEventListener('scroll', () => {
     const navLinks = document.querySelectorAll('a[href^="#"]');
     
-    navLinks.forEach(link => {
+  navLinks.forEach(link => {
       const sectionId = link.getAttribute('href').substring(1);
       const section = document.getElementById(sectionId);
       
-      if (section) {
+  if (section) {
         const sectionTop = section.offsetTop;
         const sectionHeight = section.offsetHeight;
         const scrollPosition = window.scrollY;
         
-        if (
+  if (
           scrollPosition >= sectionTop - 20 &&
           scrollPosition < sectionTop + sectionHeight - 20
         ) {
