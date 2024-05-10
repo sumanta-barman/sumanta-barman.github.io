@@ -232,7 +232,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
   <h2 id="contact-me">Contact Me</h2>
   <a href="mailto:barman.sumanta@gmail.com"><img src="Email-logo.png" alt="Email" width="30"></a>
   
-</div>
+
 
 
      
