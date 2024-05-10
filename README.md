@@ -40,7 +40,7 @@
   </details>
 </div>
 
-<style>
+
 #sticky-menu {
   position: sticky;
   top: 0;
@@ -58,8 +58,6 @@
   font-weight: bold;
 }
 
-<style>
-
 .main-content {
   padding-top: 60px; /* Adjust this value based on the height of the sticky menu */
 }
@@ -67,6 +65,62 @@
 
 ---
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Website</title>
+  <style>
+    #sticky-menu {
+      position: sticky;
+      top: 0;
+      background-color: #fff;
+      padding: 10px;
+      z-index: 1;
+    }
+
+    #sticky-menu details {
+      margin-bottom: 10px;
+    }
+
+    #sticky-menu summary {
+      cursor: pointer;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div id="sticky-menu">
+    <details>
+      <summary>Main menu</summary>
+      <ul>
+        <li><a href="#biography">Biography</a></li>
+        <li><a href="#about-me">About Me</a></li>
+        <li><a href="#expertise">Expertise</a></li>
+        <li><a href="#research-highlights">Research Highlights</a></li>
+        <li><a href="#tools-and-technologies">Tools and Technologies</a></li>
+        <li><a href="#professional-experience">Professional Experience</a></li>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#research-articles">Research Articles</a></li>
+        <li><a href="#complete-list-of-publications">Complete List of Publications</a></li>
+        <li><a href="#contact-me">Contact Me</a></li>
+      </ul>
+    </details>
+  </div>
+
+  <!-- Your main content goes here -->
+  <div class="main-content">
+    <h2 id="biography">Biography</h2>
+    <p>...</p>
+
+    <h2 id="about-me">About Me</h2>
+    <p>...</p>
+
+    <!-- Add the rest of your content sections here -->
+  </div>
+</body>
+</html>
+
+---
 
 
 <div class="nav-menu">
