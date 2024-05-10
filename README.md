@@ -207,7 +207,6 @@ I have extensive expertise in evaluating the treatment effect of various disease
 1. **jjj**
 2. **ggg**<p>
 
-    </div>
 ---
 
     <!-- Complete List of Publications Section -->
@@ -257,7 +256,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
   });
 </script>
 
-</div>
+  </div>
 
 ## Biography
 
