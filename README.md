@@ -65,7 +65,6 @@
       </div>
     </details>
   </div>
-
 </body>
 </html>
 
