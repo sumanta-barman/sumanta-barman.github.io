@@ -66,10 +66,6 @@
   <!-- Your main content goes here -->
   <div class="main-content">
     
-
-    <h2 id="about-me">About Me</h2>
-    <p>...</p>
-
     <!-- Add the rest of your content sections here -->
   </div>
 </body>
