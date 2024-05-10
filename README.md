@@ -39,7 +39,7 @@
         <a href="#complete-list-of-publications" style="margin-right: 10px;">Complete List of Publications</a> |
         <a href="#contact-me">Contact Me</a>
       </ul>
-    </div>
+      </div>
   
      
 <!-- Main content area with scrolling text -->
