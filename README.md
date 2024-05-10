@@ -103,7 +103,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 ---
 
-## Tools & Technologies
+## Tools and Technologies
 
 - **Programming:** Python, R
 - **Data Analysis:** Pandas, NumPy, SciPy, Seurat, Scanpy, Scvitolls
@@ -121,8 +121,9 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 ---
 
-##Research Articals
+## Research Articals
 
+<div style="text-align: justify;">
 <strong>Selected Publications<strong>
 
 *Computational immunology:*
@@ -219,6 +220,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
 1. **jjj**
 2. **ggg**
 
+</div>
    
 ---
 
