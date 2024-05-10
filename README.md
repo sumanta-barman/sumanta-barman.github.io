@@ -114,7 +114,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
   <h2 id="research-articles">Research Articles</h2>
     <div style="text-align: justify;">
 
-Computational immunology:
+<p><strong>Computational immunology:</strong>
 
 1. **[Alemtuzumab-induced immune phenotype and repertoire changes: implications for secondary autoimmunity](https://academic.oup.com/brain/article/145/5/1711/6590581)**  
    *Authors:* Tobias Ruck#, <strong>Sumanta Barman#</strong>, Andreas Schulte-Mecklenbeck#, Steffen Pfeuffer#, Falk Steffen, Christopher Nelke, Christina B Schroeter, Alice Willison, Michael Heming, Thomas Müntefering, Nico Melzer, Julia Krämer, Maren Lindner, Marianne Riepenhausen, Catharina C Gross, Luisa Klotz, Stefan Bittner, Paolo A Muraro, Tilman Schneider-Hohendorf, Nicholas Schwab, Gerd Meyer zu Hörste, Norbert Goebels, Sven G Meuth, Heinz Wiendl. *<strong>#equally contributing first authors</strong>*
@@ -206,7 +206,7 @@ Computational immunology:
 *Others:*
 
 1. **jjj**
-2. **ggg**
+2. **ggg**<p>
 
     </div>
 ---
