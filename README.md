@@ -49,7 +49,7 @@ margin-right: 10px;
   margin-right: 0;
 }
 
-.main-content {
+  .main-content {
   margin-top: 90px; /* Add this line */
 }
 
@@ -73,6 +73,10 @@ margin-right: 10px;
   </div>
 </div> 
 </body>
+
+<div class="main-content">
+</div> 
+
 </html>
 
 ---
