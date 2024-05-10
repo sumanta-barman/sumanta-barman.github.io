@@ -25,30 +25,30 @@
 <head>
   <title>My Website</title>
   <style>
-    #sticky-menu {
+  #sticky-menu {
   position: sticky;
   top: 0;
   background-color: #fff;
   padding: 10px;
   z-index: 1;
 }
-#sticky-menu nav {
+  #sticky-menu nav {
 display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap; /* Add this line */
 }
-#sticky-menu nav a {
+  #sticky-menu nav a {
   margin-right: 10px;
   text-decoration: none;
   color: #333;
   white-space: nowrap; /* Add this line */
 }
-#sticky-menu nav a:last-child {
+  #sticky-menu nav a:last-child {
   margin-right: 0;
 }
 
-</style>
+  </style>
 </head>
 <body>
 <div id="sticky-menu">
