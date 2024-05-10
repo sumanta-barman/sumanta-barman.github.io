@@ -21,7 +21,8 @@
 </div>
 
 ---
-
+<html lang="en">
+<body>
 <!-- Middle section: Main Content -->
   <div style="flex: 1;">
     <div style="text-align: justify;">
@@ -230,7 +231,35 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 
 
+<!-- JavaScript for scroll-based navigation highlighting -->
+<script>
+  window.addEventListener('scroll', () => {
+    const navLinks = document.querySelectorAll('a[href^="#"]');
+    
+    navLinks.forEach(link => {
+      const sectionId = link.getAttribute('href').substring(1);
+      const section = document.getElementById(sectionId);
+      
+      if (section) {
+        const sectionTop = section.offsetTop;
+        const sectionHeight = section.offsetHeight;
+        const scrollPosition = window.scrollY;
+        
+        if (
+          scrollPosition >= sectionTop - 20 &&
+          scrollPosition < sectionTop + sectionHeight - 20
+        ) {
+          link.style.fontWeight = 'bold'; // Highlight link
+        } else {
+          link.style.fontWeight = 'normal'; // Reset link style
+        }
+      }
+    });
+  });
+</script>
 
+</body>
+</html>
 
 </div>
 
