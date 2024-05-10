@@ -46,7 +46,7 @@
       color: #333;
     }
 
-   #sticky-menu nav a:last-child {
+  #sticky-menu nav a:last-child {
       margin-right: 0;
     }
   </style>
@@ -71,7 +71,6 @@
       </div>
   </div>
 
-  <!-- Your main content goes here -->
 </body>
 </html>
 
