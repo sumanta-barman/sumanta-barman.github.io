@@ -110,7 +110,6 @@ I have extensive expertise in evaluating the treatment effect of various disease
   <h2 id="education">Education</h2>
     <p>...</p>
     
-</div>
 
 
     <!-- Research Articles Section -->
@@ -217,18 +216,17 @@ I have extensive expertise in evaluating the treatment effect of various disease
 ---
 
     <!-- Complete List of Publications Section -->
-   <h2 id="complete-list-of-publications">Complete List of Publications</h2>
-      <div style="text-align: justify;">
-        You can also find a complete list of my publications [here](https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en).
-      </div>
+<h2 id="complete-list-of-publications">Complete List of Publications</h2>
+  <div style="text-align: justify;">
+  You can also find a complete list of my publications [here](https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en).
+  </div>
 
     <!-- Contact Me Section -->
-  <h2 id="contact-me">Contact Me</h2>
+<h2 id="contact-me">Contact Me</h2>
   <a href="mailto:barman.sumanta@gmail.com"><img src="Email-logo.png" alt="Email" width="30"></a>
   
 
-
-
+ </div>
      
 
 
