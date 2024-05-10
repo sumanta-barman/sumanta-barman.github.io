@@ -92,23 +92,6 @@ I have extensive expertise in evaluating the treatment effect of various disease
       <li>Contributed to scientific publications and presentations at international conferences</li>
     </ul>
 
-    
-  <h2 id="tools-technologies">Tools & Technologies</h2>
-    <ul>
-      <li>Programming: Python, R</li>
-      <li>Data Analysis: Pandas, NumPy, SciPy, Seurat, Scanpy, Scvitolls</li>
-      <li>Machine Learning: Scikit-learn, TensorFlow, PyTorch</li>
-      <li>Bioinformatics: BWA, SAMtools, Bioconductor</li>
-      <li>Statistical Analysis: RStudio, SPSS, GraphPad Prism</li>
-    </ul>
-
-  <h2 id="professional-experience">Professional Experience</h2>
-    <p>...</p>
-
-    <!-- Education Section -->
-  <h2 id="education">Education</h2>
-    <p>...</p>
-    
 </div>
      
 <!-- JavaScript for scroll-based navigation highlighting -->
@@ -140,6 +123,30 @@ I have extensive expertise in evaluating the treatment effect of various disease
 </body>
 </html>
 
+
+
+---
+
+
+
+
+    
+  <h2 id="tools-technologies">Tools & Technologies</h2>
+    <ul>
+      <li>Programming: Python, R</li>
+      <li>Data Analysis: Pandas, NumPy, SciPy, Seurat, Scanpy, Scvitolls</li>
+      <li>Machine Learning: Scikit-learn, TensorFlow, PyTorch</li>
+      <li>Bioinformatics: BWA, SAMtools, Bioconductor</li>
+      <li>Statistical Analysis: RStudio, SPSS, GraphPad Prism</li>
+    </ul>
+
+  <h2 id="professional-experience">Professional Experience</h2>
+    <p>...</p>
+
+    <!-- Education Section -->
+  <h2 id="education">Education</h2>
+    <p>...</p>
+    
 
 
 ---
