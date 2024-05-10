@@ -34,27 +34,27 @@
   z-index: 1;
 }
 
-#sticky-menu details {
+  #sticky-menu details {
   margin-bottom: 10px;
 }
 
-#sticky-menu summary {
+  #sticky-menu summary {
   cursor: pointer;
   font-weight: bold;
 }
 
-#sticky-menu nav {
+  #sticky-menu nav {
   display: flex;
   justify-content: space-between;
 }
 
-#sticky-menu a {
+  #sticky-menu a {
   text-decoration: none;
   color: #333;
   margin-right: 10px;
 }
 
-#sticky-menu a:last-child {
+  #sticky-menu a:last-child {
   margin-right: 0;
 }
 
