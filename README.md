@@ -114,15 +114,15 @@ I have extensive expertise in evaluating the treatment effect of various disease
   <h2 id="research-articles">Research Articles</h2>
     <div style="text-align: justify;">
 
-<p><strong>Computational immunology:</strong>
-
+<strong>Computational immunology:</strong>
+<ul>
 1. **[Alemtuzumab-induced immune phenotype and repertoire changes: implications for secondary autoimmunity](https://academic.oup.com/brain/article/145/5/1711/6590581)**  
    *Authors:* Tobias Ruck#, <strong>Sumanta Barman#</strong>, Andreas Schulte-Mecklenbeck#, Steffen Pfeuffer#, Falk Steffen, Christopher Nelke, Christina B Schroeter, Alice Willison, Michael Heming, Thomas Müntefering, Nico Melzer, Julia Krämer, Maren Lindner, Marianne Riepenhausen, Catharina C Gross, Luisa Klotz, Stefan Bittner, Paolo A Muraro, Tilman Schneider-Hohendorf, Nicholas Schwab, Gerd Meyer zu Hörste, Norbert Goebels, Sven G Meuth, Heinz Wiendl. *<strong>#equally contributing first authors</strong>*
    
    *Journal:* Brain  
    *Year:* 2022
 
-    <a href="https://academic.oup.com/brain/article/145/5/1711/6590581"><img src="awac064f4.jpeg" alt="Thumbnail" width="200"></a>
+  <a href="https://academic.oup.com/brain/article/145/5/1711/6590581"><img src="awac064f4.jpeg" alt="Thumbnail" width="200"></a>
 
 2. **[Classifying flow cytometry data using Bayesian analysis helps to distinguish ALS patients from healthy controls](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full)**  
    *Authors:* Saskia Räuber, Christopher Nelke, Christina B Schroeter,  <strong>Sumanta Barman</strong>, Marc Pawlitzki, Jens Ingwersen, Katja Akgün, Rene Günther, Alejandra P Garza, Michaela Marggraf, Ildiko Rita Dunay, Stefanie Schreiber, Stefan Vielhaber, Tjalf Ziemssen, Nico Melzer, Tobias Ruck, Sven G Meuth, Michael Herty.
@@ -153,8 +153,8 @@ I have extensive expertise in evaluating the treatment effect of various disease
    
    *On preparation*   
 
-    
-*Neuroimmunology:*
+<strong>Neuroimmunology:</strong>    
+
 
 1. **[NMDAR encephalitis: passive transfer from man to mouse by a recombinant antibody](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444)**  
    *Authors:* Manish Malviya#, <strong>Sumanta Barman#</strong>, Kristin S Golombeck#, Jesús Planagumà#, Francesco Mannara#, Nathalie Strutz‐Seebohm, Claudia Wrzos, Fatih Demir, Christine Baksmeier, Julia Steckel, Kim Kristin Falk, Catharina C Gross, Stjepana Kovac, Kathrin Bönte, Andreas Johnen, Klaus‐Peter Wandinger, Elena Martín‐García, Albert J Becker, Christian E Elger, Nikolaj Klöcker, Heinz Wiendl, Sven G Meuth, Hans‐Peter Hartung, Guiscard Seebohm, Frank Leypoldt, Rafael Maldonado, Christine Stadelmann, Josep Dalmau, Nico Melzer, Norbert Goebels. *<strong>#equally contributing first authors</strong>*
@@ -197,8 +197,8 @@ I have extensive expertise in evaluating the treatment effect of various disease
    
    <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25699"><img src="ana25699-fig-0001-m.png" alt="Thumbnail" width="200"></a>
 
+<strong>Conference publications:</strong>
 
-*Conference publications:*
 
 1. **ddddd**
 2. **hhhh**
@@ -206,9 +206,9 @@ I have extensive expertise in evaluating the treatment effect of various disease
 *Others:*
 
 1. **jjj**
-2. **ggg**<p>
+2. **ggg**
 
-
+<ul>
 ---
 
     <!-- Complete List of Publications Section -->
