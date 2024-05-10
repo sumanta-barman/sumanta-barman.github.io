@@ -23,17 +23,13 @@
 ---
 <!-- Sidebar -->
 <details>
-<summary>Navigation</summary>
+<summary>Main menu</summary>
 
 <!-- Include the sidebar.md file -->
 {% include_relative sidebar.md %}
 
 </details>
 
-<!-- Main content -->
-## Biography
-
-<!-- Rest of your content -->
 
 ---
 
