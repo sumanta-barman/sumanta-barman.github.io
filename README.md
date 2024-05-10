@@ -24,28 +24,11 @@
 
 
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Scroll Highlight Navigation</title>
-<style>
-  /* Styling for navigation menu */
-  #navigation {
-    position: fixed;
-    top: 20px;
-    left: 20px;
-    background-color: #f0f0f0;
-    padding: 10px;
-    border-radius: 5px;
-    z-index: 1000;
-  }
-</style>
-</head>
 <body>
 
 <!-- Middle section: Main Content -->
   <div style="flex: 1;">
-    <div style="text-align: justify;">
+  <div style="text-align: justify;">
     <!-- Anchor links and section headings (Table of Contents) -->
       <div style="position: sticky; top: 0; left: 0; right: 0; width: 100%; background-color: #fff; z-index: 1; padding: 10px;">
       <ul style="list-style: none; padding-left: 0;">
@@ -60,7 +43,7 @@
         <a href="#complete-list-of-publications" style="margin-right: 10px;">Complete List of Publications</a> |
         <a href="#contact-me">Contact Me</a>
       </ul>
-      </div>
+    </div>
     </div>
     
      
