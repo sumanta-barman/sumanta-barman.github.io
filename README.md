@@ -23,8 +23,6 @@
 ---
 
 
-<html lang="en">
-<body>
 
 <!-- Middle section: Main Content -->
   <div style="flex: 1;">
@@ -119,9 +117,6 @@ I have extensive expertise in evaluating the treatment effect of various disease
   });
 </script>
 
-
-</body>
-</html>
 
 
 
