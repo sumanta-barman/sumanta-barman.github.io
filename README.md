@@ -221,16 +221,16 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
     <!-- Contact Me Section -->
   <h2 id="contact-me">Contact Me</h2>
-    <ul>
-      <li>Email: [barman.sumanta@gmail.com](mailto:barman.sumanta@gmail.com)</li>
-      <li>LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dr-sumanta-barman-327954143/)</li>
-      <li>GitHub: [GitHub Profile](https://github.com/sumanta-barman)</li>
-      <li>Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en)</li>
-    </ul>
+  <a href="mailto:barman.sumanta@gmail.com"><img src="Email-logo.png" alt="Email" width="30"></a>
+  
 </div>
 
 
      
+
+
+
+
 
 ---
    
