@@ -67,7 +67,6 @@
   </div>
 </body>
 </html>
-
 ---
 ## Biography
   
