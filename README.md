@@ -37,10 +37,10 @@
         <a href="#complete-list-of-publications" style="margin-right: 10px;">Complete List of Publications</a> |
         <a href="#contact-me">Contact Me</a>
       </ul>
-   </div>
-  
+    </div>
+     
 <!-- Main content area with scrolling text -->
-<div style="padding-top: 50px;">
+<div style="padding-top: 10px;">
     <!-- Biography Section -->
   <h2 id="biography">Biography</h2>
     <div style="text-align: justify;">
