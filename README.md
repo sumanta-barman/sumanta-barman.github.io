@@ -207,6 +207,8 @@ I have extensive expertise in evaluating the treatment effect of various disease
 1. **jjj**
 2. **ggg**<p>
 
+    </div>
+
 ---
 
     <!-- Complete List of Publications Section -->
@@ -223,36 +225,11 @@ I have extensive expertise in evaluating the treatment effect of various disease
       <li>GitHub: [GitHub Profile](https://github.com/sumanta-barman)</li>
       <li>Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en)</li>
     </ul>
- 
 
-<!-- JavaScript for scroll-based navigation highlighting -->
-<script>
-  window.addEventListener('scroll', () => {
-    const navLinks = document.querySelectorAll('a[href^="#"]');
-    
-    navLinks.forEach(link => {
-      const sectionId = link.getAttribute('href').substring(1);
-      const section = document.getElementById(sectionId);
-      
-      if (section) {
-        const sectionTop = section.offsetTop;
-        const sectionHeight = section.offsetHeight;
-        const scrollPosition = window.scrollY;
-        
-        if (
-          scrollPosition >= sectionTop - 20 &&
-          scrollPosition < sectionTop + sectionHeight - 20
-        ) {
-          link.style.fontWeight = 'bold'; // Highlight link
-        } else {
-          link.style.fontWeight = 'normal'; // Reset link style
-        }
-      }
-    });
-  });
-</script>
+     
 
-  </div>
+
+   
 
 ## Biography
 
