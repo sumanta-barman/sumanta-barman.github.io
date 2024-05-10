@@ -101,34 +101,6 @@
 
 </div>
 
-<html lang="en">
-
-<!-- JavaScript for scroll-based navigation highlighting -->
-<script>
-  window.addEventListener('scroll', () => {
-    const navLinks = document.querySelectorAll('#navigation a');
-    
-    navLinks.forEach(link => {
-      const sectionId = link.getAttribute('href').substring(1);
-      const section = document.getElementById(sectionId);
-      
-      if (section) {
-        const sectionTop = section.offsetTop;
-        const sectionHeight = section.offsetHeight;
-        const scrollPosition = window.scrollY;
-        
-        // Highlight the corresponding link if the section is in view
-        if (scrollPosition >= sectionTop - 20 && scrollPosition < sectionTop + sectionHeight - 20) {
-          link.style.fontWeight = 'bold'; // Highlight link
-        } else {
-          link.style.fontWeight = 'normal'; // Reset link style
-        }
-      }
-    });
-  });
-</script>
-
-</html>
 
 
 <!-- Anchor links and section headings -->
