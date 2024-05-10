@@ -21,6 +21,8 @@
 </div>
 
 ---
+
+<!DOCTYPE html>
 <html>
 <head>
   <title>My Website</title>
@@ -33,6 +35,65 @@
       z-index: 1;
     }
 
+    #sticky-menu nav {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    #sticky-menu nav a {
+      margin-right: 10px;
+      text-decoration: none;
+      color: #333;
+    }
+
+    #sticky-menu nav a:last-child {
+      margin-right: 0;
+    }
+  </style>
+</head>
+<body>
+  <div id="sticky-menu">
+    <nav>
+      <a href="#biography">Biography</a> |
+      <a href="#about-me">About Me</a> |
+      <a href="#expertise">Expertise</a> |
+      <a href="#research-highlights">Research Highlights</a> |
+      <a href="#tools-and-technologies">Tools and Technologies</a> |
+      <a href="#professional-experience">Professional Experience</a> |
+      <a href="#education">Education</a> |
+      <a href="#research-articles">Research Articles</a> |
+      <a href="#complete-list-of-publications">Complete List of Publications</a> |
+      <a href="#contact-me">Contact Me</a>
+    </nav>
+  </div>
+
+  <!-- Your main content goes here -->
+</body>
+</html>
+
+---
+
+<html>
+<head>
+  <title>My Website</title>
+  <style>
+    #sticky-menu {
+      position: sticky;
+      top: 0;
+      background-color: #fff;
+      padding: 10px;
+      z-index: 1;
+    }
+
+   #sticky-menu details {
+      margin-bottom: 10px;
+    }
+
+  #sticky-menu summary {
+      cursor: pointer;
+      font-weight: bold;
+    }
   </style>
 </head>
 <body>
