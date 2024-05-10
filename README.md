@@ -54,6 +54,7 @@
   </style>
 </head>
 <body>
+<div style="text-align: justify;">
 <div id="sticky-menu">
   <nav>
     <a href="#biography">Biography</a> |
@@ -68,6 +69,7 @@
     <a href="#contact-me">Contact Me</a>
   </nav>
 </div>
+</div> 
 </body>
 </html>
 
