@@ -63,7 +63,6 @@
     </details>
   </div>
 
-  <!-- Your main content goes here -->
   <div class="main-content">
     
     <!-- Add the rest of your content sections here -->
