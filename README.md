@@ -39,7 +39,9 @@
         <a href="#complete-list-of-publications" style="margin-right: 10px;">Complete List of Publications</a> |
         <a href="#contact-me">Contact Me</a>
       </ul>
-      </div>
+    </div>
+    </div>
+  </div>
   
      
 <!-- Main content area with scrolling text -->
@@ -109,6 +111,13 @@ I have extensive expertise in evaluating the treatment effect of various disease
     <!-- Education Section -->
   <h2 id="education">Education</h2>
     <p>...</p>
+
+  </div>
+
+
+
+
+  
 
     <!-- Research Articles Section -->
   <h2 id="research-articles">Research Articles</h2>
