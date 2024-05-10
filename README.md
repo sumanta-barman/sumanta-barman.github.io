@@ -21,8 +21,7 @@
 </div>
 
 ---
-<html lang="en">
-<body>
+
 <!-- Middle section: Main Content -->
   <div style="flex: 1;">
     <div style="text-align: justify;">
@@ -257,9 +256,6 @@ I have extensive expertise in evaluating the treatment effect of various disease
     });
   });
 </script>
-
-</body>
-</html>
 
 </div>
 
