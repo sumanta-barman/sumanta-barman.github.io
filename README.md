@@ -21,51 +21,7 @@
 </div>
 
 ---
-<!-- Sidebar -->
-<details>
-<summary>Main menu</summary>
 
-<!-- Include the sidebar.md file -->
-{% include_relative sidebar.md %}
-
-</details>
-
-
----
-<div id="sticky-menu">
-  <details>
-    <summary>Main menu</summary>
-    <!-- Include the sidebar.md file -->
-    {% include_relative sidebar.md %}
-  </details>
-</div>
-
-
-#sticky-menu {
-  position: sticky;
-  top: 0;
-  background-color: #fff;
-  padding: 10px;
-  z-index: 1;
-}
-
-#sticky-menu details {
-  margin-bottom: 10px;
-}
-
-#sticky-menu summary {
-  cursor: pointer;
-  font-weight: bold;
-}
-
-.main-content {
-  padding-top: 60px; /* Adjust this value based on the height of the sticky menu */
-}
-
-
----
-
-<!DOCTYPE html>
 <html>
 <head>
   <title>My Website</title>
@@ -109,8 +65,7 @@
 
   <!-- Your main content goes here -->
   <div class="main-content">
-    <h2 id="biography">Biography</h2>
-    <p>...</p>
+    
 
     <h2 id="about-me">About Me</h2>
     <p>...</p>
