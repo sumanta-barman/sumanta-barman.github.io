@@ -21,7 +21,7 @@
 </div>
 
 ---
-
+<div style="flex: 1;">
 <div class="nav-menu">
   <ul>
     <li><a href="#biography">Biography</a></li>
@@ -35,6 +35,7 @@
     <li><a href="#complete-list-of-publications">Complete List of Publications</a></li>
     <li><a href="#contact-me">Contact Me</a></li>
   </ul>
+</div>
 </div>
 
 
