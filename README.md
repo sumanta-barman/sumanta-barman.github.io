@@ -95,6 +95,7 @@
 
 <!-- Navigation Section -->
 <nav id="navigation">
+  <div style="position: sticky; top: 0; left: 0; right: 0; width: 100%; background-color: #fff; z-index: 1; padding: 10px;">
   <ul>
     <a href="#biography" style="margin-right: 10px;">Biography</a> |
     <a href="#about-me" style="margin-right: 10px;">About Me</a> |
@@ -106,7 +107,9 @@
     <a href="#research-articles" style="margin-right: 10px;">Research Articles</a> |
     <a href="#complete-list-of-publications" style="margin-right: 10px;">Complete List of Publications</a> |
     <a href="#contact-me">Contact Me</a>
+  </div>
   </ul>
+    
 </nav>
 
 <!-- Main Content Section -->
