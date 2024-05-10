@@ -44,7 +44,7 @@
   
     
 ---
-<div
+<div>
 ## About Me
 
 <div style="text-align: justify;">
