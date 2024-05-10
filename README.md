@@ -48,9 +48,6 @@ margin-right: 10px;
     #sticky-menu nav a:last-child {
   margin-right: 0;
 }
-#main-content {
-margin-top: 0px; /* Add this line */
-}
 
   </style>
 </head>
@@ -72,10 +69,6 @@ margin-top: 0px; /* Add this line */
   </div>
 </div> 
 </body>
-
-<div class="main-content">
-</div> 
-
 </html>
 
 ---
