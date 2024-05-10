@@ -44,9 +44,7 @@
     </div>
   </div>
   
-    
   
-    
 ---
 
 <!-- Main content area with scrolling text -->
@@ -103,6 +101,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 ---
 
+
 ## Tools and Technologies
 
 - **Programming:** Python, R
@@ -113,11 +112,11 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 ---
 
-##Professional Experience
+## Professional Experience
 
 ---
 
-##Education
+## Education
 
 ---
 
