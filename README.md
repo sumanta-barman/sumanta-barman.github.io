@@ -26,6 +26,18 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Scroll Highlight Navigation</title>
+<style>
+  /* Styling for navigation menu */
+  #navigation {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 1000;
+  }
+</style>
 
 <!-- Middle section: Main Content -->
   <div style="flex: 1;">
@@ -107,33 +119,23 @@
 </div>
 
 <script>
-  // Add scroll event listener
   window.addEventListener('scroll', () => {
-    // Get all navigation links
-    const navLinks = document.querySelectorAll('a[href^="#"]');
+    const navLinks = document.querySelectorAll('#navigation a');
     
-    // Loop through each link
     navLinks.forEach(link => {
-      // Get target section ID from link href
       const sectionId = link.getAttribute('href').substring(1);
-      
-      // Get corresponding section element
       const section = document.getElementById(sectionId);
       
-      // Check if section is in view
       if (section) {
         const sectionTop = section.offsetTop;
         const sectionHeight = section.offsetHeight;
         const scrollPosition = window.scrollY;
         
-        // Highlight link if section is in view
-        if (
-          scrollPosition >= sectionTop - 20 &&
-          scrollPosition < sectionTop + sectionHeight - 20
-        ) {
-          link.style.fontWeight = 'bold'; // Example: Highlight with bold font
+        // Highlight the corresponding link if the section is in view
+        if (scrollPosition >= sectionTop - 20 && scrollPosition < sectionTop + sectionHeight - 20) {
+          link.style.fontWeight = 'bold'; // Highlight link
         } else {
-          link.style.fontWeight = 'normal'; // Reset to normal font
+          link.style.fontWeight = 'normal'; // Reset link style
         }
       }
     });
