@@ -34,19 +34,19 @@
       z-index: 1;
     }
 
-  #sticky-menu nav {
+#sticky-menu nav {
       display: flex;
       justify-content: center;
       align-items: center;
     }
 
-  #sticky-menu nav a {
+#sticky-menu nav a {
       margin-right: 10px;
       text-decoration: none;
       color: #333;
     }
 
-  #sticky-menu nav a:last-child {
+#sticky-menu nav a:last-child {
       margin-right: 0;
     }
   </style>
