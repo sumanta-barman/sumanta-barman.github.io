@@ -54,8 +54,8 @@
   </style>
 </head>
 <body>
-<div style="text-align: justify;">
 <div id="sticky-menu">
+  <div style="text-align: justify;">
   <nav>
     <a href="#biography">Biography</a> |
     <a href="#about-me">About Me</a> |
@@ -68,7 +68,7 @@
     <a href="#complete-list-of-publications">Complete List of Publications</a> |
     <a href="#contact-me">Contact Me</a>
   </nav>
-</div>
+  </div>
 </div> 
 </body>
 </html>
