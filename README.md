@@ -43,18 +43,7 @@
     </div>
 
 <!-- Main content area with scrolling text -->
-<div style="padding-top: 70px; /* Adjust this value based on the height of your fixed menu */">
-  <h2 id="biography">Biography</h2>
-  <p>Text content for Biography...</p>
-
-  <h2 id="about-me">About Me</h2>
-  <p>Text content for About Me...</p>
-
-  <!-- Add more sections and content -->
-</div>
-
-<!-- Main content area with scrolling text -->
-div style="padding-top: 70px;">
+<div style="padding-top: 70px;">
     <!-- Biography Section -->
   <h2 id="biography">Biography</h2>
     <div style="text-align: justify;">
