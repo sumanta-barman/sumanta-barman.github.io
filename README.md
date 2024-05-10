@@ -100,6 +100,39 @@
 
 </div>
 
+<script>
+  // Add scroll event listener
+  window.addEventListener('scroll', () => {
+    // Get all navigation links
+    const navLinks = document.querySelectorAll('a[href^="#"]');
+    
+    // Loop through each link
+    navLinks.forEach(link => {
+      // Get target section ID from link href
+      const sectionId = link.getAttribute('href').substring(1);
+      
+      // Get corresponding section element
+      const section = document.getElementById(sectionId);
+      
+      // Check if section is in view
+      if (section) {
+        const sectionTop = section.offsetTop;
+        const sectionHeight = section.offsetHeight;
+        const scrollPosition = window.scrollY;
+        
+        // Highlight link if section is in view
+        if (
+          scrollPosition >= sectionTop - 20 &&
+          scrollPosition < sectionTop + sectionHeight - 20
+        ) {
+          link.style.fontWeight = 'bold'; // Example: Highlight with bold font
+        } else {
+          link.style.fontWeight = 'normal'; // Reset to normal font
+        }
+      }
+    });
+  });
+</script>
 
 
 
