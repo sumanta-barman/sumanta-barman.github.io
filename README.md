@@ -23,6 +23,40 @@
 ---
 
 <html>
+<head>
+  <title>My Website</title>
+  <style>
+    #sticky-menu {
+      position: sticky;
+      top: 0;
+      background-color: #fff;
+      padding: 10px;
+      z-index: 1;
+    }
+
+#sticky-menu details {
+  margin-bottom: 10px;
+}
+
+#sticky-menu summary {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#sticky-menu nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+#sticky-menu a {
+  text-decoration: none;
+  color: #333;
+  margin-right: 10px;
+}
+
+#sticky-menu a:last-child {
+  margin-right: 0;
+}
 
   <div id="sticky-menu">
   <details>
@@ -47,7 +81,7 @@
   <div class="main-content">
     <!-- Add the rest of your content sections here -->
   </div>
-
+<head>
 </html>
 
 ---
