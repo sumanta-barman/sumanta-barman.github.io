@@ -22,7 +22,6 @@
 
 
 ---
-
 <!-- Middle section: Main Content -->
   <div style="flex: 1;">
     <!-- Anchor links and section headings (Table of Contents) -->
@@ -40,7 +39,6 @@
         <a href="#contact-me">Contact Me</a>
       </ul>
     </div>
-
 ---
 
 <!-- Main content area with scrolling text -->
