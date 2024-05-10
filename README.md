@@ -20,7 +20,6 @@
   </div>
 </div>
 
-
 ---
 <!-- Middle section: Main Content -->
   <div style="flex: 1;">
@@ -38,7 +37,7 @@
         <a href="#complete-list-of-publications" style="margin-right: 10px;">Complete List of Publications</a> |
         <a href="#contact-me">Contact Me</a>
       </ul>
-  </div>
+   </div>
   
 <!-- Main content area with scrolling text -->
 <div style="padding-top: 50px;">
