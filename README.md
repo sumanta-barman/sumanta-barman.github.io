@@ -53,7 +53,7 @@
 </head>
 <body>
   <div id="sticky-menu">
-      <div style="text-align: justify;">
+    <div style="text-align: justify;">
       <div style="position: sticky; top: 0; left: 0; right: 0; width: 100%; background-color: #fff; z-index: 1; padding: 10px;">
     <nav>
       <a href="#biography" style="margin-right: 10px;">Biography</a> |
@@ -68,7 +68,7 @@
       <a href="#contact-me">Contact Me</a>
     </nav>
       </div>
-      </div>
+        </div>
   </div>
 </body>
 </html>
