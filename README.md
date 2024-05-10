@@ -43,6 +43,7 @@
 #sticky-menu nav a {
   margin-right: 10px;
   text-decoration: none;
+  background-color: #fff;
   color: #333;
   white-space: nowrap; /* Add this line */
 }
