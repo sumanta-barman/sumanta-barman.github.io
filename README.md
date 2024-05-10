@@ -101,6 +101,7 @@
 
 </div>
 
+<html lang="en">
 
 <!-- JavaScript for scroll-based navigation highlighting -->
 <script>
@@ -126,6 +127,8 @@
     });
   });
 </script>
+
+</html>
 
 
 <!-- Anchor links and section headings -->
