@@ -36,7 +36,6 @@
         <a href="#tools-technologies" style="margin-right: 10px;">Tools and Technologies</a> |
         <a href="#professional-experience" style="margin-right: 10px;">Professional Experience</a> |
         <a href="#education" style="margin-right: 10px;">Education</a> |
-        <a href="#research-articles" style="margin-right: 10px;">Research Articles</a> |
         <a href="#complete-list-of-publications" style="margin-right: 10px;">Complete List of Publications</a> |
         <a href="#contact-me">Contact Me</a>
       </ul>
@@ -117,9 +116,6 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 ## Education
 
----
-
-## Research Articals
 
 
 <strong>Selected Publications<strong>
