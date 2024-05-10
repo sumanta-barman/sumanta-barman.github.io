@@ -41,7 +41,7 @@ display: flex;
   #sticky-menu nav a {
 margin-right: 10px;
   text-decoration: none;
-  color: #fff; /* Change the color to blue */
+  color: #00ff; /* Change the color to blue */
   font-weight: bold; /* Make the text bold */
   white-space: nowrap;
 }
