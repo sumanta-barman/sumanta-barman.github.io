@@ -1,4 +1,4 @@
-## Navigation
+## Main menu
 
 <div class="nav-menu">
   
