@@ -23,6 +23,32 @@
 ---
 
 <html lang="en">
+<!-- JavaScript for scroll-based navigation highlighting -->
+<script>
+  window.addEventListener('scroll', () => {
+    const navLinks = document.querySelectorAll('a[href^="#"]');
+    
+    navLinks.forEach(link => {
+      const sectionId = link.getAttribute('href').substring(1);
+      const section = document.getElementById(sectionId);
+      
+      if (section) {
+        const sectionTop = section.offsetTop;
+        const sectionHeight = section.offsetHeight;
+        const scrollPosition = window.scrollY;
+        
+        if (
+          scrollPosition >= sectionTop - 20 &&
+          scrollPosition < sectionTop + sectionHeight - 20
+        ) {
+          link.style.fontWeight = 'bold'; // Highlight link
+        } else {
+          link.style.fontWeight = 'normal'; // Reset link style
+        }
+      }
+    });
+  });
+</script>
 
 <!-- Middle section: Main Content -->
   <div style="flex: 1;">
@@ -44,7 +70,7 @@
     </div>
      
 <!-- Main content area with scrolling text -->
-<div style="padding-top: 10px;">
+  <div style="padding-top: 10px;">
     <!-- Biography Section -->
   <h2 id="biography">Biography</h2>
     <div style="text-align: justify;">
@@ -101,34 +127,9 @@
     </ul>
   </div>
 
-</div>
+  </div>
 
-<!-- JavaScript for scroll-based navigation highlighting -->
-<script>
-  window.addEventListener('scroll', () => {
-    const navLinks = document.querySelectorAll('a[href^="#"]');
-    
-    navLinks.forEach(link => {
-      const sectionId = link.getAttribute('href').substring(1);
-      const section = document.getElementById(sectionId);
-      
-      if (section) {
-        const sectionTop = section.offsetTop;
-        const sectionHeight = section.offsetHeight;
-        const scrollPosition = window.scrollY;
-        
-        if (
-          scrollPosition >= sectionTop - 20 &&
-          scrollPosition < sectionTop + sectionHeight - 20
-        ) {
-          link.style.fontWeight = 'bold'; // Highlight link
-        } else {
-          link.style.fontWeight = 'normal'; // Reset link style
-        }
-      }
-    });
-  });
-</script>
+
 </html>
 
 <!-- Anchor links and section headings -->
