@@ -105,16 +105,16 @@
   window.addEventListener('scroll', () => {
     const navLinks = document.querySelectorAll('a[href^="#"]');
     
-  navLinks.forEach(link => {
+    navLinks.forEach(link => {
       const sectionId = link.getAttribute('href').substring(1);
       const section = document.getElementById(sectionId);
       
-  if (section) {
+      if (section) {
         const sectionTop = section.offsetTop;
         const sectionHeight = section.offsetHeight;
         const scrollPosition = window.scrollY;
         
-  if (
+        if (
           scrollPosition >= sectionTop - 20 &&
           scrollPosition < sectionTop + sectionHeight - 20
         ) {
@@ -126,6 +126,138 @@
     });
   });
 </script>
+
+</body>
+</html>
+
+Explanation:
+
+    The HTML document consists of a navigation menu (<div id="navigation">) and a main content area with various sections (<div style="padding-top: 60px;">).
+
+    Each section in the main content has a corresponding <h2> heading with a unique id attribute that matches the href attributes of the navigation links.
+
+    CSS styles (#navigation) are used to position and style the fixed navigation menu.
+
+    JavaScript code (window.addEventListener('scroll', ...) listens for scroll events on the window. It loops through each navigation link (<a> elements with href attributes starting with #) and checks if the corresponding section is in view based on the scroll position (window.scrollY).
+
+    If a section is in view, the script applies a highlight style (font-weight: bold;) to the corresponding navigation link. If not, it resets the style to normal (font-weight: normal;).
+
+Customization:
+
+    You can modify the CSS styles (#navigation) to change the appearance of the fixed navigation menu.
+
+    Adjust the JavaScript code (e.g., scroll position threshold, highlight style) to suit your specific design and preferences.
+
+Integration:
+
+Copy and paste the above HTML code into your webpage (README.md or HTML file) and customize it as needed. Ensure that
+User
+but the menu highlight after scrolling the certain menu text. I want to highlight the menu while the corresponding menu text starts to scroll
+ChatGPT
+
+To achieve the effect where the navigation menu highlights as you scroll past each section's heading, you'll need to modify the JavaScript to dynamically update the active state of the navigation links based on the scroll position relative to the sections. Here's an updated version of the code with comments explaining each part:
+
+html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Scroll Highlight Navigation</title>
+<style>
+  /* Styling for navigation menu */
+  #navigation {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 1000;
+  }
+</style>
+</head>
+<body>
+
+<!-- Navigation menu -->
+<div id="navigation">
+  <a href="#biography">Biography</a> |
+  <a href="#about-me">About Me</a> |
+  <a href="#expertise">Expertise</a> |
+  <a href="#research-highlights">Research Highlights</a> |
+  <a href="#tools-technologies">Tools & Technologies</a> |
+  <a href="#professional-experience">Professional Experience</a> |
+  <a href="#education">Education</a> |
+  <a href="#research-articles">Research Articles</a> |
+  <a href="#complete-list-of-publications">Complete List of Publications</a> |
+  <a href="#contact-me">Contact Me</a>
+</div>
+
+<!-- Main content area with scrolling text -->
+<div style="padding-top: 60px;">
+  <h2 id="biography">Biography</h2>
+  <p>Text content for Biography...</p>
+
+  <h2 id="about-me">About Me</h2>
+  <p>Text content for About Me...</p>
+
+  <h2 id="expertise">Expertise</h2>
+  <ul>
+    <li>Next generation sequencing library preparation</li>
+    <li>Immunogenomics/Transcriptomics/Proteomics data analysis</li>
+    <li>Single B Cell Recombinant Antibodies</li>
+    <li>Bioinformatics</li>
+    <!-- Add more expertise items -->
+  </ul>
+
+  <h2 id="research-highlights">Research Highlights</h2>
+  <p>Text content for Research Highlights...</p>
+  
+  <h2 id="tools-technologies">Tools & Technologies</h2>
+  <p>Text content for Tools & Technologies...</p>
+
+  <h2 id="professional-experience">Professional Experience</h2>
+  <p>Text content for Professional Experience...</p>
+
+  <h2 id="education">Education</h2>
+  <p>Text content for Education...</p>
+
+  <h2 id="research-articles">Research Articles</h2>
+  <p>Text content for Research Articles...</p>
+
+  <h2 id="complete-list-of-publications">Complete List of Publications</h2>
+  <p>Text content for Complete List of Publications...</p>
+
+  <h2 id="contact-me">Contact Me</h2>
+  <p>Contact information...</p>
+</div>
+
+<!-- JavaScript for scroll-based navigation highlighting -->
+<script>
+  window.addEventListener('scroll', () => {
+    const navLinks = document.querySelectorAll('#navigation a');
+    
+    navLinks.forEach(link => {
+      const sectionId = link.getAttribute('href').substring(1);
+      const section = document.getElementById(sectionId);
+      
+      if (section) {
+        const sectionTop = section.offsetTop;
+        const sectionHeight = section.offsetHeight;
+        const scrollPosition = window.scrollY;
+        
+        // Highlight the corresponding link if the section is in view
+        if (scrollPosition >= sectionTop - 20 && scrollPosition < sectionTop + sectionHeight - 20) {
+          link.style.fontWeight = 'bold'; // Highlight link
+        } else {
+          link.style.fontWeight = 'normal'; // Reset link style
+        }
+      }
+    });
+  });
+</script>
+
 
 <!-- Anchor links and section headings -->
 <div style="margin-top: 20px;">
