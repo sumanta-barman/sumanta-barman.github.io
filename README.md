@@ -50,7 +50,7 @@ margin-right: 10px;
 }
 
   .main-content {
-  margin-top: 90px; /* Add this line */
+  margin-top: 10px; /* Add this line */
 }
 
   </style>
