@@ -101,7 +101,6 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 ---
 
-
 ## Tools and Technologies
 
 - **Programming:** Python, R
@@ -121,6 +120,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
 ---
 
 ## Research Articals
+
 
 <strong>Selected Publications<strong>
 
