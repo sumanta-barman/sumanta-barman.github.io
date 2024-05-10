@@ -74,7 +74,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
       <li>Quantitative PCR</li>
       <li>Flow Cytometry</li>
       <li>Affinity Chromatography</li>
-      <li>Cell Culture*</li>
+      <li>Cell Culture</li>
       <li>Statistical Analysis using R, SPSS, GraphPad Prism</li>
       <li>Machine Learning and Deep Learning</li>
       <li>Multi-omics Technologies</li>
@@ -95,11 +95,11 @@ I have extensive expertise in evaluating the treatment effect of various disease
     <!-- Tools & Technologies Section -->
   <h2 id="tools-technologies">Tools & Technologies</h2>
     <ul>
-      <li>**Programming:** Python, R</li>
-      <li>**Data Analysis:** Pandas, NumPy, SciPy, Seurat, Scanpy, Scvitolls</li>
-      <li>**Machine Learning:** Scikit-learn, TensorFlow, PyTorch</li>
-      <li>**Bioinformatics:** BWA, SAMtools, Bioconductor</li>
-      <li>**Statistical Analysis:** RStudio, SPSS, GraphPad Prism</li>
+      <li>Programming: Python, R</li>
+      <li>Data Analysis: Pandas, NumPy, SciPy, Seurat, Scanpy, Scvitolls</li>
+      <li>Machine Learning: Scikit-learn, TensorFlow, PyTorch</li>
+      <li>Bioinformatics: BWA, SAMtools, Bioconductor</li>
+      <li>Statistical Analysis: RStudio, SPSS, GraphPad Prism</li>
     </ul>
 
     <!-- Professional Experience Section -->
@@ -114,7 +114,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
   <h2 id="research-articles">Research Articles</h2>
     <div style="text-align: justify;">
 
-*Computational immunology:*
+Computational immunology:
 
 1. **[Alemtuzumab-induced immune phenotype and repertoire changes: implications for secondary autoimmunity](https://academic.oup.com/brain/article/145/5/1711/6590581)**  
    *Authors:* Tobias Ruck#, <strong>Sumanta Barman#</strong>, Andreas Schulte-Mecklenbeck#, Steffen Pfeuffer#, Falk Steffen, Christopher Nelke, Christina B Schroeter, Alice Willison, Michael Heming, Thomas Müntefering, Nico Melzer, Julia Krämer, Maren Lindner, Marianne Riepenhausen, Catharina C Gross, Luisa Klotz, Stefan Bittner, Paolo A Muraro, Tilman Schneider-Hohendorf, Nicholas Schwab, Gerd Meyer zu Hörste, Norbert Goebels, Sven G Meuth, Heinz Wiendl. *<strong>#equally contributing first authors</strong>*
@@ -208,7 +208,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
 1. **jjj**
 2. **ggg**
 
-   </div>
+    </div>
 ---
 
     <!-- Complete List of Publications Section -->
