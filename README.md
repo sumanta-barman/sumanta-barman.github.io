@@ -22,6 +22,27 @@
 
 ---
 
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Scroll Highlight Navigation</title>
+<style>
+  /* Styling for navigation menu */
+  #navigation {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 1000;
+  }
+</style>
+</head>
+<body>
+
 <!-- Middle section: Main Content -->
   <div style="flex: 1;">
     <!-- Anchor links and section headings (Table of Contents) -->
@@ -254,6 +275,8 @@ I have extensive expertise in evaluating the treatment effect of various disease
 </script>
 
 
+</body>
+</html>
 
 
 
