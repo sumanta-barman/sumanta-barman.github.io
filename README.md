@@ -23,6 +23,7 @@
 ---
 <div style="flex: 1;">
 <div class="nav-menu">
+  <div style="position: sticky; top: 0; left: 0; right: 0; width: 100%; background-color: #fff; z-index: 1; padding: 10px;">
   <ul>
     <li><a href="#biography">Biography</a></li>
     <li><a href="#about-me">About Me</a></li>
@@ -35,6 +36,7 @@
     <li><a href="#complete-list-of-publications">Complete List of Publications</a></li>
     <li><a href="#contact-me">Contact Me</a></li>
   </ul>
+  </div>
 </div>
 </div>
 
