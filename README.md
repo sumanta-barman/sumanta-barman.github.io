@@ -23,7 +23,6 @@
 
 ---
 
-
 <!-- Middle section: Main Content -->
   <div style="flex: 1;">
     <!-- Anchor links and section headings (Table of Contents) -->
@@ -42,6 +41,8 @@
       </ul>
     </div>
 
+---
+
 <!-- Main content area with scrolling text -->
 <div style="padding-top: 50px;">
     <!-- Biography Section -->
@@ -55,8 +56,6 @@
     <div style="text-align: justify;">
       I am a research scientist specializing in Central Nervous System (CNS) autoimmune diseases with expertise in immunology, molecular biology, immunogenomics, transcriptomics, proteomics, and bioinformatics...
     </div>
-</div>
-
 
     <!-- Expertise Section -->
   <h2 id="expertise">Expertise</h2>
