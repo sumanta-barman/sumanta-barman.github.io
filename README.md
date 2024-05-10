@@ -123,7 +123,6 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 ## Research Articals
 
-<div style="text-align: justify;">
 <strong>Selected Publications<strong>
 
 *Computational immunology:*
@@ -220,7 +219,6 @@ I have extensive expertise in evaluating the treatment effect of various disease
 1. **jjj**
 2. **ggg**
 
-</div>
    
 ---
 
