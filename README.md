@@ -26,34 +26,38 @@
 <head>
   <title>My Website</title>
   <style>
-    #sticky-menu {
-      position: sticky;
-      top: 0;
-      background-color: #fff;
-      padding: 10px;
-      z-index: 1;
-    }
+#sticky-menu {
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+  padding: 10px;
+  z-index: 1;
+}
 
-  #sticky-menu details {
-      margin-bottom: 10px;
-    }
+#sticky-menu details {
+  margin-bottom: 10px;
+}
 
-  #sticky-menu summary {
-      cursor: pointer;
-      font-weight: bold;
-    }
+#sticky-menu summary {
+  cursor: pointer;
+  font-weight: bold;
+}
 
-  #sticky-menu ul {
-      list-style-type: none;
-      padding: 0;
-      margin: 0;
-      display: flex;
-      flex-direction: column; /* Add this line to make the list vertical */
-    }
+#sticky-menu nav {
+  display: flex;
+  justify-content: space-between;
+}
 
-  #sticky-menu li {
-      margin-bottom: 5px;
-    }
+#sticky-menu a {
+  text-decoration: none;
+  color: #333;
+  margin-right: 10px;
+}
+
+#sticky-menu a:last-child {
+  margin-right: 0;
+}
+
   </style>
 </head>
 <body>
