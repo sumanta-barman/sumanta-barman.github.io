@@ -44,7 +44,7 @@
   
     
 ---
-
+<div
 ## About Me
 
 <div style="text-align: justify;">
@@ -220,5 +220,6 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 Feel free to reach out if you are interested in collaboration or have any inquiries related to my research!
 
+</div>
 </div>
 
