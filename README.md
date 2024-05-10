@@ -21,7 +21,6 @@
 </div>
 
 ---
-
 <html>
 <head>
   <title>My Website</title>
@@ -34,42 +33,38 @@
       z-index: 1;
     }
 
-#sticky-menu nav {
+    #sticky-menu nav {
       display: flex;
       justify-content: center;
       align-items: center;
     }
 
-#sticky-menu nav a {
+    #sticky-menu nav a {
       margin-right: 10px;
       text-decoration: none;
       color: #333;
     }
 
-#sticky-menu nav a:last-child {
+    #sticky-menu nav a:last-child {
       margin-right: 0;
     }
   </style>
 </head>
 <body>
   <div id="sticky-menu">
-    <div style="text-align: justify;">
-      <div style="position: sticky; top: 0; left: 0; right: 0; width: 100%; background-color: #fff; z-index: 1; padding: 10px;">
     <nav>
-      <a href="#biography" style="margin-right: 10px;">Biography</a> |
-      <a href="#about-me" style="margin-right: 10px;">About Me</a> |
-      <a href="#expertise" style="margin-right: 10px;">Expertise</a> |
-      <a href="#research-highlights" style="margin-right: 10px;">Research Highlights</a> |
-      <a href="#tools-and-technologies" style="margin-right: 10px;">Tools and Technologies</a> 
-      <a href="#professional-experience" style="margin-right: 10px;">Professional Experience</a> |
-      <a href="#education" style="margin-right: 10px;">Education</a> |
-      <a href="#research-articles" style="margin-right: 10px;">Research Articles</a> |
-      <a href="#complete-list-of-publications" style="margin-right: 10px;">Complete List of Publications</a> |
+      <a href="#biography">Biography</a> |
+      <a href="#about-me">About Me</a> |
+      <a href="#expertise">Expertise</a> |
+      <a href="#research-highlights">Research Highlights</a> |
+      <a href="#tools-and-technologies">Tools and Technologies</a> |
+      <a href="#professional-experience">Professional Experience</a> |
+      <a href="#education">Education</a> |
+      <a href="#research-articles">Research Articles</a> |
+      <a href="#complete-list-of-publications">Complete List of Publications</a> |
       <a href="#contact-me">Contact Me</a>
     </nav>
-        </div>
-      </div>
-    </div>
+  </div>
 </body>
 </html>
 
