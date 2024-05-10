@@ -25,6 +25,7 @@
   
 <!-- Middle section: Main Content -->
   <div style="flex: 1;">
+    <div style="text-align: justify;">
     <!-- Anchor links and section headings (Table of Contents) -->
     <div style="position: sticky; top: 0; left: 0; right: 0; width: 100%; background-color: #fff; z-index: 1; padding: 10px;">
       <ul style="list-style: none; padding-left: 0;">
@@ -40,6 +41,8 @@
         <a href="#contact-me">Contact Me</a>
       </ul>
     </div>
+    </div>
+  </div>
     
 ---
 
