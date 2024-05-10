@@ -96,16 +96,16 @@
 <!-- Navigation Section -->
 <nav id="navigation">
   <ul>
-    <li><a href="#biography">Biography</a></li>
-    <li><a href="#about-me">About Me</a></li>
-    <li><a href="#expertise">Expertise</a></li>
-    <li><a href="#research-highlights">Research Highlights</a></li>
-    <li><a href="#tools-technologies">Tools & Technologies</a></li>
-    <li><a href="#professional-experience">Professional Experience</a></li>
-    <li><a href="#education">Education</a></li>
-    <li><a href="#research-articles">Research Articles</a></li>
-    <li><a href="#complete-list-of-publications">Complete List of Publications</a></li>
-    <li><a href="#contact-me">Contact Me</a></li>
+    <a href="#biography" style="margin-right: 10px;">Biography</a> |
+    <a href="#about-me" style="margin-right: 10px;">About Me</a> |
+    <a href="#expertise" style="margin-right: 10px;">Expertise</a> |
+    <a href="#research-highlights" style="margin-right: 10px;">Research Highlights</a> |
+    <a href="#tools-technologies" style="margin-right: 10px;">Tools and Technologies</a> |
+    <a href="#professional-experience" style="margin-right: 10px;">Professional Experience</a> |
+    <a href="#education" style="margin-right: 10px;">Education</a> |
+    <a href="#research-articles" style="margin-right: 10px;">Research Articles</a> |
+    <a href="#complete-list-of-publications" style="margin-right: 10px;">Complete List of Publications</a> |
+    <a href="#contact-me">Contact Me</a>
   </ul>
 </nav>
 
