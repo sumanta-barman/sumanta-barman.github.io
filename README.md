@@ -68,7 +68,6 @@
 
   <div class="main-content">
     
-    <!-- Add the rest of your content sections here -->
   </div>
 </body>
 </html>
