@@ -49,6 +49,10 @@ margin-right: 10px;
   margin-right: 0;
 }
 
+.main-content {
+  margin-top: 60px; /* Add this line */
+}
+
   </style>
 </head>
 <body>
