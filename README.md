@@ -22,8 +22,6 @@
 
 ---
 
-
-/* Sticky navigation menu */
 .nav-menu {
   position: sticky;
   top: 0;
