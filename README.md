@@ -45,8 +45,6 @@ margin-right: 10px;
   font-weight: bold; /* Make the text bold */
   white-space: nowrap;
 }
-    
-    
     #sticky-menu nav a:last-child {
   margin-right: 0;
 }
