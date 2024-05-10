@@ -32,22 +32,18 @@
   padding: 10px;
   z-index: 1;
 }
-
 #sticky-menu nav {
-  display: flex;
+display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap; /* Add this line */
 }
-
 #sticky-menu nav a {
   margin-right: 10px;
   text-decoration: none;
-  background-color: #fff;
   color: #333;
   white-space: nowrap; /* Add this line */
 }
-
 #sticky-menu nav a:last-child {
   margin-right: 0;
 }
