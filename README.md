@@ -23,12 +23,6 @@
 ---
 
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Scroll Highlight Navigation</title>
-</head>
-<body>
 
 <!-- Middle section: Main Content -->
   <div style="flex: 1;">
@@ -135,10 +129,7 @@
     });
   });
 </script>
-
-</body>
 </html>
-
 
 <!-- Anchor links and section headings -->
 <div style="margin-top: 20px;">
