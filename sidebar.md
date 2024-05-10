@@ -1,5 +1,3 @@
-## Main menu
-
 <div class="nav-menu">
   
   <ul>
