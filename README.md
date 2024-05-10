@@ -92,22 +92,6 @@
 </head>
 <body>
 
-<!-- Header Section -->
-<header class="container">
-  <div class="profile-info">
-    <img src="SB.jpg" alt="Profile Picture">
-    <p>Neuroimmunology Scientist<br>Department of Neurology<br>University Hospital Düsseldorf<br>Heinrich Heine University Düsseldorf</p>
-  </div>
-
-  <div class="contact-icons">
-    <ul>
-      <li><a href="mailto:barman.sumanta@gmail.com"><img src="Email-logo.png" alt="Email" width="30"></a></li>
-      <li><a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/" target="_blank"><img src="linkedIn_logo.png" alt="LinkedIn" width="30"></a></li>
-      <li><a href="https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en" target="_blank"><img src="google_scholar_logo.png" alt="Google Scholar" width="30"></a></li>
-      <li><a href="https://github.com/sumanta-barman" target="_blank"><img src="github-logo.png" alt="GitHub" width="30"></a></li>
-    </ul>
-  </div>
-</header>
 
 <!-- Navigation Section -->
 <nav id="navigation">
@@ -173,6 +157,28 @@
       const sectionTop = section.offsetTop - 100;
       const sectionHeight = section.clientHeight;
       const id = section.getAttribute
+            const id = section.getAttribute('id');
+
+      // Check if the current scroll position is within the bounds of the section
+      if (window.scrollY >= sectionTop && window.scrollY < sectionTop + sectionHeight) {
+        navLinks.forEach(link => {
+          if (link.getAttribute('href') === `#${id}`) {
+            link.classList.add('active');
+          } else {
+            link.classList.remove('active');
+          }
+        });
+      }
+    });
+  }
+
+  // Listen for scroll events and call the highlightMenu function
+  window.addEventListener('scroll', highlightMenu);
+</script>
+
+</body>
+</html>
+
 
 
 
