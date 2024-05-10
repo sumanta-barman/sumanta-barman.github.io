@@ -34,11 +34,11 @@
       z-index: 1;
     }
 
-    #sticky-menu details {
+   #sticky-menu details {
       margin-bottom: 10px;
     }
 
-    #sticky-menu summary {
+  #sticky-menu summary {
       cursor: pointer;
       font-weight: bold;
     }
