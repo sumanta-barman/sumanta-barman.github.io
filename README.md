@@ -33,9 +33,9 @@
         <a href="#about-me" style="margin-right: 10px;">About Me</a> |
         <a href="#expertise" style="margin-right: 10px;">Expertise</a> |
         <a href="#research-highlights" style="margin-right: 10px;">Research Highlights</a> |
-        <a href="#research-tools and technologies" style="margin-right: 10px;">Research tools and technologies</a> 
+        <a href="#tools-and-technologies" style="margin-right: 10px;">Tools and Technologies</a> 
         <a href="#professional-experience" style="margin-right: 10px;">Professional Experience</a> |
-        <a href="#educations" style="margin-right: 10px;">Educations</a> |
+        <a href="#education" style="margin-right: 10px;">Education</a> |
         <a href="#educations" style="margin-right: 10px;">Educations</a> |
         <a href="#complete-list-of-publications" style="margin-right: 10px;">Complete List of Publications</a> |
         <a href="#contact-me">Contact Me</a>
@@ -101,7 +101,7 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 ---
 
-## Research Highlights_Tools and Technologies
+## Tools and Technologies
 
 - **Programming:** Python, R
 - **Data Analysis:** Pandas, NumPy, SciPy, Seurat, Scanpy, Scvitolls
@@ -117,7 +117,9 @@ I have extensive expertise in evaluating the treatment effect of various disease
 
 ## Education
 
+---
 
+## Educations
 
 <strong>Selected Publications<strong>
 
