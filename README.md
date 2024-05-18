@@ -206,23 +206,26 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
    
    *Journal:* Brain  
    *Year:* 2022
-
+ </div>
     <a href="https://academic.oup.com/brain/article/145/5/1711/6590581"><img src="awac064f4.jpeg" alt="Thumbnail" width="200"></a>
 
+<div style="text-align: justify;">
 2. **[Classifying flow cytometry data using Bayesian analysis helps to distinguish ALS patients from healthy controls](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full)**  
    *Authors:* Saskia Räuber, Christopher Nelke, Christina B Schroeter,  <strong>Sumanta Barman</strong>, Marc Pawlitzki, Jens Ingwersen, Katja Akgün, Rene Günther, Alejandra P Garza, Michaela Marggraf, Ildiko Rita Dunay, Stefanie Schreiber, Stefan Vielhaber, Tjalf Ziemssen, Nico Melzer, Tobias Ruck, Sven G Meuth, Michael Herty.
    
    *Journal:* Frontiers in Immunology  
    *Year:* 2023
-   
+  </div>
    <a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full"><img src="https://www.frontiersin.org/files/Articles/1198860/fimmu-14-1198860-HTML/image_m/fimmu-14-1198860-g004.jpg" alt="Thumbnail" width="300"></a>
 
+<div style="text-align: justify;">
 3. **T cell specificity and protective functions elicited by KSHV infection of B cells in vivo**  
    *Authors:* Nicole Caduff, Lisa Rieble1, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz.
 
    *Journal:* Nature communications (Accepted)  
    *Year:* 2024
-
+</div>
+<div style="text-align: justify;">
 4. **Consensus clustering identifies disease subtypes of myasthenia gravis**  
    *Authors:* Christopher Nelke, Christina B. Schroeter, <strong>Sumanta Barman</strong>, Frauke Stascheit, Lars Masanneck, Lukas Theissen, Niklas Huntemann, Derya Cengiz, Vera Dobelmann, Marc Pawlitzki, Saskia Räuber, Hans-Peter Hartung, Simone König, Andreas Roos, Andreas Meisel, Sven G. Meuth, Tobias Ruck.
    
@@ -246,7 +249,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
    
    *Journal:* Annals of clinical and translational neurology  
    *Year:* 2017
-   
+</div> 
    <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444"><img src="https://onlinelibrary.wiley.com/cms/asset/20fe6556-ba39-4887-9dbb-0d067072d452/acn3444-fig-0004-m.jpg" alt="Thumbnail" width="200"></a>
 
    
@@ -293,7 +296,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 1. **jjj**
 2. **ggg**
 
-</div>  
+  
 ---
 
 ## Complete List of Publications
