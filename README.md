@@ -132,6 +132,23 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
 ## Education
 
+2016 – 2021
+PhD in Neuroimmunology (Grade: summa cum laude)
+Neuroimmunology unit, Medicine faculty, Heinrich Heine University Düsseldorf, Germany.
+Thesis: Single B cell antibody technology and high-throughput immune repertoire sequencing as
+complementary tools to better understand central nervous system (CNS) inflammation and treatment
+effects
+2012 – 2015
+Master of Science in Biochemistry (Grade: 1.8)
+Ruhr University Bochum, Germany
+Thesis: Identification of antigenic targets in the humoral immune response of inflammatory CNS
+diseases
+2006 – 2010
+Bachelor of Science in Genetic Engineering & Biotechnology (Grade: 1.5 in German grading
+system)
+Shahjalal University of Science and Technology, Bangladesh
+Thesis: Characterization of oral microbes and their antibiotic sensitivity pattern
+
 ---
 
 ## Research Articles
