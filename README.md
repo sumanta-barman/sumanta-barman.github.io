@@ -140,6 +140,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
         <div class="thesis">Thesis: Single B cell antibody technology and high-throughput immune repertoire sequencing as complementary tools to better understand central nervous system (CNS) inflammation and treatment effects</div>
   </div>
 
+<br><br>
 
   <div class="education-section">
         <div class="education-title">2012 – 2015</div>
@@ -148,7 +149,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
         <div class="thesis">Thesis: Identification of antigenic targets in the humoral immune response of inflammatory CNS diseases</div>
   </div>
 
-
+<br><br>
 
   <div class="education-section">
         <div class="education-title">2006 – 2010</div>
