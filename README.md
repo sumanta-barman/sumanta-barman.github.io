@@ -131,30 +131,34 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 ---
 
 ## Education
-
-<div class="education-section">
-        <div class="education-title">2016 – 2021</div>
-        <div class="degree"><b>PhD in Neuroimmunology<b> (Grade: summa cum laude)</div>
+<body>
+    <div class="education-section">
+        <div class="education-title">2016 – 2021</b></div>
+        <div class="degree"><b>PhD in Neuroimmunology<b> (Grade: <b>summa cum laude</b>)</div>
         <div class="institution">Neuroimmunology unit, Medicine faculty, Heinrich Heine University Düsseldorf, Germany</div>
         <div class="details">
             <div class="thesis">Thesis: Single B cell antibody technology and high-throughput immune repertoire sequencing as complementary tools to better understand central nervous system (CNS) inflammation and treatment effects</div>
-</div>
+        </div>
+    </div>
 
-<div class="education-section">
+  <div class="education-section">
         <div class="education-title">2012 – 2015</div>
         <div class="degree"><b>Master of Science in Biochemistry<b> (Grade: 1.8)</div>
         <div class="institution">Ruhr University Bochum, Germany</div>
         <div class="details">
             <div class="thesis">Thesis: Identification of antigenic targets in the humoral immune response of inflammatory CNS diseases</div>
-</div>
+        </div>
+    </div>
 
-<div class="education-section">
+  <div class="education-section">
         <div class="education-title">2006 – 2010</div>
         <div class="degree"><b>Bachelor of Science in Genetic Engineering & Biotechnology<b> (Grade: 1.5 in German grading system)</div>
         <div class="institution">Shahjalal University of Science and Technology, Bangladesh</div>
         <div class="details">
             <div class="thesis">Thesis: Characterization of oral microbes and their antibiotic sensitivity pattern</div>
-</div>
+        </div>
+    </div>
+</body>
 
 ---
 
