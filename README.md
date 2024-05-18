@@ -130,7 +130,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
 <div style="text-align: justify;">
 <div class="Professional Experience-section">
-        <div class="Professional Experience-title">09.2021 to date</div>
+        <div class="Professional Experience-title">2021 to date</div>
         <div class="degree"><b>Postdoctoral researcher</b></div>
         <div class="institution">Department of Neurology, University Hospital Düsseldorf, Germany</div>
         <div class="projects">Projects:
@@ -145,7 +145,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
         </div>
 <br>
 
-  <div class="Professional Experience-title">0.2016 – 08.2021</div>
+  <div class="Professional Experience-title">2016 – 2021</div>
   <div class="degree"><b>Doctoral researcher</b></div>
   <div class="institution">Department of Neurology, University Hospital Düsseldorf, Germany</div>
   <div class="projects">Projects:
@@ -198,6 +198,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
 <strong>Selected Publications<strong>
 
+<div style="text-align: justify;">
 *Computational immunology:*
 
 1. **[Alemtuzumab-induced immune phenotype and repertoire changes: implications for secondary autoimmunity](https://academic.oup.com/brain/article/145/5/1711/6590581)**  
@@ -292,7 +293,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 1. **jjj**
 2. **ggg**
 
-   
+</div>  
 ---
 
 ## Complete List of Publications
