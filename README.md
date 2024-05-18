@@ -133,7 +133,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 ## Education
 <body>
     <div class="education-section">
-        <div class="education-title">2016 – 2021</b></div>
+        <div class="education-title">2016 – 2021</div>
         <div class="degree"><b>PhD in Neuroimmunology<b> (Grade: <b>summa cum laude</b>)</div>
         <div class="institution">Neuroimmunology unit, Medicine faculty, Heinrich Heine University Düsseldorf, Germany</div>
         <div class="details">
