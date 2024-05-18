@@ -131,16 +131,19 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 <div style="text-align: justify;">
 <div class="Professional Experience-section">
         <div class="Professional Experience-title">09.2021 to date</div>
-        <div class="degree"><b>Postdoctoral researcher</b> (Grade: summa cum laude)</div>
+        <div class="degree"><b>Postdoctoral researcher</b></div>
         <div class="institution">Department of Neurology, University Hospital Düsseldorf, Germany</div>
-        <div class="thesis">Projects:
-        + CSF and blood single cell-based multi-omics approach on cohorts of different autoimmune encephalitis patients (anti-GAD, anti-IgLON5, Seronegative  autoimmune encephalitis)
-        + Autoimmune encephalitis patient CSF derived recombinant monoclonal antibody (anti-GABA A, IgLON5) development and characterization
-        + Recombinant monoclonal antibodies (anti-GABA A, NMDAR) effect on human brain organoid
-        + Investigate treatment effects of B cell mediated immunomodulatory drug on multiple sclerosis (MS) patients’ immune repertoire
-        + CITE-seq data analysis of Batf+/+ and Batf-/- mouse bone marrow progenitor cells
-        + BCR repertoire data analysis in Myasthenia gravis (MG) patients</div>
-  </div>
+        <div class="projects">Projects:
+         <ul>
+                <li>+ CSF and blood single cell-based multi-omics approach on cohorts of different autoimmune encephalitis patients (anti-GAD, anti-IgLON5, Seronegative autoimmune encephalitis)</li>
+                <li>+ Autoimmune encephalitis patient CSF derived recombinant monoclonal antibody (anti-GABA A, IgLON5) development and characterization</li>
+                <li>+ Recombinant monoclonal antibodies (anti-GABA A, NMDAR) effect on human brain organoid</li>
+                <li>+ Investigate treatment effects of B cell mediated immunomodulatory drug on multiple sclerosis (MS) patients’ immune repertoire</li>
+                <li>+ CITE-seq data analysis of Batf+/+ and Batf-/- mouse bone marrow progenitor cells</li>
+                <li>+ BCR repertoire data analysis in Myasthenia gravis (MG) patients</li>
+            </ul>
+        </div>
+    </div>
   </div>
 ---
 
