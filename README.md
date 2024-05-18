@@ -143,8 +143,6 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
                 <li>BCR repertoire data analysis in Myasthenia gravis (MG) patients</li>
             </ul>
         </div>
-    
-
 <br>
 
   <div class="Professional Experience-title">0.2016 – 08.2021</div>
@@ -153,12 +151,14 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
   <div class="projects">Projects:
 
   <ul>
-                <li>Investigate treatment effects of immunomodulatory drugs on MS patients immune repertoire</li>
-                <li>Autoimmune and viral encephalitis patient CSF derived recombinant human monoclonal antibody (anti-NMDAR, CASPR2, LGI1, Hu, HSV1) development and characterization</li>
-                <li>TCR repertoire data analysis in KSHV infected humanized bone marrow transplanted mice/li>
+          <li>Investigate treatment effects of immunomodulatory drugs on MS patients immune repertoire</li>
+          <li>Autoimmune and viral encephalitis patient CSF derived recombinant human monoclonal antibody (anti-NMDAR, CASPR2, LGI1, Hu, HSV1) development and characterization</li>
+          <li>TCR repertoire data analysis in KSHV infected humanized bone marrow transplanted mice</li>
                 
   </ul>
 
+  </div>
+  </div>
   </div>
 
 
