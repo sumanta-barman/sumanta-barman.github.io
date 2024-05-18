@@ -234,7 +234,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
 7. **Consensus clustering identifies disease subtypes of myasthenia gravis**  
    *Authors:*
-  <div style="text-align: justify;">
+   <div style="text-align: justify;">
    Christopher Nelke, Christina B. Schroeter, <strong>Sumanta Barman</strong>, Frauke Stascheit, Lars Masanneck, Lukas Theissen, Niklas Huntemann, Derya Cengiz, Vera Dobelmann, Marc Pawlitzki, Saskia Räuber, Hans-Peter Hartung, Simone König, Andreas Roos, Andreas Meisel, Sven G. Meuth, Tobias Ruck.
    </div>
    *Under review* 
@@ -254,7 +254,8 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
 1. **[NMDAR encephalitis: passive transfer from man to mouse by a recombinant antibody](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444)**  
    *Authors:*
- <div style="text-align: justify;"> Manish Malviya#, <strong>Sumanta Barman#</strong>, Kristin S Golombeck#, Jesús Planagumà#, Francesco Mannara#, Nathalie Strutz‐Seebohm, Claudia Wrzos, Fatih Demir, Christine Baksmeier, Julia Steckel, Kim Kristin Falk, Catharina C Gross, Stjepana Kovac, Kathrin Bönte, Andreas Johnen, Klaus‐Peter Wandinger, Elena Martín‐García, Albert J Becker, Christian E Elger, Nikolaj Klöcker, Heinz Wiendl, Sven G Meuth, Hans‐Peter Hartung, Guiscard Seebohm, Frank Leypoldt, Rafael Maldonado, Christine Stadelmann, Josep Dalmau, Nico Melzer, Norbert Goebels. *<strong>#equally contributing first authors</strong>*
+   <div style="text-align: justify;"> 
+     Manish Malviya#, <strong>Sumanta Barman#</strong>, Kristin S Golombeck#, Jesús Planagumà#, Francesco Mannara#, Nathalie Strutz‐Seebohm, Claudia Wrzos, Fatih Demir, Christine Baksmeier, Julia Steckel, Kim Kristin Falk, Catharina C Gross, Stjepana Kovac, Kathrin Bönte, Andreas Johnen, Klaus‐Peter Wandinger, Elena Martín‐García, Albert J Becker, Christian E Elger, Nikolaj Klöcker, Heinz Wiendl, Sven G Meuth, Hans‐Peter Hartung, Guiscard Seebohm, Frank Leypoldt, Rafael Maldonado, Christine Stadelmann, Josep Dalmau, Nico Melzer, Norbert Goebels. *<strong>#equally contributing first authors</strong>*
   </div>
    *Journal:* Annals of clinical and translational neurology  
    *Year:* 2017
