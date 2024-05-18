@@ -132,6 +132,16 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
 ## Education
 
+
+ <div class="education-section">
+        <div class="education-title">2016 – 2021</div>
+        <div class="degree">PhD in Neuroimmunology (Grade: summa cum laude)</div>
+        <div class="institution">Neuroimmunology unit, Medicine faculty, Heinrich Heine University Düsseldorf, Germany</div>
+        <div class="details">
+            <div class="thesis">Thesis: Single B cell antibody technology and high-throughput immune repertoire sequencing as complementary tools to better understand central nervous system (CNS) inflammation and treatment effects</div>
+        </div>
+
+
 **2016 – 2021**
 <br><br>PhD in Neuroimmunology (Grade: summa cum laude)
 <br><br>Neuroimmunology unit, Medicine faculty, Heinrich Heine University Düsseldorf, Germany.
