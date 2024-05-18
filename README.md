@@ -214,7 +214,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
 3. **[Classifying flow cytometry data using Bayesian analysis helps to distinguish ALS patients from healthy controls](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full)**  
    *Authors:*
-   div style="text-align: justify;">
+   <div style="text-align: justify;">
    Saskia Räuber, Christopher Nelke, Christina B Schroeter,  <strong>Sumanta Barman</strong>, Marc Pawlitzki, Jens Ingwersen, Katja Akgün, Rene Günther, Alejandra P Garza, Michaela Marggraf, Ildiko Rita Dunay, Stefanie Schreiber, Stefan Vielhaber, Tjalf Ziemssen, Nico Melzer, Tobias Ruck, Sven G Meuth, Michael Herty.
    </div>
    
@@ -226,23 +226,25 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
 5. **T cell specificity and protective functions elicited by KSHV infection of B cells in vivo**  
    *Authors:*
-   div style="text-align: justify;">
+   <div style="text-align: justify;">
    Nicole Caduff, Lisa Rieble1, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz.
    </div>
    *Journal:* Nature communications (Accepted)  
    *Year:* 2024
 
 7. **Consensus clustering identifies disease subtypes of myasthenia gravis**  
-   *Authors:* Christopher Nelke, Christina B. Schroeter, <strong>Sumanta Barman</strong>, Frauke Stascheit, Lars Masanneck, Lukas Theissen, Niklas Huntemann, Derya Cengiz, Vera Dobelmann, Marc Pawlitzki, Saskia Räuber, Hans-Peter Hartung, Simone König, Andreas Roos, Andreas Meisel, Sven G. Meuth, Tobias Ruck.
-   
+   *Authors:*
+  <div style="text-align: justify;">
+   Christopher Nelke, Christina B. Schroeter, <strong>Sumanta Barman</strong>, Frauke Stascheit, Lars Masanneck, Lukas Theissen, Niklas Huntemann, Derya Cengiz, Vera Dobelmann, Marc Pawlitzki, Saskia Räuber, Hans-Peter Hartung, Simone König, Andreas Roos, Andreas Meisel, Sven G. Meuth, Tobias Ruck.
+   </div>
    *Under review* 
    
-8. **Dynamic reshaping of lymphocyte repertoires in multiple sclerosis patients treated with Alemtuzumab: Insights into secondary autoimmunity**  
+9. **Dynamic reshaping of lymphocyte repertoires in multiple sclerosis patients treated with Alemtuzumab: Insights into secondary autoimmunity**  
    *Authors:* <strong>Sumanta Barman et al.</strong>
    
    *Ready to submit*   
 
-9. **Anti GAD encephalitis**  
+10. **Anti GAD encephalitis**  
    *Authors:* <strong>Sumanta Barman et al.</strong>
    
    *On preparation*   
@@ -251,15 +253,16 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 *Neuroimmunology:*
 
 1. **[NMDAR encephalitis: passive transfer from man to mouse by a recombinant antibody](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444)**  
-   *Authors:* Manish Malviya#, <strong>Sumanta Barman#</strong>, Kristin S Golombeck#, Jesús Planagumà#, Francesco Mannara#, Nathalie Strutz‐Seebohm, Claudia Wrzos, Fatih Demir, Christine Baksmeier, Julia Steckel, Kim Kristin Falk, Catharina C Gross, Stjepana Kovac, Kathrin Bönte, Andreas Johnen, Klaus‐Peter Wandinger, Elena Martín‐García, Albert J Becker, Christian E Elger, Nikolaj Klöcker, Heinz Wiendl, Sven G Meuth, Hans‐Peter Hartung, Guiscard Seebohm, Frank Leypoldt, Rafael Maldonado, Christine Stadelmann, Josep Dalmau, Nico Melzer, Norbert Goebels. *<strong>#equally contributing first authors</strong>*
-   
+   *Authors:*
+ <div style="text-align: justify;"> Manish Malviya#, <strong>Sumanta Barman#</strong>, Kristin S Golombeck#, Jesús Planagumà#, Francesco Mannara#, Nathalie Strutz‐Seebohm, Claudia Wrzos, Fatih Demir, Christine Baksmeier, Julia Steckel, Kim Kristin Falk, Catharina C Gross, Stjepana Kovac, Kathrin Bönte, Andreas Johnen, Klaus‐Peter Wandinger, Elena Martín‐García, Albert J Becker, Christian E Elger, Nikolaj Klöcker, Heinz Wiendl, Sven G Meuth, Hans‐Peter Hartung, Guiscard Seebohm, Frank Leypoldt, Rafael Maldonado, Christine Stadelmann, Josep Dalmau, Nico Melzer, Norbert Goebels. *<strong>#equally contributing first authors</strong>*
+  </div>
    *Journal:* Annals of clinical and translational neurology  
    *Year:* 2017
 
    <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444"><img src="https://onlinelibrary.wiley.com/cms/asset/20fe6556-ba39-4887-9dbb-0d067072d452/acn3444-fig-0004-m.jpg" alt="Thumbnail" width="200"></a>
 
    
-2. **[Myelinating Co-Culture as a Model to Study Anti-NMDAR Neurotoxicity](https://www.mdpi.com/1422-0067/24/1/248)**  
+3. **[Myelinating Co-Culture as a Model to Study Anti-NMDAR Neurotoxicity](https://www.mdpi.com/1422-0067/24/1/248)**  
    *Authors:* Mercedeh Farhat Sabet, <strong>Sumanta Barman</strong>, Mathias Beller, Sven G Meuth, Nico Melzer, Orhan Aktas, Norbert Goebels, Tim Prozorovski.
    
    *Journal:* International Journal of Molecular Sciences  
@@ -267,7 +270,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
    
    <a href="https://www.mdpi.com/1422-0067/24/1/248"><img src="https://www.mdpi.com/ijms/ijms-24-00248/article_deploy/html/images/ijms-24-00248-g001.png" alt="Thumbnail" width="200"></a>
 
-3. **[An assay to determine mechanisms of rapid autoantibody-induced neurotransmitter receptor endocytosis and vesicular trafficking in autoimmune encephalitis](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2019.00178/full)**  
+4. **[An assay to determine mechanisms of rapid autoantibody-induced neurotransmitter receptor endocytosis and vesicular trafficking in autoimmune encephalitis](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2019.00178/full)**  
    *Authors:* Elsie Amedonu, Christoph Brenker, <strong>Sumanta Barman</strong>, Julian A Schreiber, Sebastian Becker, Stefan Peischard, Nathalie Strutz-Seebohm, Christine Strippel, Andre Dik, Hans-Peter Hartung, Thomas Budde, Heinz Wiendl, Timo Strünker, Bernhard Wünsch, Norbert Goebels, Sven G Meuth, Guiscard Seebohm, Nico Melzer
    
    *Journal:* Frontiers in Neurology  
@@ -275,7 +278,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
    
    <a src="https://www.frontiersin.org/files/Articles/425928/fneur-10-00178-HTML/image_m/fneur-10-00178-g003.jpg" alt="Thumbnail" width="300"></a>
 
-4. **[Dose‐dependent inhibition of demyelination and microglia activation by IVIG](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.326)**  
+5. **[Dose‐dependent inhibition of demyelination and microglia activation by IVIG](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.326)**  
    *Authors:* Meike Winter, Christine Baksmeier, Julia Steckel, <strong>Sumanta Barman</strong>, Manish Malviya, Melanie Harrer‐Kuster, Hans‐Peter Hartung, Norbert Goebels
    
    *Journal:* Annals of clinical and translational neurology  
@@ -283,7 +286,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
    
    <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.326"><img src="https://onlinelibrary.wiley.com/cms/asset/9b8bfd67-5778-4e1e-b7d5-aac0a7ec3b06/acn3326-fig-0002-m.jpg" alt="Thumbnail" width="200"></a>
    
-5. **[N‐methyl‐D‐aspartate receptor antibodies in autoimmune encephalopathy alter oligodendrocyte function](https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25699)**  
+6. **[N‐methyl‐D‐aspartate receptor antibodies in autoimmune encephalopathy alter oligodendrocyte function](https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25699)**  
    *Authors:* Carlos Matute, Ana Palma, María Paz Serrano‐Regal, Estibaliz Maudes, <strong>Sumanta Barman</strong>, María Victoria Sánchez‐Gómez, María Domercq, Norbert Goebels, Josep Dalmau. 
    
    *Journal:* Annals of neurology  
