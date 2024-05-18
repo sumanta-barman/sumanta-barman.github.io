@@ -202,15 +202,17 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 *Computational immunology:*
 
 1. **[Alemtuzumab-induced immune phenotype and repertoire changes: implications for secondary autoimmunity](https://academic.oup.com/brain/article/145/5/1711/6590581)**  
-   *Authors:* <div style="text-align: justify;">
-   Tobias Ruck#, <strong>Sumanta Barman#</strong>, Andreas Schulte-Mecklenbeck#, Steffen Pfeuffer#, Falk Steffen, Christopher Nelke, Christina B Schroeter, Alice Willison, Michael Heming, Thomas Müntefering, Nico Melzer, Julia Krämer, Maren Lindner, Marianne Riepenhausen, Catharina C Gross, Luisa Klotz, Stefan Bittner, Paolo A Muraro, Tilman Schneider-Hohendorf, Nicholas Schwab, Gerd Meyer zu Hörste, Norbert Goebels, Sven G Meuth, Heinz Wiendl. *<strong>#equally contributing first authors</strong>* </div>
+   *Authors:*
+   <div style="text-align: justify;">
+   Tobias Ruck#, <strong>Sumanta Barman#</strong>, Andreas Schulte-Mecklenbeck#, Steffen Pfeuffer#, Falk Steffen, Christopher Nelke, Christina B Schroeter, Alice Willison, Michael Heming, Thomas Müntefering, Nico Melzer, Julia Krämer, Maren Lindner, Marianne Riepenhausen, Catharina C Gross, Luisa Klotz, Stefan Bittner, Paolo A Muraro, Tilman Schneider-Hohendorf, Nicholas Schwab, Gerd Meyer zu Hörste, Norbert Goebels, Sven G Meuth, Heinz Wiendl. *<strong>#equally contributing first authors</strong>* 
+   </div>
    
    *Journal:* Brain  
    *Year:* 2022
  
     <a href="https://academic.oup.com/brain/article/145/5/1711/6590581"><img src="awac064f4.jpeg" alt="Thumbnail" width="200"></a>
 
-2. **[Classifying flow cytometry data using Bayesian analysis helps to distinguish ALS patients from healthy controls](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full)**  
+3. **[Classifying flow cytometry data using Bayesian analysis helps to distinguish ALS patients from healthy controls](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full)**  
    *Authors:* Saskia Räuber, Christopher Nelke, Christina B Schroeter,  <strong>Sumanta Barman</strong>, Marc Pawlitzki, Jens Ingwersen, Katja Akgün, Rene Günther, Alejandra P Garza, Michaela Marggraf, Ildiko Rita Dunay, Stefanie Schreiber, Stefan Vielhaber, Tjalf Ziemssen, Nico Melzer, Tobias Ruck, Sven G Meuth, Michael Herty.
    
    *Journal:* Frontiers in Immunology  
@@ -219,23 +221,23 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
    <a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full"><img src="https://www.frontiersin.org/files/Articles/1198860/fimmu-14-1198860-HTML/image_m/fimmu-14-1198860-g004.jpg" alt="Thumbnail" width="300"></a>
 
 
-3. **T cell specificity and protective functions elicited by KSHV infection of B cells in vivo**  
+4. **T cell specificity and protective functions elicited by KSHV infection of B cells in vivo**  
    *Authors:* Nicole Caduff, Lisa Rieble1, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz.
 
    *Journal:* Nature communications (Accepted)  
    *Year:* 2024
 
-4. **Consensus clustering identifies disease subtypes of myasthenia gravis**  
+5. **Consensus clustering identifies disease subtypes of myasthenia gravis**  
    *Authors:* Christopher Nelke, Christina B. Schroeter, <strong>Sumanta Barman</strong>, Frauke Stascheit, Lars Masanneck, Lukas Theissen, Niklas Huntemann, Derya Cengiz, Vera Dobelmann, Marc Pawlitzki, Saskia Räuber, Hans-Peter Hartung, Simone König, Andreas Roos, Andreas Meisel, Sven G. Meuth, Tobias Ruck.
    
    *Under review* 
    
-5. **Dynamic reshaping of lymphocyte repertoires in multiple sclerosis patients treated with Alemtuzumab: Insights into secondary autoimmunity**  
+6. **Dynamic reshaping of lymphocyte repertoires in multiple sclerosis patients treated with Alemtuzumab: Insights into secondary autoimmunity**  
    *Authors:* <strong>Sumanta Barman et al.</strong>
    
    *Ready to submit*   
 
-6. **Anti GAD encephalitis**  
+7. **Anti GAD encephalitis**  
    *Authors:* <strong>Sumanta Barman et al.</strong>
    
    *On preparation*   
