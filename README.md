@@ -161,7 +161,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
   </div>
 
-  </div>
+
 ---
 
 ## Education
