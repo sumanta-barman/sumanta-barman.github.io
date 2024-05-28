@@ -118,11 +118,13 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
 ## Tools and Technologies
 
-- **Programming:** Python, R
-- **Data Analysis:** Pandas, NumPy, SciPy, Seurat, Scanpy, Scvitolls
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
-- **Bioinformatics:** BWA, SAMtools, Bioconductor
-- **Statistical Analysis:** RStudio, SPSS, GraphPad Prism
+- **Programming and Scripting Languages:** Python, R
+- **Integrated Development Environments (IDEs) and Notebooks:** RStudio, Jupyter Notebook, Visual Studio Code
+- **Bioinformatics:** Bioconductor, IMGT, BLAST, MAFFT
+- **Data Analysis and Visualization:** Single cell sequencing data analysis: Cell Ranger, STAR, SciPy, Seurat, Scanpy, SCVItools, Monocle, Harmony, Dandelion, scRepertoire, NAIR, Propeller, Enclone, GLIPH, Immunearch, Immcantation platform, Loupe Browser , Loupe V(D)J Browser, DESeq2, limma;  Bulk seq analysis: MiXCR, STAR, VDJtools, Immunearch,  Immcantation; Others: R Markdown, Pandas, NumPy, ggplot2, Plotly, Matplotlib, UMAP, t-SNE, TCRex, ViClod etc.
+- **Statistical Analysis:** R, SPSS, GraphPad Prism
+- **Containerization:** Docker
+- **Version Control:** Git
 
 ---
 
