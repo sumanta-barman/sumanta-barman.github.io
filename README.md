@@ -322,6 +322,8 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
 <a href="mailto:barman.sumanta@gmail.com"><img src="Email-logo.png" alt="Email" width="30"></a>
 <a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/" style="margin-left: 300px;"><img src="linkedIn_logo.png" alt="LinkedIn" width="30"></a>
+<a href="https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en" style="margin-left: 300px;"><img src="google_scholar_logo.png" alt="Google Scholar" width="30"></a>
+<a href="https://github.com/sumanta-barman" style="margin-left: 300px;"><img src="github-logo.png" alt="GitHub" width="30"></a>
 
 ---
 
