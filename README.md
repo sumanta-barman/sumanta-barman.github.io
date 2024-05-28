@@ -92,18 +92,17 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
 ## Expertise
 
+- **Multi-omics technologies**
 - **Next generation sequencing library preparation**
-- **Immunogenomics/Transcriptomics/Proteomics data analysis**
-- **Single B Cell Recombinant Antibodies**
-- **Bioinformatics**
-- **Bulk and Single Cell RNA-Seq Analysis**
+- **Bulk and single cell RNA-Seq data analysis**
+- **Immunogenomics/Transcriptomics/Proteomics, Bioinformatics data analysis**
+- **Single B cell recombinant antibodies**
+- **Flow cytometry**
+- **Affinity chromatography**
+- **Cell culture**
 - **Quantitative PCR**
-- **Flow Cytometry**
-- **Affinity Chromatography**
-- **Cell Culture**
-- **Statistical Analysis using R, SPSS, GraphPad Prism**
-- **Machine Learning and Deep Learning**
-- **Multi-omics Technologies**
+- **Statistical analysis using R, SPSS, GraphPad Prism**
+
 
 ---
 
