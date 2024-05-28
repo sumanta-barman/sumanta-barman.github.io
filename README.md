@@ -320,6 +320,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 ## Contact Me
 
 <a href="mailto:barman.sumanta@gmail.com"><img src="Email-logo.png" alt="Email" width="30"></a>
+<a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/" style="margin-left: 300px;"><img src="linkedIn_logo.png" alt="LinkedIn" width="30"></a>
 
 ---
 
