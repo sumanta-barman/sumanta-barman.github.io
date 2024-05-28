@@ -125,6 +125,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 - **Statistical Analysis:** R, SPSS, GraphPad Prism
 - **Containerization:** Docker
 - **Version Control:** Git
+- **Others**Machine learning and Deep learning (Intermediate)
 
 ---
 
