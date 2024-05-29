@@ -118,6 +118,8 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
 ## Tools and Technologies
 
+<div style="text-align: justify;">
+
 - **Programming and Scripting Languages:** Python and R (advance), HTML (beginner)
 - **Integrated Development Environments (IDEs) and Notebooks:** RStudio, Jupyter Notebook, Visual Studio Code
 - **Bioinformatics:** Bioconductor, IMGT, IMGT/HighV-QUEST, BLAST, MAFFT, VDJdb
@@ -125,8 +127,10 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 - **Statistical Analysis:** R, SPSS, GraphPad Prism
 - **Containerization:** Docker
 - **Version Control:** Git
-- **Others**Machine learning and Deep learning (Intermediate)
+- **Others:**Machine learning and Deep learning (Intermediate)
 
+
+</div>
 ---
 
 ## Professional Experience
@@ -321,9 +325,9 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 ## Contact Me
 
 <a href="mailto:barman.sumanta@gmail.com"><img src="Email-logo.png" alt="Email" width="30"></a>
-<a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/" style="margin-left: 300px;"><img src="linkedIn_logo.png" alt="LinkedIn" width="30"></a>
-<a href="https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en" style="margin-left: 300px;"><img src="google_scholar_logo.png" alt="Google Scholar" width="30"></a>
-<a href="https://github.com/sumanta-barman" style="margin-left: 300px;"><img src="github-logo.png" alt="GitHub" width="30"></a>
+<a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/"><img src="linkedIn_logo.png" alt="LinkedIn" width="30"></a>
+<a href="https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en"><img src="google_scholar_logo.png" alt="Google Scholar" width="30"></a>
+<a href="https://github.com/sumanta-barman"><img src="github-logo.png" alt="GitHub" width="30"></a>
 
 ---
 
