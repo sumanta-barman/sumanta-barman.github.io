@@ -356,18 +356,24 @@ and bash scripts-based pipeline
 ---
 
 ## Awards and Grants
--pp
--kk
+
++ Heine Research Academies (HeRA) travel grant for participating in the 2022 American Academy of Neurology annual meeting, Seattle, USA
++ Best poster prize award, Novartis Research Day MS 2019, Berlin, Germany
++ International Society of Neuroimmunology travel grant for participating in the 14th International Congress of Neuroimmunology, Brisbane, Australia
++ Received prize for academic excellence in Bachelor of Science
++ Received scholarships for academic excellence in grade 5 and grade 8
 
 
 ---
 
-Awards and Grants
-
 
 ## Hobbys
--aa
--jj
+
++ Playing musical instrument
++ Hiking
++ Camping
++ Cycling
++ Coding
 
 
 ---
