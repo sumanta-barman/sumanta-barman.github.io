@@ -65,6 +65,7 @@ margin-right: 10px;
     <a href="#education">Education</a> |
     <a href="#research-articles">Research Articles</a> |
     <a href="#complete-list-of-publications">Complete List of Publications</a> |
+    <a href="#award-and-grants">Awards and Grants</a> |
     <a href="#hobbys">Hobbys</a> |
     <a href="#contact-me">Contact Me</a>
   </nav>
@@ -354,6 +355,9 @@ and bash scripts-based pipeline
 
 ---
 
+## Awards and Grants
+
+---
 
 ## Hobbys
 
