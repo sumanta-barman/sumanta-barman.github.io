@@ -92,18 +92,28 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
 ## Expertise
 
+- **Molecular biology and computational immunology**
 - **Multi-omics technologies**
-- **Next generation sequencing library preparation**
+- **Next generation sequencing (NGS)**
 - **Bulk and single cell RNA-Seq data analysis**
-- **Immunogenomics/Transcriptomics/Proteomics, Bioinformatics data analysis**
-- **Single B cell recombinant antibodies**
-- **Flow cytometry**
-- **Affinity chromatography**
-- **Cell culture**
-- **Mammalian cell line**
+- **Human recombinant monoclonal antibody technology**
+- **Enthusiastic about application of artificial intelligence (AI) to healthcare and personalized medicine**
 
 
 ---
+
+## Relevant methods
+
++ NGS library preparation, data acquisition, quality control, visualization, statistical analysis, and interpretation
++ Bulk RNA-seq, single cell RNA-Seq, CITE-seq, transcriptomics, proteomics, immunogenomics data analysis using R and Python-based tools, custom scripts
+and bash scripts-based pipeline
++ Computational downstream analysis of scRNA-seq, immunogenomics data using machine and deep learning-based tools
++ Mammalian cell culture
++ Stable and transient cell line generation
++ Cloning, Transformation, Transfection
++ PCR, Single cell RT-PCR, qPCR
++ Flow cytometry
++ Affinity chromatography
 
 ## Research Highlights
 
