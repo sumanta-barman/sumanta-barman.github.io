@@ -133,9 +133,10 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
         </ul>
 </div>
 
-<div class="projects"><b>Recombinant monoclonal antibody development:</b>
+<div class="projects"><b>Recombinant human monoclonal antibody project:</b>
         <ul>
-  <li>Different autoimmune encephalitis patient CSF derived recombinant human monoclonal antibody (anti-IgLON5, anti-NMDAR, anti-CASPR2, anti-LGI1, anti-Hu) development and characterization</li>
+  <li>Development and characterization of recombinant human monoclonal antibodies from clonally expanded plasma cells (cePc) of patients with different autoimmune encephalitis(anti-GABA A, anti-IgLON5, anti-NMDAR, anti-CASPR2, anti-LGI1, anti-Hu) development and characterization</li>        
+  <li>Recombinant monoclonal antibodies (anti-GABA A, NMDAR) effect on human brain organoid</li>
   <li>Harpes simples virus 1 (HSV1) encephalitis patient CSF derived recombinant human monoclonal antibody development and characterization</li>
 
   </ul>
