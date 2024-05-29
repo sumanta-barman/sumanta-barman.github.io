@@ -114,14 +114,15 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 - Contributed to scientific publications and presentations at international conferences
 - I have extensive expertise in evaluating the treatment effect of various disease-modifying therapies, including Alemtuzumab (Lemtrada) from Sanofi-Genzyme, Fingolimod (Gilenya) from Novartis, and Ocrelizumab (Ocrevus) from Roche, on the peripheral immune repertoire of multiple sclerosis patients. I also have experience in the development of recombinant human monoclonal antibodies from clonally expanded plasma cells (cePc) of patients with autoimmune and viral encephalitis. In addition, I have a comprehensive understanding of multi-omics technologies, as well as proficiency in R, Python, deep learning, and machine learning-based biological data analysis.
 
+
+<div style="text-align: justify;">
 <div class="projects"><b>Single cell sequencing:</b>
          <ul>
                 <li>CSF and blood single cell-based multi-omics approach on cohorts of different autoimmune encephalitis patients (anti-GAD, anti-IgLON5, Seronegative autoimmune encephalitis)</li>
                 <li>CITE-seq data analysis of Batf+/+ and Batf-/- mouse bone marrow progenitor cells</li>
           </ul>
 </div>
-
-
+</div>
 
 
 ---
