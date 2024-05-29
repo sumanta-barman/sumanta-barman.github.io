@@ -118,18 +118,6 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
 ## Tools and Technologies
 
-
-
-- **Programming and Scripting Languages:** Python and R (advance), HTML (beginner)
-- **Integrated Development Environments (IDEs) and Notebooks:** RStudio, Jupyter Notebook, Visual Studio Code
-- **Bioinformatics:** Bioconductor, IMGT, IMGT/HighV-QUEST, BLAST, MAFFT, VDJdb
-- **Data Analysis and Visualization:** Single cell sequencing data analysis: Cell Ranger, STAR, SciPy, Seurat, Scanpy, SCVItools, Monocle, Harmony, Dandelion, scRepertoire, NAIR, Propeller, Enclone, GLIPH, Immunearch, Immcantation, Tcrdist3, Loupe Browser, Loupe V(D)J Browser, DESeq2, limma;  Bulk seq analysis: MiXCR, STAR, VDJtools, Immunearch, Immcantation; Others: R Markdown, Pandas, NumPy, Ggplot2, Plotly, Matplotlib, UMAP, t-SNE, TCRex, ViClod etc.
-- **Statistical Analysis:** R, SPSS, GraphPad Prism
-- **Containerization:** Docker
-- **Version Control:** Git
-- **Others:** Machine learning and Deep learning (Intermediate)
-
-
 <div style="text-align: justify;">
 <head>
   
@@ -148,7 +136,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
         <li><strong>Bioinformatics:</strong> Bioconductor, IMGT, IMGT/HighV-QUEST, BLAST, MAFFT, VDJdb</li>
         <li>
             <strong>Data Analysis and Visualization:</strong>
-            <pre>Single cell sequencing data analysis: Cell Ranger, STAR, SciPy, Seurat, Scanpy, SCVItools, Monocle, Harmony, Dandelion, scRepertoire, NAIR, Propeller, Enclone, GLIPH, Immunearch, Immcantation, Tcrdist3, Loupe Browser, Loupe V(D)J Browser, DESeq2, limma<br><br>Bulk seq analysis: MiXCR, STAR, VDJtools, Immunearch, Immcantation<br><br>Others: R Markdown, Pandas, NumPy, Ggplot2, Plotly, Matplotlib, UMAP, t-SNE, TCRex, ViClod etc.</pre>
+            <pre><b>Single cell sequencing data analysis:</b> Cell Ranger, STAR, SciPy, Seurat, Scanpy, SCVItools, Monocle, Harmony, Dandelion, scRepertoire, NAIR, Propeller, Enclone, GLIPH, Immunearch, Immcantation, Tcrdist3, Loupe Browser, Loupe V(D)J Browser, DESeq2, limma<br><br><b>Bulk seq analysis:</b> MiXCR, STAR, VDJtools, Immunearch, Immcantation<br><br><b>Others:</b> R Markdown, Pandas, NumPy, Ggplot2, Plotly, Matplotlib, UMAP, t-SNE, TCRex, ViClod etc.</pre>
         </li>
         <li><strong>Statistical Analysis:</strong> R, SPSS, GraphPad Prism</li>
         <li><strong>Containerization:</strong> Docker</li>
