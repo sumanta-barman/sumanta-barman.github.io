@@ -54,7 +54,7 @@ margin-right: 10px;
 <body>
 <div id="sticky-menu">
   <div style="text-align: justify;">
-  <nav> style="display: flex; justify-content: space-between;">
+  <nav style="display: flex; justify-content: space-between;">
     <a href="#biography">Biography</a> | 
     <a href="#about-me">About Me</a> |
     <a href="#expertise">Expertise</a> |
