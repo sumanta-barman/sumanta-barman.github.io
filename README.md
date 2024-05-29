@@ -176,7 +176,7 @@ and bash scripts-based pipeline
         <li><strong>Statistical Analysis:</strong> R, SPSS, GraphPad Prism</li>
         <li><strong>Containerization:</strong> Docker</li>
         <li><strong>Version Control:</strong> Git</li>
-        <li><strong>Others:</strong> Machine learning and Deep learning (Intermediate)</li>
+        <li><strong>Others:</strong> Machine learning and Deep learning (Intermediate), High-performance computing (HPC)</li>
     </ul>
 </body>
 </div>
@@ -369,7 +369,7 @@ and bash scripts-based pipeline
 
 ## Hobbys
 
-+ Playing musical instrument
++ Playing musical instruments
 + Hiking
 + Camping
 + Cycling
