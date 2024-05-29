@@ -53,7 +53,7 @@ margin-right: 10px;
 </head>
 <body>
 <div id="sticky-menu">
- 
+  <div style="text-align: justify;">
   <nav style="display: flex; justify-content: space-between;">
     <a href="#biography">Biography</a> | 
     <a href="#about-me">About Me</a> |
@@ -65,11 +65,11 @@ margin-right: 10px;
     <a href="#education">Education</a> |
     <a href="#research-articles">Research Articles</a> |
     <a href="#complete-list-of-publications">Complete List of Publications</a> |
-    <a href="#award-and-grants">Awards and Grants</a> |
+    <a href="#awards-and-grants">Awards and Grants</a> |
     <a href="#hobbys">Hobbys</a> |
     <a href="#contact-me">Contact Me</a>
   </nav>
- 
+</div>  
 </div> 
 </body>
 </html>
@@ -356,10 +356,19 @@ and bash scripts-based pipeline
 ---
 
 ## Awards and Grants
+-pp
+-kk
+
 
 ---
 
+Awards and Grants
+
+
 ## Hobbys
+-aa
+-jj
+
 
 ---
 
