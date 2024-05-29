@@ -124,11 +124,13 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 </div>
 
 <div class="projects"><b>Bulk sequencing:</b>
+        <ul>
   <li>Investigate longitudinal treatment effects of anti-CD20 specific immunomodulatory drug on multiple sclerosis (MS) patients’ immune repertoire</li>
   <li>Investigate longitudinal treatment effects of anti-CD52 specific immunomodulatory drug on multiple sclerosis (MS) patients’ immune repertoire</li>
   <li>Investigate longitudinal treatment effects of S1P receptor modulator on autimmune lymphocyte repertoire in multiple sclerosis (MS)</li>
   <li>BCR repertoire data analysis in Myasthenia gravis (MG) patients</li>
   <li>TCR repertoire data analysis in EBV and EBV+KSHV infected humanized mice</li>
+        </ul>
 </div>
 </div>
 
