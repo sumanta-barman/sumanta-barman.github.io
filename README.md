@@ -96,7 +96,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 - **Multi-omics technologies**
 - **Next generation sequencing (NGS)**
 - **Bulk and single cell RNA-Seq data analysis**
-- **Human recombinant monoclonal antibody technology**
+- **Recombinant human monoclonal antibody technology**
 - **Enthusiastic about application of artificial intelligence (AI) to healthcare and personalized medicine**
 
 
@@ -188,31 +188,13 @@ and bash scripts-based pipeline
         <div class="Professional Experience-title">2021 to date</div>
         <div class="degree"><b>Postdoctoral researcher</b></div>
         <div class="institution">Department of Neurology, University Hospital Düsseldorf, Germany</div>
-        <div class="projects">Projects:
-         <ul>
-                <li>CSF and blood single cell-based multi-omics approach on cohorts of different autoimmune encephalitis patients (anti-GAD, anti-IgLON5, Seronegative autoimmune encephalitis)</li>
-                <li>Autoimmune encephalitis patient CSF derived recombinant monoclonal antibody (anti-GABA A, IgLON5) development and characterization</li>
-                <li>Recombinant monoclonal antibodies (anti-GABA A, NMDAR) effect on human brain organoid</li>
-                <li>Investigate treatment effects of B cell mediated immunomodulatory drug on multiple sclerosis (MS) patients’ immune repertoire</li>
-                <li>CITE-seq data analysis of Batf+/+ and Batf-/- mouse bone marrow progenitor cells</li>
-                <li>BCR repertoire data analysis in Myasthenia gravis (MG) patients</li>
-            </ul>
-        </div>
+
 <br>
 
   <div class="Professional Experience-title">2016 – 2021</div>
   <div class="degree"><b>Doctoral researcher</b></div>
   <div class="institution">Department of Neurology, University Hospital Düsseldorf, Germany</div>
-  <div class="projects">Projects:
-
-  <ul>
-          <li>Investigate treatment effects of immunomodulatory drugs on MS patients immune repertoire</li>
-          <li>Autoimmune and viral encephalitis patient CSF derived recombinant human monoclonal antibody (anti-NMDAR, CASPR2, LGI1, Hu, HSV1) development and characterization</li>
-          <li>TCR repertoire data analysis in KSHV infected humanized bone marrow transplanted mice</li>
-                
-  </ul>
-
-  </div>
+ 
   </div>
   </div>
 
