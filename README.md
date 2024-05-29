@@ -65,6 +65,7 @@ margin-right: 10px;
     <a href="#education">Education</a> |
     <a href="#research-articles">Research Articles</a> |
     <a href="#complete-list-of-publications">Complete List of Publications</a> |
+    <a href="#award-and-grants">Awards and Grants</a> |
     <a href="#hobbys">Hobbys</a> |
     <a href="#contact-me">Contact Me</a>
   </nav>
@@ -351,6 +352,10 @@ and bash scripts-based pipeline
 ## Complete List of Publications
 
 - You can also find a complete list of my publications [here](https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en).
+
+---
+
+## Awards and Grants
 
 ---
 
