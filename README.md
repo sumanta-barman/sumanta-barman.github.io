@@ -129,15 +129,6 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 - **Version Control:** Git
 - **Others:** Machine learning and Deep learning (Intermediate)
 
-<head>
-    <title>Skills</title>
-    <style>
-        pre {
-            white-space: pre-wrap;
-            word-wrap: break-word;
-        }
-    </style>
-</head>
 <body>
     <h1>Skills</h1>
     <ul>
