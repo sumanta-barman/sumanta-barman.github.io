@@ -111,7 +111,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 <div style="text-align: justify;">
 <div class="projects"><b>Single cell sequencing:</b>
          <ul>
-                <li>CSF and blood single cell-based multi-omics approach on cohorts of different autoimmune encephalitis patients (anti-GAD, anti-IgLON5, Seronegative autoimmune encephalitis)</li>
+                <li>CSF and blood single cell-based multi-omics approach (transcriptomics, proteomics, immune repertoire) on cohorts of different autoimmune encephalitis patients (anti-GAD, anti-IgLON5, Seronegative autoimmune encephalitis)</li>
                 <li>CITE-seq data analysis of Batf+/+ and Batf-/- mouse bone marrow progenitor cells</li>
           </ul>
 </div>
@@ -128,7 +128,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
 <div class="projects"><b>Recombinant human monoclonal antibody project:</b>
         <ul>
-  <li>Development and characterization of recombinant human monoclonal antibodies from clonally expanded plasma cells (cePc) of patients with different autoimmune encephalitis(anti-GABA A, anti-IgLON5, anti-NMDAR, anti-CASPR2, anti-LGI1, anti-Hu) development and characterization</li>        
+  <li>Development and characterization of recombinant human monoclonal antibodies from clonally expanded plasma cells (cePc) of patients with different autoimmune encephalitis (anti-GABA A, anti-IgLON5, anti-NMDAR, anti-CASPR2, anti-LGI1, anti-Hu)</li>        
   <li>Recombinant monoclonal antibodies (anti-GABA A, NMDAR) effect on human brain organoid</li>
   <li>Harpes simples virus 1 (HSV1) encephalitis patient CSF derived recombinant human monoclonal antibody development and characterization</li>
 
