@@ -132,6 +132,14 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
   <li>TCR repertoire data analysis in EBV and EBV+KSHV infected humanized mice</li>
         </ul>
 </div>
+
+<div class="projects"><b>Recombinant monoclonal antibody development:</b>
+        <ul>
+  <li>Different autoimmune encephalitis patient CSF derived recombinant human monoclonal antibody (anti-IgLON5, anti-NMDAR, anti-CASPR2, anti-LGI1, anti-Hu) development and characterization</li>
+  <li>Harpes simples virus 1 (HSV1) encephalitis patient CSF derived recombinant human monoclonal antibody development and characterization</li>
+
+  </ul>
+  </div>
 </div>
 
 
