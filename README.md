@@ -123,11 +123,38 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 - **Programming and Scripting Languages:** Python and R (advance), HTML (beginner)
 - **Integrated Development Environments (IDEs) and Notebooks:** RStudio, Jupyter Notebook, Visual Studio Code
 - **Bioinformatics:** Bioconductor, IMGT, IMGT/HighV-QUEST, BLAST, MAFFT, VDJdb
-- **Data Analysis and Visualization:** <div style="text-align: justify;"> Single cell sequencing data analysis: Cell Ranger, STAR, SciPy, Seurat, Scanpy, SCVItools, Monocle, Harmony, Dandelion, scRepertoire, NAIR, Propeller, Enclone, GLIPH, Immunearch, Immcantation, Tcrdist3, Loupe Browser, Loupe V(D)J Browser, DESeq2, limma;  Bulk seq analysis: MiXCR, STAR, VDJtools, Immunearch, Immcantation; Others: R Markdown, Pandas, NumPy, Ggplot2, Plotly, Matplotlib, UMAP, t-SNE, TCRex, ViClod etc. </div>
+- **Data Analysis and Visualization:** Single cell sequencing data analysis: Cell Ranger, STAR, SciPy, Seurat, Scanpy, SCVItools, Monocle, Harmony, Dandelion, scRepertoire, NAIR, Propeller, Enclone, GLIPH, Immunearch, Immcantation, Tcrdist3, Loupe Browser, Loupe V(D)J Browser, DESeq2, limma;  Bulk seq analysis: MiXCR, STAR, VDJtools, Immunearch, Immcantation; Others: R Markdown, Pandas, NumPy, Ggplot2, Plotly, Matplotlib, UMAP, t-SNE, TCRex, ViClod etc.
 - **Statistical Analysis:** R, SPSS, GraphPad Prism
 - **Containerization:** Docker
 - **Version Control:** Git
 - **Others:** Machine learning and Deep learning (Intermediate)
+
+<head>
+    <title>Skills</title>
+    <style>
+        pre {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+    </style>
+</head>
+<body>
+    <h1>Skills</h1>
+    <ul>
+        <li><strong>Programming and Scripting Languages:</strong> Python and R (advance), HTML (beginner)</li>
+        <li><strong>Integrated Development Environments (IDEs) and Notebooks:</strong> RStudio, Jupyter Notebook, Visual Studio Code</li>
+        <li><strong>Bioinformatics:</strong> Bioconductor, IMGT, IMGT/HighV-QUEST, BLAST, MAFFT, VDJdb</li>
+        <li>
+            <strong>Data Analysis and Visualization:</strong>
+            <pre>Single cell sequencing data analysis: Cell Ranger, STAR, SciPy, Seurat, Scanpy, SCVItools, Monocle, Harmony, Dandelion, scRepertoire, NAIR, Propeller, Enclone, GLIPH, Immunearch, Immcantation, Tcrdist3, Loupe Browser, Loupe V(D)J Browser, DESeq2, limma;  Bulk seq analysis: MiXCR, STAR, VDJtools, Immunearch, Immcantation; Others: R Markdown, Pandas, NumPy, Ggplot2, Plotly, Matplotlib, UMAP, t-SNE, TCRex, ViClod etc.</pre>
+        </li>
+        <li><strong>Statistical Analysis:</strong> R, SPSS, GraphPad Prism</li>
+        <li><strong>Containerization:</strong> Docker</li>
+        <li><strong>Version Control:</strong> Git</li>
+        <li><strong>Others:</strong> Machine learning and Deep learning (Intermediate)</li>
+    </ul>
+</body>
+
 
 
 
