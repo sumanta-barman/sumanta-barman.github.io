@@ -58,6 +58,7 @@ margin-right: 10px;
     <a href="#biography">Biography</a> |
     <a href="#about-me">About Me</a> |
     <a href="#expertise">Expertise</a> |
+    <a href="#relevant-methods">Relevant Methods</a> |
     <a href="#research-highlights">Research Highlights</a> |
     <a href="#tools-and-technologies">Tools and Technologies</a> |
     <a href="#professional-experience">Professional Experience</a> |
@@ -102,7 +103,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
 ---
 
-## Relevant methods
+## Relevant Methods
 
 + NGS library preparation, data acquisition, quality control, visualization, statistical analysis, and interpretation
 + Bulk RNA-seq, single cell RNA-Seq, CITE-seq, transcriptomics, proteomics, immunogenomics data analysis using R and Python-based tools, custom scripts
