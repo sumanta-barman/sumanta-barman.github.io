@@ -130,7 +130,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 - **Others:** Machine learning and Deep learning (Intermediate)
 
 
-
+<div style="text-align: justify;">
 <head>
   
     <style>
@@ -156,7 +156,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
         <li><strong>Others:</strong> Machine learning and Deep learning (Intermediate)</li>
     </ul>
 </body>
-
+</div>
 
 
 ---
