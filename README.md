@@ -100,7 +100,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 - **Flow cytometry**
 - **Affinity chromatography**
 - **Cell culture**
-- **Quantitative PCR**
+- **Mammalian cell line**
 - **Statistical analysis using R, SPSS, GraphPad Prism**
 
 
