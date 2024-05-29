@@ -53,7 +53,7 @@ margin-right: 10px;
 </head>
 <body>
 <div id="sticky-menu">
-  <div style="text-align: justify;">
+ 
   <nav style="display: flex; justify-content: space-between;">
     <a href="#biography">Biography</a> | 
     <a href="#about-me">About Me</a> |
@@ -67,7 +67,7 @@ margin-right: 10px;
     <a href="#complete-list-of-publications">Complete List of Publications</a> |
     <a href="#contact-me">Contact Me</a>
   </nav>
-  </div>
+ 
 </div> 
 </body>
 </html>
