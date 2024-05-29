@@ -55,8 +55,7 @@ margin-right: 10px;
 <div id="sticky-menu">
   <div style="text-align: justify;">
   <nav>
-    <a href="#biography">Biography</a>|
-    <a href="#about-me">About Me</a>|
+    <a href="#biography">Biography</a> | <a href="#about-me">About Me</a> |
     <a href="#expertise">Expertise</a> |
     <a href="#relevant-methods">Relevant Methods</a> |
     <a href="#research-highlights">Research Highlights</a> |
