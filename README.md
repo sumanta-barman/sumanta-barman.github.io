@@ -81,7 +81,7 @@ margin-right: 10px;
 
 
 ---
-## Biography
+## <b>Biography</b>
   
 <div style="text-align: justify;">
       I am a Neuroimmunology Scientist specializing in Computational Immunology at the Department of Neurology, University Hospital Düsseldorf. My work involves analyzing single-cell multiomics, next-generation sequencing, and bioinformatics data. Moreover, I investigate the treatment effects of immunotherapies on patients’ immune repertoires and contribute to the development and characterization of recombinant human monoclonal antibodies.
