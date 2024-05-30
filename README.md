@@ -294,13 +294,13 @@ and bash scripts-based pipeline
    *Under review* 
    
 5. **Dynamic reshaping of lymphocyte repertoires in multiple sclerosis patients treated with Alemtuzumab: Insights into secondary autoimmunity**  
-   *Authors:* <strong>Sumanta Barman et al.</strong>
+   *Authors:* <strong>Sumanta Barman</strong> et al.
    
    *Ready to submit*
    
 
 6. **Comprehensive  compartment-specific  single-cell  multi-omics  profiling  in GAD-autoimmunity**  
-   *Authors:* <strong>Sumanta Barman, Sakia Saskia Räuber et al.</strong>
+   *Authors:* <strong>Sumanta Barman</strong>, Sakia Saskia Räuber et al.
    
    *On preparation* 
     
