@@ -1,6 +1,3 @@
-<html>
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <div style="display: flex; align-items: center;">
   <!-- Left side: Profile picture (circle) -->
   <div style="margin-right: 30px;">
@@ -24,7 +21,9 @@
 </div>
 
 ---
-
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>My Website</title>
   <style>
   #sticky-menu {
