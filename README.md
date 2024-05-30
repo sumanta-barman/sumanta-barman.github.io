@@ -253,7 +253,7 @@ and bash scripts-based pipeline
 <strong>Selected Publications:<strong>
 
 
-*Computational immunology ►*
+*Computational immunology:*
 
 1. **[Alemtuzumab-induced immune phenotype and repertoire changes: implications for secondary autoimmunity](https://academic.oup.com/brain/article/145/5/1711/6590581)**  
    *Authors:*
@@ -304,7 +304,9 @@ and bash scripts-based pipeline
    
    *On preparation* 
     
-*Neuroimmunology ►*
+
+
+*Neuroimmunology:*
 
 1. **[NMDAR encephalitis: passive transfer from man to mouse by a recombinant antibody](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444)**  
    *Authors:*
