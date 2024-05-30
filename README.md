@@ -266,7 +266,7 @@ and bash scripts-based pipeline
  
     <a href="https://academic.oup.com/brain/article/145/5/1711/6590581"><img src="awac064f4.jpeg" alt="Thumbnail" width="200"></a>
 
-3. **[Classifying flow cytometry data using Bayesian analysis helps to distinguish ALS patients from healthy controls](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full)**  
+2. **[Classifying flow cytometry data using Bayesian analysis helps to distinguish ALS patients from healthy controls](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full)**  
    *Authors:*
    <div style="text-align: justify;">
    Saskia Räuber, Christopher Nelke, Christina B Schroeter,  <strong>Sumanta Barman</strong>, Marc Pawlitzki, Jens Ingwersen, Katja Akgün, Rene Günther, Alejandra P Garza, Michaela Marggraf, Ildiko Rita Dunay, Stefanie Schreiber, Stefan Vielhaber, Tjalf Ziemssen, Nico Melzer, Tobias Ruck, Sven G Meuth, Michael Herty.
@@ -278,7 +278,7 @@ and bash scripts-based pipeline
    <a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full"><img src="https://www.frontiersin.org/files/Articles/1198860/fimmu-14-1198860-HTML/image_m/fimmu-14-1198860-g004.jpg" alt="Thumbnail" width="300"></a>
 
 
-5. **T cell specificity and protective functions elicited by KSHV infection of B cells in vivo**  
+3. **T cell specificity and protective functions elicited by KSHV infection of B cells in vivo**  
    *Authors:*
    <div style="text-align: justify;">
    Nicole Caduff, Lisa Rieble, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz.
@@ -286,25 +286,23 @@ and bash scripts-based pipeline
    *Journal:* Nature communications (Accepted)  
    *Year:* 2024
 
-7. **Consensus clustering identifies disease subtypes of myasthenia gravis**  
+4. **Consensus clustering identifies disease subtypes of myasthenia gravis**  
    *Authors:*
    <div style="text-align: justify;">
    Christopher Nelke, Christina B. Schroeter, <strong>Sumanta Barman</strong>, Frauke Stascheit, Lars Masanneck, Lukas Theissen, Niklas Huntemann, Derya Cengiz, Vera Dobelmann, Marc Pawlitzki, Saskia Räuber, Hans-Peter Hartung, Simone König, Andreas Roos, Andreas Meisel, Sven G. Meuth, Tobias Ruck.
    </div>
    *Under review* 
    
-9. **Dynamic reshaping of lymphocyte repertoires in multiple sclerosis patients treated with Alemtuzumab: Insights into secondary autoimmunity**  
+5. **Dynamic reshaping of lymphocyte repertoires in multiple sclerosis patients treated with Alemtuzumab: Insights into secondary autoimmunity**  
    *Authors:* <strong>Sumanta Barman et al.</strong>
    
-   *Ready to submit*   
+   *Ready to submit*
+   
 
-10. **Comprehensive  compartment-specific  single-cell  multi-omics  profiling  in GAD-autoimmunity**  
+6. **Comprehensive  compartment-specific  single-cell  multi-omics  profiling  in GAD-autoimmunity**  
    *Authors:* <strong>Sumanta Barman, Sakia Saskia Räuber et al.</strong>
    
    *On preparation* 
-
-*On preparation*   
-
     
 *Neuroimmunology ►*
 
