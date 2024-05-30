@@ -1,11 +1,19 @@
 title: <b>Sumanta Barman, PhD</b>
 description: <b>Neuroimmunology research | Computational immunologist ► Single cell multiomics, Next generation sequencing, Bioinformatics data analysis | Recombinant antibody technology</b>
 #theme: jeykll-theme-cayman
-<a href="mailto:barman.sumanta@gmail.com"><img src="Email-logo.png" alt="Email" width="30"></a>
-<a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/"><img src="linkedIn_logo.png" alt="LinkedIn" width="30"></a>
-<a href="https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en"><img src="google_scholar_logo.png" alt="Google Scholar" width="30"></a>
-<a href="https://github.com/sumanta-barman"><img src="github-logo.png" alt="GitHub" width="30"></a>
-
+links:
+  - label: Email
+    url: mailto:barman.sumanta@gmail.com
+    icon: Email-logo.png
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/dr-sumanta-barman-327954143/
+    icon: linkedIn_logo.png
+  - label: Google Scholar
+    url: https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en
+    icon: google_scholar_logo.png
+  - label: GitHub
+    url: https://github.com/sumanta-barman
+    icon: github-logo.png
 #<img src="SB.jpg" alt="Profile Picture" width="200">
 
 #remote_theme: pages-themes/leap-day@v0.2.0
