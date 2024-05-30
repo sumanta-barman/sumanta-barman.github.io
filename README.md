@@ -250,10 +250,10 @@ and bash scripts-based pipeline
 
 ## <b>Research Articles</b>
 
-<strong>Selected Publications<strong>
+<strong>Selected Publications:<strong>
 
 
-*Computational immunology:*
+*Computational immunology ►*
 
 1. **[Alemtuzumab-induced immune phenotype and repertoire changes: implications for secondary autoimmunity](https://academic.oup.com/brain/article/145/5/1711/6590581)**  
    *Authors:*
@@ -298,13 +298,15 @@ and bash scripts-based pipeline
    
    *Ready to submit*   
 
-10. **Comprehensive  compartment-specific  single-cell  multi-omics  profiling  in  GAD-autoimmunity**  
+10. **Comprehensive  compartment-specific  single-cell  multi-omics  profiling  in GAD-autoimmunity**  
    *Authors:* <strong>Sumanta Barman, Sakia Saskia Räuber et al.</strong>
    
-   *On preparation*   
+   *On preparation* 
+
+*On preparation*   
 
     
-*Neuroimmunology:*
+*Neuroimmunology ►*
 
 1. **[NMDAR encephalitis: passive transfer from man to mouse by a recombinant antibody](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444)**  
    *Authors:*
