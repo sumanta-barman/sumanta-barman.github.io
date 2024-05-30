@@ -408,7 +408,7 @@ and bash scripts-based pipeline
         <div class="institution">Düsseldorf, Germany</div>
 
   <br> 
-        <div class="Certifications-title">06.2017</div>
+        <div class="Certifications-title">04.2014</div>
         <div class="course"><b>Instruction in Laboratory Animals Science (FELASA-B)</b></div>
         <div class="institution">Bayer Health Care, Wuppertal, Germany</div>
 
