@@ -349,16 +349,13 @@ and bash scripts-based pipeline
    
    <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25699"><img src="ana25699-fig-0001-m.png" alt="Thumbnail" width="200"></a>
 
+*Selected conference publications:*
 
-*Conference publications:*
-
-1. **ddddd**
-2. **hhhh**
-
-*Others:*
-
-1. **jjj**
-2. **ggg**
++ Postdoc Workshop - Drug Hunting @ Bayer, Heiligenhaus, Germany, September 21-24, 2022
++ American Academy of Neurology Annual Meeting, Seattle, USA, April 2-7, 2022
++ ECTRIMS, Stockholm, Sweden, September 11-13, 2019
++ Novartis Research Day 2019, Berlin, Germany, January 24-25, 2019
++ 14th International Congress of Neuroimmunology, Brisbane, Australia, August 27-31, 2018
 
   
 ---
