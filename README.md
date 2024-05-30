@@ -173,6 +173,7 @@ and bash scripts-based pipeline
     </style>
 </head>
 <body>
+  <div
         <li><strong>Programming and Scripting Languages:</strong> Python and R (advance), HTML (beginner)</li>
         <li><strong>Integrated Development Environments (IDEs) and Notebooks:</strong> RStudio, Jupyter Notebook, Visual Studio Code</li>
         <li><strong>Bioinformatics:</strong> Bioconductor, IMGT, IMGT/HighV-QUEST, BLAST, MAFFT, VDJdb</li>
@@ -185,7 +186,7 @@ and bash scripts-based pipeline
         <li><strong>Containerization:</strong> Docker</li>
         <li><strong>Version Control:</strong> Git</li>
         <li><strong>Others:</strong> Machine learning and Deep learning (Intermediate), High-performance computing (HPC)</li>
-    
+  </div>  
 </body>
 </div>
 
