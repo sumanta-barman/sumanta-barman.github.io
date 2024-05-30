@@ -75,6 +75,66 @@ margin-right: 10px;
 </body>
 </html>
 
+
+
+<style>
+  #sticky-menu {
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    padding: 10px;
+    z-index: 1;
+  }
+
+  #sticky-menu nav {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  #sticky-menu nav a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    white-space: nowrap;
+  }
+
+  #sticky-menu nav a:last-child {
+    margin-right: 0;
+  }
+
+  #sticky-menu nav a::before {
+    content: "► ";
+    color: #859900; /* GitHub Cayman theme green color */
+  }
+</style>
+
+<body>
+  <div id="sticky-menu">
+    <div style="text-align: justify;">
+      <nav style="display: flex; justify-content: space-between;">
+        <a href="#biography">Biography</a>
+        <a href="#about-me">About Me</a>
+        <a href="#expertise">Expertise</a>
+        <a href="#relevant-methods">Relevant Methods</a>
+        <a href="#research-highlights">Research Highlights</a>
+        <a href="#tools-and-technologies">Tools and Technologies</a>
+        <a href="#professional-experience">Professional Experience</a>
+        <a href="#education">Education</a>
+        <a href="#research-articles">Research Articles</a>
+        <a href="#complete-list-of-publications">Complete List of Publications</a>
+        <a href="#certifications">Certifications</a>
+        <a href="#awards-and-grants">Awards and Grants</a>
+        <a href="#hobbys">Hobbys</a>
+        <a href="#contact-me">Contact Me</a>
+      </nav>
+    </div>
+  </div>
+</body>
+
+
+
+
 ---
 ## Biography
   
