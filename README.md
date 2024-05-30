@@ -6,13 +6,13 @@
 
   <!-- Middle section: Additional text -->
   <div>
-    <p><b>Neuroimmunology Scientist<br>Department of Neurology<br>University Hospital Düsseldorf Heinrich Heine University Düsseldorf</b></p>
+    <p><b>Neuroimmunology Scientist<br>Department of Neurology<br>University Hospital Düsseldorf<br>Heinrich Heine University Düsseldorf</b></p>
   </div>
 
   <!-- Right side: Logos for LinkedIn, Google Scholar, GitHub -->
   <div>
     <ul style="list-style: none; padding: 0;">
-      <li style="margin-bottom: 8px;"><a href="mailto:barman.sumanta@gmail.com" style="margin-left: 300px;"><img src="Email-logo.png" alt="Email" width="30"></a></li>
+      <li style="margin-bottom: 8px;"><a href="mailto:barman.sumanta@gmail.com" style="margin-left: 280px;"><img src="Email-logo.png" alt="Email" width="30"></a></li>
       <li style="margin-bottom: 8px;"><a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/" style="margin-left: 300px;"><img src="linkedIn_logo.png" alt="LinkedIn" width="30"></a></li>
       <li style="margin-bottom: 8px;"><a href="https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en" style="margin-left: 300px;"><img src="google_scholar_logo.png" alt="Google Scholar" width="30"></a></li>
       <li style="margin-bottom: 8px;"><a href="https://github.com/sumanta-barman" style="margin-left: 300px;"><img src="github-logo.png" alt="GitHub" width="30"></a></li>
