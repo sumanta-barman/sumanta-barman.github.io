@@ -26,6 +26,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>My Website</title>
   <style>
+
+    /* Offset the scroll position by a fixed amount */
+:target::before {
+  content: "";
+  display: block;
+  height: 60px; /* Adjust this value based on the height of your fixed navigation bar */
+  margin-top: -60px; /* Should be the same as the height */
+}
+
   #sticky-menu {
   position: sticky;
   top: 0;
