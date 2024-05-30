@@ -6,7 +6,7 @@
 
   <!-- Middle section: Additional text -->
   <div>
-    <p><b>Neuroimmunology Scientist<br>Department of Neurology<br>University Hospital Düsseldorf<br>Heinrich Heine University Düsseldorf</b></p>
+    <p><b>Neuroimmunology Scientist<br>Department of Neurology<br>University Hospital Düsseldorf Heinrich Heine University Düsseldorf</b></p>
   </div>
 
   <!-- Right side: Logos for LinkedIn, Google Scholar, GitHub -->
