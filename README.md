@@ -89,7 +89,7 @@ margin-right: 10px;
 
 ---
 
-## About Me
+## <b>About Me</b>
 
 <div style="text-align: justify;">
 
@@ -99,7 +99,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
 ---
 
-## Expertise
+## <b>Expertise</b>
 
 - **Molecular biology and computational immunology**
 - **Multi-omics technologies**
@@ -111,7 +111,7 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
 ---
 
-## Relevant Methods
+## <b>Relevant Methods</b>
 
 + NGS library preparation, data acquisition, quality control, visualization, statistical analysis, and interpretation
 + Bulk RNA-seq, single cell RNA-Seq, CITE-seq, transcriptomics, proteomics, immunogenomics data analysis using R and Python-based tools, custom scripts
@@ -124,7 +124,7 @@ and bash scripts-based pipeline
 + Flow cytometry
 + Affinity chromatography
 
-## Research Highlights
+## <b>Research Highlights</b>
 
 <div style="text-align: justify;">
 <div class="projects"><b>Single cell sequencing:</b>
@@ -157,7 +157,7 @@ and bash scripts-based pipeline
 
 ---
 
-## Tools and Technologies
+## <b>Tools and Technologies</b>
 
 <div style="text-align: justify;">
 <head>
@@ -191,7 +191,7 @@ and bash scripts-based pipeline
 
 ---
 
-## Professional Experience
+## <b>Professional Experience</b>
 
 <div style="text-align: justify;">
 <div class="Professional Experience-section">
@@ -211,7 +211,7 @@ and bash scripts-based pipeline
 
 ---
 
-## Education
+## <b>Education</b>
 
   <div style="text-align: justify;">
   <div class="education-section">
@@ -241,7 +241,7 @@ and bash scripts-based pipeline
   </div>
 ---
 
-## Research Articles
+## <b>Research Articles</b>
 
 <strong>Selected Publications<strong>
 
@@ -274,7 +274,7 @@ and bash scripts-based pipeline
 5. **T cell specificity and protective functions elicited by KSHV infection of B cells in vivo**  
    *Authors:*
    <div style="text-align: justify;">
-   Nicole Caduff, Lisa Rieble1, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz.
+   Nicole Caduff, Lisa Rieble, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz.
    </div>
    *Journal:* Nature communications (Accepted)  
    *Year:* 2024
@@ -356,13 +356,13 @@ and bash scripts-based pipeline
   
 ---
 
-## Complete List of Publications
+## <b>Complete List of Publications</b>
 
 - You can also find a complete list of my publications [here](https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en).
 
 ---
 
-## Certifications
+## <b>Certifications</b>
 
 
 <div style="text-align: justify;">
@@ -411,7 +411,7 @@ and bash scripts-based pipeline
 
 ---
 
-## Awards and Grants
+## <b>Awards and Grants</b>
 
 + Heine Research Academies (HeRA) travel grant for participating in the 2022 American Academy of Neurology annual meeting, Seattle, USA
 + Best poster prize award, Novartis Research Day MS 2019, Berlin, Germany
@@ -423,7 +423,7 @@ and bash scripts-based pipeline
 ---
 
 
-## Hobbys
+## <b>Hobbys</b>
 
 + Playing musical instruments
 + Photography
@@ -435,7 +435,7 @@ and bash scripts-based pipeline
 
 ---
 
-## Contact Me
+## <b>Contact Me</b>
 
 <a href="mailto:barman.sumanta@gmail.com"><img src="Email-logo.png" alt="Email" width="30"></a>
 <a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/"><img src="linkedIn_logo.png" alt="LinkedIn" width="30"></a>
