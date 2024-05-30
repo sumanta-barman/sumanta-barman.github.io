@@ -426,6 +426,7 @@ and bash scripts-based pipeline
 ## Hobbys
 
 + Playing musical instruments
++ Photography
 + Hiking
 + Camping
 + Cycling
