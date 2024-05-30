@@ -1,6 +1,18 @@
 title: <b>Sumanta Barman, PhD</b>
 description: <b>Neuroimmunology research | Computational immunologist ► Single cell multiomics, Next generation sequencing, Bioinformatics data analysis | Recombinant antibody technology</b>
 #theme: jeykll-theme-cayman
+
+#<img src="SB.jpg" alt="Profile Picture" width="200">
+
+#remote_theme: pages-themes/leap-day@v0.2.0
+#plugins:
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 links:
   - label: Email
     url: mailto:barman.sumanta@gmail.com
@@ -14,17 +26,6 @@ links:
   - label: GitHub
     url: https://github.com/sumanta-barman
     icon: github-logo.png
-#<img src="SB.jpg" alt="Profile Picture" width="200">
-
-#remote_theme: pages-themes/leap-day@v0.2.0
-#plugins:
-#- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
 #remote_theme: pages-themes/modernist@v0.2.0
 #plugins:
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
