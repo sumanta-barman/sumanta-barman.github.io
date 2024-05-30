@@ -191,7 +191,7 @@ and bash scripts-based pipeline
 
 ---
 
-## <b>Professional Experience</b>
+## <b>Professional Experiences</b>
 
 <div style="text-align: justify;">
 <div class="Professional Experience-section">
