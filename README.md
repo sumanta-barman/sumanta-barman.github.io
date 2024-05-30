@@ -55,11 +55,11 @@ margin-right: 10px;
 <div id="sticky-menu">
   <div style="text-align: justify;">
   <nav style="display: flex; justify-content: space-between;">
-    <a href="#biography"> ► Biography</a> ► 
-    <a href="#about-me">About Me</a> ►
-    <a href="#expertise">Expertise</a> ►
-    <a href="#relevant-methods">Relevant Methods</a> ►
-    <a href="#research-highlights">Research Highlights</a> ►
+    <a href="#biography">► Biography</a> 
+    <a href="#about-me">► About Me</a>
+    <a href="#expertise">► Expertise</a>
+    <a href="#relevant-methods">► Relevant Methods</a>
+    <a href="#research-highlights">► Research Highlights</a>
     <a href="#tools-and-technologies">Tools and Technologies</a> ►
     <a href="#professional-experience">Professional Experience</a> ►
     <a href="#education">Education</a> |
