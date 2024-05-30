@@ -31,8 +31,8 @@
 :target::before {
   content: "";
   display: block;
-  height: 120px; /* Adjust this value based on the height of your fixed navigation bar */
-  margin-top: -120px; /* Should be the same as the height */
+  height: 130px; /* Adjust this value based on the height of your fixed navigation bar */
+  margin-top: -130px; /* Should be the same as the height */
 }
 
   #sticky-menu {
