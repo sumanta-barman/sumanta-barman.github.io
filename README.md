@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center;">
   <!-- Left side: Profile picture (circle) -->
   <div style="margin-right: 30px;">
-    <img src="SB.jpg" alt="Profile Picture" width="150" style="border-radius: 45%;">
+    <img src="SB.jpg" alt="Profile Picture" width="140" style="border-radius: 50%;">
   </div>
 
   <!-- Middle section: Additional text -->
