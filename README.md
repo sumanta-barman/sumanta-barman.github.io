@@ -291,8 +291,8 @@ and bash scripts-based pipeline
    
    *Ready to submit*   
 
-10. **Anti GAD encephalitis**  
-   *Authors:* <strong>Sumanta Barman et al.</strong>
+10. **Comprehensive  compartment-specific  single-cell  multi-omics  profiling  in  GAD-autoimmunity**  
+   *Authors:* <strong>Sumanta Barman, Sakia Saskia Räuber et al.</strong>
    
    *On preparation*   
 
