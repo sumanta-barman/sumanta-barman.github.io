@@ -102,12 +102,12 @@ I am a research scientist specializing in Central Nervous System (CNS) autoimmun
 
 ## <b>Expertise</b>
 
-- **Molecular biology and computational immunology**
-- **Multi-omics technologies**
-- **Next generation sequencing (NGS)**
-- **Bulk and single cell RNA-Seq data analysis**
-- **Recombinant human monoclonal antibody technology**
-- **Enthusiastic about application of artificial intelligence (AI) to healthcare and personalized medicine**
+- Molecular biology and computational immunology
+- Multi-omics technologies
+- Next generation sequencing (NGS)
+- Bulk and single cell RNA-Seq data analysis
+- Recombinant human monoclonal antibody technology
+
 
 
 ---
@@ -153,6 +153,8 @@ and bash scripts-based pipeline
 
   </ul>
   </div>
+
+<div class="projects"><b>Enthusiastic about application of artificial intelligence (AI) to healthcare and personalized medicine</b>
 </div>
 
 
