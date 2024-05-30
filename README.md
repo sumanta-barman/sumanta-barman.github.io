@@ -60,15 +60,15 @@ margin-right: 10px;
     <a href="#expertise">► Expertise</a>
     <a href="#relevant-methods">► Relevant Methods</a>
     <a href="#research-highlights">► Research Highlights</a>
-    <a href="#tools-and-technologies">Tools and Technologies</a> ►
-    <a href="#professional-experience">Professional Experience</a> ►
-    <a href="#education">Education</a> |
-    <a href="#research-articles">Research Articles</a> |
-    <a href="#complete-list-of-publications">Complete List of Publications</a> |
-    <a href="#certifications">Certifications</a> |
-    <a href="#awards-and-grants">Awards and Grants</a> |
-    <a href="#hobbys">Hobbys</a> |
-    <a href="#contact-me">Contact Me ►</a>
+    <a href="#tools-and-technologies">► Tools and Technologies</a>
+    <a href="#professional-experience">► Professional Experience</a>
+    <a href="#education">► Education</a>
+    <a href="#research-articles">► Research Articles</a>
+    <a href="#complete-list-of-publications">► Complete List of Publications</a>
+    <a href="#certifications">► Certifications</a>
+    <a href="#awards-and-grants">► Awards and Grants</a>
+    <a href="#hobbys">► Hobbys</a>
+    <a href="#contact-me"> ►Contact Me</a>
   </nav>
 </div>  
 </div> 
