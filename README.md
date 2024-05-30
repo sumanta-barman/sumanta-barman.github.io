@@ -190,6 +190,31 @@ and bash scripts-based pipeline
 </div>
 
 
+
+<div style="text-align: justify;">
+<head>
+  <style>
+    pre {
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+  </style>
+</head>
+<body>
+  <strong>Programming and Scripting Languages:</strong> Python and R (advance), HTML (beginner)
+  <strong>Integrated Development Environments (IDEs) and Notebooks:</strong> RStudio, Jupyter Notebook, Visual Studio Code
+  <strong>Bioinformatics:</strong> Bioconductor, IMGT, IMGT/HighV-QUEST, BLAST, MAFFT, VDJdb
+  <strong>Data Analysis and Visualization:</strong>
+  <pre><b>Single cell sequencing data analysis:</b> Cell Ranger, STAR, SciPy, Seurat, Scanpy, SCVItools, Monocle, Harmony, Dandelion, scRepertoire, NAIR, Propeller, Enclone, GLIPH, Immunearch, Immcantation, Tcrdist3, Loupe Browser, Loupe V(D)J Browser, DESeq2, limma<br><br><b>Bulk seq analysis:</b> MiXCR, STAR, VDJtools, Immunearch, Immcantation<br><br><b>Others:</b> R Markdown, Pandas, NumPy, Ggplot2, Plotly, Matplotlib, UMAP, t-SNE, TCRex, ViClod etc.</pre>
+  <strong>Statistical Analysis:</strong> R, SPSS, GraphPad Prism
+  <strong>Operating system:</strong> Linux, Mac-OS, Windows
+  <strong>Containerization:</strong> Docker
+  <strong>Version Control:</strong> Git
+  <strong>Others:</strong> High-performance computing, Machine learning and Deep learning (Intermediate) 
+</body>
+</div>
+
+
 ---
 
 ## <b>Professional Experiences</b>
