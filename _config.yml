@@ -13,19 +13,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-links:
-  - label: Email
-    url: mailto:barman.sumanta@gmail.com
-    icon: Email-logo.png
-  - label: LinkedIn
-    url: https://www.linkedin.com/in/dr-sumanta-barman-327954143/
-    icon: linkedIn_logo.png
-  - label: Google Scholar
-    url: https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en
-    icon: google_scholar_logo.png
-  - label: GitHub
-    url: https://github.com/sumanta-barman
-    icon: github-logo.png
+
 #remote_theme: pages-themes/modernist@v0.2.0
 #plugins:
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
