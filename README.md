@@ -154,7 +154,7 @@ and bash scripts-based pipeline
   </ul>
   </div>
 
-<div class="projects"><b>Enthusiastic about application of artificial intelligence (AI) to healthcare and personalized medicine</b>
+<div class="projects"><b>Enthusiastic about application of artificial intelligence (AI) to healthcare and personalized medicine</b></div>
 </div>
 
 
