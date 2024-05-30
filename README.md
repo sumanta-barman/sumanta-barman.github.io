@@ -94,7 +94,7 @@ margin-right: 10px;
   #sticky-menu nav a {
     margin-right: 10px;
     text-decoration: none;
-    color: #859900; 
+    color: 00CCCC; 
     font-weight: bold;
     white-space: nowrap;
   }
