@@ -314,8 +314,7 @@ and bash scripts-based pipeline
   <span>&#9658;</span> Selected Publications (click to read more)
 </div>
 
-  
-
+<div class="collapse-content">
 <strong>Selected Publications:<strong>
 
 
@@ -424,7 +423,6 @@ and bash scripts-based pipeline
 + ECTRIMS, Stockholm, Sweden, September 11-13, 2019
 + Novartis Research Day 2019, Berlin, Germany, January 24-25, 2019
 + 14th International Congress of Neuroimmunology, Brisbane, Australia, August 27-31, 2018
-
 
 </div>
 
