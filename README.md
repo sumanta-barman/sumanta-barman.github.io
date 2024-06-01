@@ -132,7 +132,7 @@ and bash scripts-based pipeline
 <div style="text-align: justify;">
 <div class="projects"><b>Single cell sequencing:</b>
          <ul>
-                <li>CSF and blood single cell-based multi-omics approach (transcriptomics, proteomics, immune repertoire) on cohorts of different autoimmune encephalitis patients (anti-GAD, anti-IgLON5, Seronegative autoimmune encephalitis)</li>
+                <li>Cerebrospinalcord fluid (CSF) and peripheral blood (PB) single cell-based multi-omics approach (transcriptomics, proteomics, immune repertoire) on cohorts of different autoimmune encephalitis patients (anti-GAD, anti-IgLON5, Seronegative autoimmune encephalitis)</li>
                 <li>CITE-seq data analysis of Batf+/+ and Batf-/- mouse bone marrow progenitor cells</li>
           </ul>
 </div>
@@ -147,7 +147,7 @@ and bash scripts-based pipeline
         </ul>
 </div>
 
-<div class="projects"><b>Recombinant human monoclonal antibody project:</b>
+<div class="projects"><b>Recombinant monoclonal antibody technology:</b>
         <ul>
   <li>Development and characterization of recombinant human monoclonal antibodies from clonally expanded plasma cells (cePc) of patients with different autoimmune encephalitis (anti-GABA A, anti-IgLON5, anti-NMDAR, anti-CASPR2, anti-LGI1, anti-Hu)</li>        
   <li>Recombinant monoclonal antibodies (anti-GABA A, NMDAR) effect on human brain organoid</li>
@@ -156,7 +156,6 @@ and bash scripts-based pipeline
   </ul>
   </div>
 
-<div class="projects"><b>Enthusiastic about application of artificial intelligence (AI) to healthcare and personalized medicine</b></div>
 </div>
 
 
