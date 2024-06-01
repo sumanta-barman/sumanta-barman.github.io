@@ -104,7 +104,7 @@ margin-right: 10px;
   
 <div class="projects"><b>New publication:</b>
          <ul>
-                <li>Our new article has been accepted in Nature Communications: Nicole Caduff, Lisa Rieble, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz; T cell specificity and protective functions elicited by KSHV infection of B cells in vivo.</li>    
+                <li>Our new article has been accepted in Nature Communications: Nicole Caduff, Lisa Rieble, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz; <b>T cell specificity and protective functions elicited by KSHV infection of B cells in vivo.</b></li>    
           </ul>
 </div>
 </div>
