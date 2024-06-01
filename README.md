@@ -122,19 +122,19 @@ margin-right: 10px;
 </style>
 
 <div class="collapse">
-  <span>&#9658;</span> <b>New publication</b>(click to read more)
+  <span>&#9658;</span> <b>Conference presentation</b> (click to read more)
 </div>
 
 <div class="collapse-content">
   <div style="text-align: justify;">
       <ul>
-        <li>Our new article has been accepted in Nature Communications: Nicole Caduff, Lisa Rieble, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz; <b>T cell specificity and protective functions elicited by KSHV infection of B cells in vivo.</b></li>
+        <li>I am going to present our recent work at <a href="https://sng-ssn2024.congress-imk.ch" target="_blank">Swiss Neurological Society (SNS) annual meeting 2024</a>, entitled <b>"Dynamic Reshaping of Lymphocyte Repertoires in Multiple Sclerosis Patients Treated with Alemtuzumab: Insights into Secondary Autoimmunity"</b></li>
       </ul>
   </div>
 </div>
 
 <div class="collapse">
-  <span>&#9658;</span> <b>New publication</b>(click to read more)
+  <span>&#9658;</span> <b>New publication</b> (click to read more)
 </div>
 
 <div class="collapse-content">
