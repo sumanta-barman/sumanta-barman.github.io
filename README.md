@@ -51,7 +51,7 @@ display: flex;
   #sticky-menu nav a {
 margin-right: 10px;
   text-decoration: none;
-  color: #3300CC; /* Change the color to blue 3300CC; */
+  color: 3300CC; /* Change the color to blue 3300CC; */
   font-weight: bold; /* Make the text bold */
   white-space: nowrap;
 }
