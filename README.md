@@ -51,7 +51,7 @@ display: flex;
   #sticky-menu nav a {
 margin-right: 10px;
   text-decoration: none;
-  color: #0066ff; /* Change the color to blue 3300CC; */
+  color: #3300CC; /* Change the color to blue 3300CC; */
   font-weight: bold; /* Make the text bold */
   white-space: nowrap;
 }
@@ -97,7 +97,7 @@ margin-right: 10px;
 <style>
 .collapse {
   cursor: pointer;
-  color: #0066ff;
+  color: #3300CC;
 }
 
 .collapse-content {
@@ -106,7 +106,7 @@ margin-right: 10px;
 </style>
 
 <div class="collapse">
-  <span>&#9658;</span> <b>Conference presentation</b> <span style="color: #0066ff;">(click to read more)</span>
+  <span>&#9658;</span> <b>Conference presentation</b> <span style="color: #3300CC;">(click to read more)</span>
 </div>
 
 <div class="collapse-content">
