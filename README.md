@@ -311,12 +311,11 @@ and bash scripts-based pipeline
 </style>
 
 <div class="collapse">
-  <span>&#9658;</span> Click to expand conference presentation
+  <span>&#9658;</span> Selected Publications (click to read more)
 </div>
 
 <div class="collapse-content">
-  <div style="text-align: justify;">
-    <div class="projects"><b>Selected Publications:</b>
+  
 
 <strong>Selected Publications:<strong>
 
@@ -427,8 +426,7 @@ and bash scripts-based pipeline
 + Novartis Research Day 2019, Berlin, Germany, January 24-25, 2019
 + 14th International Congress of Neuroimmunology, Brisbane, Australia, August 27-31, 2018
 
-  </div>
-  </div>
+
 </div>
 
 <script>
