@@ -122,12 +122,11 @@ margin-right: 10px;
 </style>
 
 <div class="collapse">
-  <span>&#9658;</span> Click to expand conference presentation
+  <span>&#9658;</span> <b>Conference presentation:</b>
 </div>
 
 <div class="collapse-content">
   <div style="text-align: justify;">
-    <div class="projects"><b>Conference presentation:</b>
       <ul>
         <li>I am going to present our recent work at <a href="https://sng-ssn2024.congress-imk.ch" target="_blank">Swiss Neurological Society (SNS) annual meeting 2024</a>, entitled <b>"Dynamic Reshaping of Lymphocyte Repertoires in Multiple Sclerosis Patients Treated with Alemtuzumab: Insights into Secondary Autoimmunity"</b></li>
       </ul>
@@ -152,12 +151,36 @@ for (var i = 0; i < collapseElements.length; i++) {
 }
 </script>
 
-<div class="projects"><b>New publication:</b>
-  <ul>
-    <li>Our new article has been accepted in Nature Communications: Nicole Caduff, Lisa Rieble, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz; <b>T cell specificity and protective functions elicited by KSHV infection of B cells in vivo.</b></li>
-  </ul>
+
+<div class="collapse">
+  <span>&#9658;</span> <b>Conference presentation:</b>
 </div>
 
+<div class="collapse-content">
+  <div style="text-align: justify;">
+      <ul>
+        <li>Our new article has been accepted in Nature Communications: Nicole Caduff, Lisa Rieble, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz; <b>T cell specificity and protective functions elicited by KSHV infection of B cells in vivo.</b></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<script>
+var collapseElements = document.getElementsByClassName("collapse");
+for (var i = 0; i < collapseElements.length; i++) {
+  collapseElements[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+      this.firstElementChild.innerHTML = "&#9658;";
+    } else {
+      content.style.display = "block";
+      this.firstElementChild.innerHTML = "&#9660;";
+    }
+  });
+}
+</script>
 
 
 
