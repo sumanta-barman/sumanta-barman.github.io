@@ -297,7 +297,7 @@ and bash scripts-based pipeline
 </style>
 
 <div class="collapse">
-  <span>&#9658;</span> Click to expand/collapse publications
+  <span>&#9658;</span> Selected Publications (click to read more)
 </div>
 
 <div class="collapse-content">
@@ -324,7 +324,87 @@ and bash scripts-based pipeline
       <em>Year:</em> 2023<br>
       <a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full"><img src="https://www.frontiersin.org/files/Articles/1198860/fimmu-14-1198860-HTML/image_m/fimmu-14-1198860-g004.jpg" alt="Thumbnail" width="300"></a>
     </li>
+    <li>
+      <strong>T cell specificity and protective functions elicited by KSHV infection of B cells in vivo</strong><br>
+      <em>Authors:</em>
+      <div style="text-align: justify;">
+        Nicole Caduff, Lisa Rieble, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz.
+      </div>
+      <em>Journal:</em> Nature Communications (Accepted)<br>
+      <em>Year:</em> 2024
+    </li>
+    <li>
+      <strong>Consensus clustering identifies disease subtypes of myasthenia gravis</strong><br>
+      <em>Authors:</em>
+      <div style="text-align: justify;">
+        Christopher Nelke, Christina B. Schroeter, <strong>Sumanta Barman</strong>, Frauke Stascheit, Lars Masanneck, Lukas Theissen, Niklas Huntemann, Derya Cengiz, Vera Dobelmann, Marc Pawlitzki, Saskia Räuber, Hans-Peter Hartung, Simone König, Andreas Roos, Andreas Meisel, Sven G. Meuth, Tobias Ruck.
+      </div>
+      <em>Under review</em>
+    </li>
+    <li>
+      <strong>Dynamic reshaping of lymphocyte repertoires in multiple sclerosis patients treated with Alemtuzumab: Insights into secondary autoimmunity</strong><br>
+      <em>Authors:</em> <strong>Sumanta Barman</strong> et al.<br>
+      <em>Ready to submit</em>
+    </li>
+    <li>
+      <strong>Comprehensive compartment-specific single-cell multi-omics profiling in GAD-autoimmunity</strong><br>
+      <em>Authors:</em> <strong>Sumanta Barman</strong>, Saskia Räuber et al.<br>
+      <em>On preparation</em>
+    </li>
   </ol>
+
+  <p><em>Neuroimmunology:</em></p>
+
+  <ol start="7">
+    <li>
+      <strong><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444" target="_blank">NMDAR encephalitis: passive transfer from man to mouse by a recombinant antibody</a></strong><br>
+      <em>Authors:</em>
+      <div style="text-align: justify;">
+        Manish Malviya#, <strong>Sumanta Barman#</strong>, Kristin S Golombeck#, Jesús Planagumà#, Francesco Mannara#, Nathalie Strutz‐Seebohm, Claudia Wrzos, Fatih Demir, Christine Baksmeier, Julia Steckel, Kim Kristin Falk, Catharina C Gross, Stjepana Kovac, Kathrin Bönte, Andreas Johnen, Klaus‐Peter Wandinger, Elena Martín‐García, Albert J Becker, Christian E Elger, Nikolaj Klöcker, Heinz Wiendl, Sven G Meuth, Hans‐Peter Hartung, Guiscard Seebohm, Frank Leypoldt, Rafael Maldonado, Christine Stadelmann, Josep Dalmau, Nico Melzer, Norbert Goebels. <strong>#equally contributing first authors</strong>
+      </div>
+      <em>Journal:</em> Annals of Clinical and Translational Neurology<br>
+      <em>Year:</em> 2017<br>
+      <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444"><img src="https://onlinelibrary.wiley.com/cms/asset/20fe6556-ba39-4887-9dbb-0d067072d452/acn3444-fig-0004-m.jpg" alt="Thumbnail" width="200"></a>
+    </li>
+    <li>
+      <strong><a href="https://www.mdpi.com/1422-0067/24/1/248" target="_blank">Myelinating Co-Culture as a Model to Study Anti-NMDAR Neurotoxicity</a></strong><br>
+      <em>Authors:</em> Mercedeh Farhat Sabet, <strong>Sumanta Barman</strong>, Mathias Beller, Sven G Meuth, Nico Melzer, Orhan Aktas, Norbert Goebels, Tim Prozorovski.<br>
+      <em>Journal:</em> International Journal of Molecular Sciences<br>
+      <em>Year:</em> 2023<br>
+      <a href="https://www.mdpi.com/1422-0067/24/1/248"><img src="https://www.mdpi.com/ijms/ijms-24-00248/article_deploy/html/images/ijms-24-00248-g001.png" alt="Thumbnail" width="200"></a>
+    </li>
+    <li>
+      <strong><a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2019.00178/full" target="_blank">An assay to determine mechanisms of rapid autoantibody-induced neurotransmitter receptor endocytosis and vesicular trafficking in autoimmune encephalitis</a></strong><br>
+      <em>Authors:</em> Elsie Amedonu, Christoph Brenker, <strong>Sumanta Barman</strong>, Julian A Schreiber, Sebastian Becker, Stefan Peischard, Nathalie Strutz-Seebohm, Christine Strippel, Andre Dik, Hans-Peter Hartung, Thomas Budde, Heinz Wiendl, Timo Strünker, Bernhard Wünsch, Norbert Goebels, Sven G Meuth, Guiscard Seebohm, Nico Melzer<br>
+      <em>Journal:</em> Frontiers in Neurology<br>
+      <em>Year:</em> 2019<br>
+      <a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2019.00178/full"><img src="https://www.frontiersin.org/files/Articles/425928/fneur-10-00178-HTML/image_m/fneur-10-00178-g003.jpg" alt="Thumbnail" width="300"></a>
+    </li>
+    <li>
+      <strong><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.326" target="_blank">Dose‐dependent inhibition of demyelination and microglia activation by IVIG</a></strong><br>
+      <em>Authors:</em> Meike Winter, Christine Baksmeier, Julia Steckel, <strong>Sumanta Barman</strong>, Manish Malviya, Melanie Harrer‐Kuster, Hans‐Peter Hartung, Norbert Goebels<br>
+      <em>Journal:</em> Annals of Clinical and Translational Neurology<br>
+      <em>Year:</em> 2016<br>
+      <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.326"><img src="https://onlinelibrary.wiley.com/cms/asset/9b8bfd67-5778-4e1e-b7d5-aac0a7ec3b06/acn3326-fig-0002-m.jpg" alt="Thumbnail" width="200"></a>
+    </li>
+    <li>
+      <strong><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25699" target="_blank">N‐methyl‐D‐aspartate receptor antibodies in autoimmune encephalopathy alter oligodendrocyte function</a></strong><br>
+      <em>Authors:</em> Carlos Matute, Ana Palma, María Paz Serrano‐Regal, Estibaliz Maudes, <strong>Sumanta Barman</strong>, María Victoria Sánchez‐Gómez, María Domercq, Norbert Goebels, Josep Dalmau.<br>
+      <em>Journal:</em> Annals of Neurology<br>
+      <em>Year:</em> 2020<br>
+      <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25699"><img src="ana25699-fig-0001-m.png" alt="Thumbnail" width="200"></a>
+    </li>
+  </ol>
+
+  <p><b>Selected conference publications:</b></p>
+
+  <ul>
+    <li>Postdoc Workshop - Drug Hunting @ Bayer, Heiligenhaus, Germany, September 21-24, 2022</li>
+    <li>American Academy of Neurology Annual Meeting, Seattle, USA, April 2-7, 2022</li>
+    <li>ECTRIMS, Stockholm, Sweden, September 11-13, 2019</li>
+    <li>Novartis Research Day 2019, Berlin, Germany, January 24-25, 2019</li>
+    <li>14th International Congress of Neuroimmunology, Brisbane, Australia, August 27-31, 2018</li>
+  </ul>
 </div>
 
 <script>
@@ -343,7 +423,6 @@ for (var i = 0; i < collapseElements.length; i++) {
   });
 }
 </script>
-
 
 
 
