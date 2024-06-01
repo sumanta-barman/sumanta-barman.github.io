@@ -365,42 +365,34 @@ and bash scripts-based pipeline
 
 <div style="text-align: justify;">
 <div class="Certifications-section">
-        <div class="Certifications-title">10.2023 – 01.2023</div>
         <div class="course"><b>Neuroimaging and Precision Medicine</b></div>
         <div class="institution">Düsseldorf, Germany</div>
 
 <br>
-        <div class="Certifications-title">10.2022 – 03.2023</div>
         <div class="course"><b>Mathematics for Informatics 1 and Deep learning</b></div>
         <div class="institution">Düsseldorf, Germany</div>
 
 <br>        
-        <div class="Certifications-title">10.2021 – 02.2022</div>
         <div class="course"><b>Artificial Intelligence (AI) for all (KI für alle)</b></div>
         <div class="institution">Düsseldorf, Germany</div>
 
 <br> 
-        <div class="Certifications-title">05.2021 – 03.2022</div>
         <div class="course"><b>TechLabs Digital Shaper Program (AI, Data science with Python)</b></div>
         <div class="institution">Düsseldorf, Germany</div>
 
 <br> 
-        <div class="Certifications-title">03.2020</div>
         <div class="course"><b>Statistics for Scientists in Medicine with R, SPSS</b></div>
         <div class="institution">Düsseldorf, Germany</div>
 
 <br> 
-        <div class="Certifications-title">08.2018</div>
         <div class="course"><b>Global School of Neuroimmunology Course</b></div>
         <div class="institution">Brisbane, Australia</div>
 
   <br> 
-        <div class="Certifications-title">06.2017</div>
         <div class="course"><b>Good Scientific Practice</b></div>
         <div class="institution">Düsseldorf, Germany</div>
 
   <br> 
-        <div class="Certifications-title">04.2014</div>
         <div class="course"><b>Instruction in Laboratory Animals Science (FELASA-B)</b></div>
         <div class="institution">Bayer Health Care, Wuppertal, Germany</div>
 
