@@ -300,6 +300,72 @@ and bash scripts-based pipeline
 
 ## <b>Research Articles</b>
 
+<strong>Selected Publications:</strong>
+
+<style>
+.collapse {
+  cursor: pointer;
+}
+
+.collapse-content {
+  display: none;
+}
+</style>
+
+<div class="collapse">
+  <span>&#9658;</span> Click to expand/collapse publications
+</div>
+
+<div class="collapse-content">
+  <p><em>Computational immunology:</em></p>
+
+  <ol>
+    <li>
+      <strong><a href="https://academic.oup.com/brain/article/145/5/1711/6590581" target="_blank">Alemtuzumab-induced immune phenotype and repertoire changes: implications for secondary autoimmunity</a></strong><br>
+      <em>Authors:</em>
+      <div style="text-align: justify;">
+        Tobias Ruck#, <strong>Sumanta Barman#</strong>, Andreas Schulte-Mecklenbeck#, Steffen Pfeuffer#, Falk Steffen, Christopher Nelke, Christina B Schroeter, Alice Willison, Michael Heming, Thomas Müntefering, Nico Melzer, Julia Krämer, Maren Lindner, Marianne Riepenhausen, Catharina C Gross, Luisa Klotz, Stefan Bittner, Paolo A Muraro, Tilman Schneider-Hohendorf, Nicholas Schwab, Gerd Meyer zu Hörste, Norbert Goebels, Sven G Meuth, Heinz Wiendl. <strong>#equally contributing first authors</strong>
+      </div>
+      <em>Journal:</em> Brain<br>
+      <em>Year:</em> 2022<br>
+      <a href="https://academic.oup.com/brain/article/145/5/1711/6590581"><img src="awac064f4.jpeg" alt="Thumbnail" width="200"></a>
+    </li>
+    <li>
+      <strong><a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full" target="_blank">Classifying flow cytometry data using Bayesian analysis helps to distinguish ALS patients from healthy controls</a></strong><br>
+      <em>Authors:</em>
+      <div style="text-align: justify;">
+        Saskia Räuber, Christopher Nelke, Christina B Schroeter, <strong>Sumanta Barman</strong>, Marc Pawlitzki, Jens Ingwersen, Katja Akgün, Rene Günther, Alejandra P Garza, Michaela Marggraf, Ildiko Rita Dunay, Stefanie Schreiber, Stefan Vielhaber, Tjalf Ziemssen, Nico Melzer, Tobias Ruck, Sven G Meuth, Michael Herty.
+      </div>
+      <em>Journal:</em> Frontiers in Immunology<br>
+      <em>Year:</em> 2023<br>
+      <a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full"><img src="https://www.frontiersin.org/files/Articles/1198860/fimmu-14-1198860-HTML/image_m/fimmu-14-1198860-g004.jpg" alt="Thumbnail" width="300"></a>
+    </li>
+  </ol>
+</div>
+
+<script>
+var collapseElements = document.getElementsByClassName("collapse");
+for (var i = 0; i < collapseElements.length; i++) {
+  collapseElements[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+      this.firstElementChild.innerHTML = "&#9658;";
+    } else {
+      content.style.display = "block";
+      this.firstElementChild.innerHTML = "&#9660;";
+    }
+  });
+}
+</script>
+
+
+
+
+
+
+
 
 <strong>Selected Publications:<strong>
 
