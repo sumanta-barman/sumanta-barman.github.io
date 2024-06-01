@@ -130,7 +130,7 @@ margin-right: 10px;
       <ul>
         <li>I am going to present our recent work at <a href="https://sng-ssn2024.congress-imk.ch" target="_blank">Swiss Neurological Society (SNS) annual meeting 2024</a>, entitled <b>"Dynamic Reshaping of Lymphocyte Repertoires in Multiple Sclerosis Patients Treated with Alemtuzumab: Insights into Secondary Autoimmunity"</b></li>
       </ul>
-    </div>
+  </div>
 </div>
 
 <script>
@@ -152,7 +152,7 @@ for (var i = 0; i < collapseElements.length; i++) {
 
 
 <div class="collapse">
-  <span>&#9658;</span> <b>Conference presentation:</b>
+  <span>&#9658;</span> <b>New publication</b>
 </div>
 
 <div class="collapse-content">
@@ -179,7 +179,6 @@ for (var i = 0; i < collapseElements.length; i++) {
   });
 }
 </script>
-
 
 
 ---
