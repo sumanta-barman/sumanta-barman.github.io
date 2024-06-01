@@ -300,20 +300,6 @@ and bash scripts-based pipeline
 
 ## <b>Research Articles</b>
 
-<style>
-.collapse {
-  cursor: pointer;
-}
-
-.collapse-content {
-  display: none;
-}
-</style>
-
-<div class="collapse">
-  <span>&#9658;</span> Selected Publications (click to read more)
-</div>
-
 
 <strong>Selected Publications:<strong>
 
@@ -423,25 +409,6 @@ and bash scripts-based pipeline
 + ECTRIMS, Stockholm, Sweden, September 11-13, 2019
 + Novartis Research Day 2019, Berlin, Germany, January 24-25, 2019
 + 14th International Congress of Neuroimmunology, Brisbane, Australia, August 27-31, 2018
-
-
-
-<script>
-var collapseElements = document.getElementsByClassName("collapse");
-for (var i = 0; i < collapseElements.length; i++) {
-  collapseElements[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-      this.firstElementChild.innerHTML = "&#9658;";
-    } else {
-      content.style.display = "block";
-      this.firstElementChild.innerHTML = "&#9660;";
-    }
-  });
-}
-</script>
 
 ---
 
