@@ -69,7 +69,6 @@ margin-right: 10px;
 <div id="sticky-menu">
   <div style="text-align: justify;">
   <nav style="display: flex; justify-content: space-between;">
-    <a href="#biography">Biography</a> 
     <a href="#about-me">About Me</a>
     <a href="#expertise">Expertise</a>
     <a href="#relevant-methods">Relevant Methods</a>
@@ -91,19 +90,12 @@ margin-right: 10px;
 
 
 ---
-## <b>Biography</b>
-  
-<div style="text-align: justify;">
-      I am a Neuroimmunology Scientist specializing in Computational Immunology at the Department of Neurology, University Hospital Düsseldorf. My work involves analyzing single-cell multiomics, next-generation sequencing, and bioinformatics data. Moreover, I investigate the treatment effects of immunotherapies on patients’ immune repertoires and contribute to the development and characterization of recombinant human monoclonal antibodies.
-</div>
-
----
 
 ## <b>About Me</b>
 
 <div style="text-align: justify;">
 
-I am a research scientist specializing in Central Nervous System (CNS) autoimmune diseases with expertise in immunology, molecular biology, immunogenomics, transcriptomics, proteomics and bioinformatics data analysis. As a highly skilled research scientist, I possess extensive expertise in various aspects of human immune repertoire (IR) analysis, "-omics" technologies, especially immunogenomics/transcriptomics, single B cell recombinant antibody technology, and bioinformatics. I have expertise in next-generation sequencing (NGS) in both laboratory and computational settings, which includes proficiency in NGS library preparation, bulk and single-cell RNA-Seq (IR and transcriptomics) data analysis, quantitative PCR, flow cytometry, affinity chromatography, and cell culture. These skills enable me to extract valuable insights and drive progress in neuroimmunology. <br><br>My mastery of data analysis using Python and R, alongside machine learning and deep learning-based tools, empowers me to make informed decisions based on data and evidence. In addition, I possess good knowledge of statistical approaches, utilizing tools such as R, SPSS and GraphPad Prism, to derive meaningful insights and statistical interpretations in research. Furthermore, I am deeply enthusiastic about the application of artificial intelligence (AI) in healthcare and its potential to revolutionize precision medicine.<br><br>My dedication and perseverance have resulted in numerous scientific publications and presentations, both oral and poster, at national and international conferences. Additionally, I have had the opportunity to mentor multi-cultural students in all aspects of research, including project conception, methodology, data analysis, presentation, and report writing for bachelor's, master's, and PhD theses.
+I am a Neuroimmunology Scientist specializing in Central Nervous System (CNS) autoimmune diseases with expertise in computational immunology, molecular biology, immunogenomics, transcriptomics, proteomics and bioinformatics data analysis. As a highly skilled research scientist, I possess extensive expertise in various aspects of human immune repertoire (IR) analysis, "-omics" technologies, especially immunogenomics/transcriptomics, single B cell recombinant antibody technology, and bioinformatics. I have expertise in next-generation sequencing (NGS) in both laboratory and computational settings, which includes proficiency in NGS library preparation, bulk and single-cell RNA-Seq (IR and transcriptomics) data analysis, quantitative PCR, flow cytometry, affinity chromatography, and cell culture. These skills enable me to extract valuable insights and drive progress in neuroimmunology. <br><br>My mastery of data analysis using Python and R, alongside machine learning and deep learning-based tools, empowers me to make informed decisions based on data and evidence. In addition, I possess good knowledge of statistical approaches, utilizing tools such as R, SPSS and GraphPad Prism, to derive meaningful insights and statistical interpretations in research. Furthermore, I am deeply enthusiastic about the application of artificial intelligence (AI) in healthcare and its potential to revolutionize precision medicine.<br><br>My dedication and perseverance have resulted in numerous scientific publications and presentations, both oral and poster, at national and international conferences. Additionally, I have had the opportunity to mentor multi-cultural students in all aspects of research, including project conception, methodology, data analysis, presentation, and report writing for bachelor's, master's, and PhD theses.
 
 </div>
 
