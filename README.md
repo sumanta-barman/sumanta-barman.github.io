@@ -97,6 +97,7 @@ margin-right: 10px;
 <style>
 .collapse {
   cursor: pointer;
+  color: #339933;
 }
 
 .collapse-content {
@@ -105,7 +106,7 @@ margin-right: 10px;
 </style>
 
 <div class="collapse">
-  <span>&#9658;</span> <b>Conference presentation</b> (click to read more)
+  <span>&#9658;</span> <b>Conference presentation</b> <span style="color: #339933;">(click to read more)</span>
 </div>
 
 <div class="collapse-content">
