@@ -296,7 +296,7 @@ and bash scripts-based pipeline
 </style>
 
 <div class="collapse">
-  <span>&#9658;</span> <b>Selected Publications<b> (click to read more)
+  <span>&#9658;</span> <b>Selected Publications</b> (click to read more)
 </div>
 
 
@@ -423,6 +423,9 @@ for (var i = 0; i < collapseElements.length; i++) {
   });
 }
 </script>
+
+
+
 
 
 ---
