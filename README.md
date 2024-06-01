@@ -365,16 +365,13 @@ and bash scripts-based pipeline
 
 <div style="text-align: justify;">
 <div class="Certifications-section">
-        <div class="course"><b>Neuroimaging and Precision Medicine</b></div>
-        <div class="institution">Düsseldorf, Germany</div>
-
+        <div class="course"><b>Neuroimaging and Precision Medicine,</b> Düsseldorf, Germany</div>
+        
 <br>
-        <div class="course"><b>Mathematics for Informatics 1 and Deep learning</b></div>
-        <div class="institution">Düsseldorf, Germany</div>
-
+        <div class="course"><b>Mathematics for Informatics 1 and Deep learning,</b> Düsseldorf, Germany</div>
+        
 <br>        
-        <div class="course"><b>Artificial Intelligence (AI) for all (KI für alle)</b></div>
-        <div class="institution">Düsseldorf, Germany</div>
+        <div class="course"><b>Artificial Intelligence (AI) for all (KI für alle),</b> Düsseldorf, Germany</div>
 
 <br> 
         <div class="course"><b>TechLabs Digital Shaper Program (AI, Data science with Python)</b></div>
