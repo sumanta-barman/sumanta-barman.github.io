@@ -111,9 +111,8 @@ margin-right: 10px;
 
 <div class="collapse-content">
   <div style="text-align: justify;">
-      <ul>
         <li>I am going to present our recent work at <a href="https://sng-ssn2024.congress-imk.ch" target="_blank">Swiss Neurological Society (SNS) annual meeting 2024</a>, entitled <b>"Dynamic Reshaping of Lymphocyte Repertoires in Multiple Sclerosis Patients Treated with Alemtuzumab: Insights into Secondary Autoimmunity"</b></li>
-      </ul>
+      
   </div>
 </div>
 
