@@ -374,24 +374,19 @@ and bash scripts-based pipeline
         <div class="course"><b>Artificial Intelligence (AI) for all (KI für alle),</b> Düsseldorf, Germany</div>
 
 <br> 
-        <div class="course"><b>TechLabs Digital Shaper Program (AI, Data science with Python)</b></div>
-        <div class="institution">Düsseldorf, Germany</div>
-
+        <div class="course"><b>TechLabs Digital Shaper Program (AI, Data science with Python),</b> Düsseldorf, Germany</div>
+        
 <br> 
-        <div class="course"><b>Statistics for Scientists in Medicine with R, SPSS</b></div>
-        <div class="institution">Düsseldorf, Germany</div>
-
+        <div class="course"><b>Statistics for Scientists in Medicine with R, SPSS,</b> Düsseldorf, Germany</div>
+      
 <br> 
-        <div class="course"><b>Global School of Neuroimmunology Course</b></div>
-        <div class="institution">Brisbane, Australia</div>
+        <div class="course"><b>Global School of Neuroimmunology Course,</b> Brisbane, Australia</div>
 
   <br> 
-        <div class="course"><b>Good Scientific Practice</b></div>
-        <div class="institution">Düsseldorf, Germany</div>
+        <div class="course"><b>Good Scientific Practice,</b> Düsseldorf, Germany</div>
 
   <br> 
-        <div class="course"><b>Instruction in Laboratory Animals Science (FELASA-B)</b></div>
-        <div class="institution">Bayer Health Care, Wuppertal, Germany</div>
+        <div class="course"><b>Instruction in Laboratory Animals Science (FELASA-B),</b> Bayer Health Care, Wuppertal, Germany</div>
 
   </div>
   </div>
