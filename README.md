@@ -314,7 +314,7 @@ and bash scripts-based pipeline
   <span>&#9658;</span> Selected Publications (click to read more)
 </div>
 
-<div class="collapse-content">
+
 <strong>Selected Publications:<strong>
 
 
