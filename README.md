@@ -424,7 +424,7 @@ and bash scripts-based pipeline
 + Novartis Research Day 2019, Berlin, Germany, January 24-25, 2019
 + 14th International Congress of Neuroimmunology, Brisbane, Australia, August 27-31, 2018
 
-</div>
+
 
 <script>
 var collapseElements = document.getElementsByClassName("collapse");
