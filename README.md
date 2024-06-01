@@ -97,7 +97,7 @@ margin-right: 10px;
 <div style="text-align: justify;">
 <div class="projects"><b>Conference presentation:</b>
          <ul>
-                <li> I am going to present our recent work at Swiss Neurological Society (SNS) annual meeting 2024 (<a href="https://sng-ssn2024.congress-imk.ch">), entitled <b>"Dynamic Reshaping of Lymphocyte Repertoires in Multiple Sclerosis Patients Treated with Alemtuzumab: Insights into Secondary Autoimmunity"</b></li>    
+                <li> I am going to present our recent work at Swiss Neurological Society (SNS) annual meeting 2024 (), entitled <b>"Dynamic Reshaping of Lymphocyte Repertoires in Multiple Sclerosis Patients Treated with Alemtuzumab: Insights into Secondary Autoimmunity"</b></li>    
           </ul>
 </div>
 
