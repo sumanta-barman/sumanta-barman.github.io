@@ -133,24 +133,6 @@ margin-right: 10px;
   </div>
 </div>
 
-<script>
-var collapseElements = document.getElementsByClassName("collapse");
-for (var i = 0; i < collapseElements.length; i++) {
-  collapseElements[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-      this.firstElementChild.innerHTML = "&#9658;";
-    } else {
-      content.style.display = "block";
-      this.firstElementChild.innerHTML = "&#9660;";
-    }
-  });
-}
-</script>
-
-
 <div class="collapse">
   <span>&#9658;</span> <b>New publication</b>(click to read more)
 </div>
