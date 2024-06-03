@@ -351,6 +351,7 @@ and bash scripts-based pipeline
       <em>Authors:</em> <strong>Sumanta Barman</strong> et al.<br>
       <em>Ready to submit</em>
     </li>
+    <br>
     <li>
       <strong>Comprehensive compartment-specific single-cell multi-omics profiling in GAD-autoimmunity</strong><br>
       <em>Authors:</em> <strong>Sumanta Barman</strong>, Saskia Räuber et al.<br>
@@ -371,6 +372,7 @@ and bash scripts-based pipeline
       <em>Year:</em> 2017<br>
       <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.444"><img src="https://onlinelibrary.wiley.com/cms/asset/20fe6556-ba39-4887-9dbb-0d067072d452/acn3444-fig-0004-m.jpg" alt="Thumbnail" width="200"></a>
     </li>
+    <br>
     <li>
       <strong><a href="https://www.mdpi.com/1422-0067/24/1/248" target="_blank">Myelinating Co-Culture as a Model to Study Anti-NMDAR Neurotoxicity</a></strong><br>
       <em>Authors:</em> Mercedeh Farhat Sabet, <strong>Sumanta Barman</strong>, Mathias Beller, Sven G Meuth, Nico Melzer, Orhan Aktas, Norbert Goebels, Tim Prozorovski.<br>
@@ -378,6 +380,7 @@ and bash scripts-based pipeline
       <em>Year:</em> 2023<br>
       <a href="https://www.mdpi.com/1422-0067/24/1/248"><img src="https://www.mdpi.com/ijms/ijms-24-00248/article_deploy/html/images/ijms-24-00248-g001.png" alt="Thumbnail" width="200"></a>
     </li>
+    <br>
     <li>
       <strong><a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2019.00178/full" target="_blank">An assay to determine mechanisms of rapid autoantibody-induced neurotransmitter receptor endocytosis and vesicular trafficking in autoimmune encephalitis</a></strong><br>
       <em>Authors:</em> Elsie Amedonu, Christoph Brenker, <strong>Sumanta Barman</strong>, Julian A Schreiber, Sebastian Becker, Stefan Peischard, Nathalie Strutz-Seebohm, Christine Strippel, Andre Dik, Hans-Peter Hartung, Thomas Budde, Heinz Wiendl, Timo Strünker, Bernhard Wünsch, Norbert Goebels, Sven G Meuth, Guiscard Seebohm, Nico Melzer<br>
@@ -385,6 +388,7 @@ and bash scripts-based pipeline
       <em>Year:</em> 2019<br>
       <a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2019.00178/full"><img src="https://www.frontiersin.org/files/Articles/425928/fneur-10-00178-HTML/image_m/fneur-10-00178-g003.jpg" alt="Thumbnail" width="300"></a>
     </li>
+    <br>
     <li>
       <strong><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.326" target="_blank">Dose‐dependent inhibition of demyelination and microglia activation by IVIG</a></strong><br>
       <em>Authors:</em> Meike Winter, Christine Baksmeier, Julia Steckel, <strong>Sumanta Barman</strong>, Manish Malviya, Melanie Harrer‐Kuster, Hans‐Peter Hartung, Norbert Goebels<br>
@@ -392,6 +396,7 @@ and bash scripts-based pipeline
       <em>Year:</em> 2016<br>
       <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.326"><img src="https://onlinelibrary.wiley.com/cms/asset/9b8bfd67-5778-4e1e-b7d5-aac0a7ec3b06/acn3326-fig-0002-m.jpg" alt="Thumbnail" width="200"></a>
     </li>
+    <br>
     <li>
       <strong><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25699" target="_blank">N‐methyl‐D‐aspartate receptor antibodies in autoimmune encephalopathy alter oligodendrocyte function</a></strong><br>
       <em>Authors:</em> Carlos Matute, Ana Palma, María Paz Serrano‐Regal, Estibaliz Maudes, <strong>Sumanta Barman</strong>, María Victoria Sánchez‐Gómez, María Domercq, Norbert Goebels, Josep Dalmau.<br>
