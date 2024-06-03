@@ -218,7 +218,7 @@ and bash scripts-based pipeline
 <body>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="r-python.png" alt="Bioinformatics Image" style="max-width: 15%; height: auto; margin-right: 10px;">
-    <img src="Seurat-scvi.png" alt="Another Image" style="max-width: 20%; height: auto;">
+    <img src="Seurat-scvi.png" alt="Another Image" style="max-width: 15%; height: auto;">
   </div>
   <br>
   <img src="r-python.png" alt="Bioinformatics Image" style="max-width: 10%; height: auto;">
