@@ -151,6 +151,12 @@ margin-right: 10px;
 
 ## <b>About Me</b>
 
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="about-me.jpg" alt="avoutme image" style="max-width: 20%; height: auto; margin-right: 10px;">
+  </div>
+   <br> 
+
+
 <div style="text-align: justify;">
 
 I am a neuroimmunology scientist with extensive expertise in central nervous system (CNS) autoimmune diseases. My research focuses on leveraging molecular biology, computational immunology, and cutting-edge "-omics" technologies, including immunogenomics, transcriptomics, and proteomics. Additionally, I possess proficiency in single B cell recombinant antibody technology. My skillset encompasses next-generation sequencing (NGS) in both laboratory and computational settings, as well as the development and characterization of recombinant monoclonal antibodies.<br><br>My mastery of data analysis using Python and R, coupled with machine learning and deep learning-based tools, empowers me to make informed decisions based on data and evidence. A significant aspect of my work involves investigating the treatment effects of various immunotherapies on patients' immune repertoires and contributing to the development and characterization of recombinant human monoclonal antibodies derived from clonally expanded plasma cells (cePc). I possess good knowledge of statistical approaches, utilizing tools such as R, SPSS and GraphPad Prism, to derive meaningful insights and statistical interpretations in research. Furthermore, I am deeply passionate about the application of artificial intelligence (AI) in healthcare and its potential to revolutionize precision medicine.<br><br>My dedication and perseverance have resulted in numerous scientific publications and presentations, both oral and poster, at national and international conferences. Moreover, I have had the privilege of mentoring multicultural students in all aspects of research, including project conception, methodology, data analysis, presentation, and report writing for bachelor's, master's, and PhD theses.
