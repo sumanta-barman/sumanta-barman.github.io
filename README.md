@@ -217,6 +217,7 @@ and bash scripts-based pipeline
 </head>
 <body>
   <img src="r-python.png" alt="Bioinformatics Image" style="max-width: 10%; height: auto;">
+  <img src="Seurat_scvi.png" alt="Another Image" style="max-width: 10%; height: auto;">
   <br>
   <strong>Programming and Scripting Languages:</strong> Python and R (advance), HTML (beginner)<br>
   <strong>Integrated Development Environments (IDEs) and Notebooks:</strong> RStudio, Jupyter Notebook, Visual Studio Code<br>
