@@ -315,6 +315,7 @@ and bash scripts-based pipeline
       <em>Year:</em> 2022<br>
       <a href="https://academic.oup.com/brain/article/145/5/1711/6590581"><img src="awac064f4.jpeg" alt="Thumbnail" width="200"></a>
     </li>
+    <br>
     <li>
       <strong><a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full" target="_blank">Classifying flow cytometry data using Bayesian analysis helps to distinguish ALS patients from healthy controls</a></strong><br>
       <em>Authors:</em>
@@ -325,6 +326,7 @@ and bash scripts-based pipeline
       <em>Year:</em> 2023<br>
       <a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full"><img src="https://www.frontiersin.org/files/Articles/1198860/fimmu-14-1198860-HTML/image_m/fimmu-14-1198860-g004.jpg" alt="Thumbnail" width="300"></a>
     </li>
+    <br>
     <li>
       <strong>T cell specificity and protective functions elicited by KSHV infection of B cells in vivo</strong><br>
       <em>Authors:</em>
@@ -334,6 +336,7 @@ and bash scripts-based pipeline
       <em>Journal:</em> Nature Communications (Accepted)<br>
       <em>Year:</em> 2024
     </li>
+    <br>
     <li>
       <strong>Consensus clustering identifies disease subtypes of myasthenia gravis</strong><br>
       <em>Authors:</em>
@@ -342,6 +345,7 @@ and bash scripts-based pipeline
       </div>
       <em>Under review</em>
     </li>
+    <br>
     <li>
       <strong>Dynamic reshaping of lymphocyte repertoires in multiple sclerosis patients treated with Alemtuzumab: Insights into secondary autoimmunity</strong><br>
       <em>Authors:</em> <strong>Sumanta Barman</strong> et al.<br>
