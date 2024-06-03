@@ -81,7 +81,7 @@ margin-right: 10px;
     <a href="#complete-list-of-publications">Complete List of Publications</a>
     <a href="#certifications">Certifications</a>
     <a href="#awards-and-grants">Awards and Grants</a>
-    <a href="#personal-interests">Personal Interests</a>
+    <a href="#interests">Interests</a>
     <a href="#contact-me">Contact Me</a>
   </nav>
 </div>  
@@ -496,7 +496,7 @@ for (var i = 0; i < collapseElements.length; i++) {
 ---
 
 
-## <b>Personal Interests</b>
+## <b>Interests</b>
 
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="personal_interest.jpg" alt="hobbies image" style="max-width: 20%; height: auto; margin-right: 10px;">
