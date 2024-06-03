@@ -258,7 +258,7 @@ and bash scripts-based pipeline
   <div style="text-align: justify;">
   <div class="education-section">
         <div class="education-title">2016 – 2021</div>
-        <div class="degree"><b>PhD in Neuroimmunology</b> (Grade: summa cum laude)</div>
+        <div class="degree"><b>PhD in Neuroimmunology</b> (Grade: <b>summa cum laude</b>)</div>
         <div class="institution">Heinrich Heine University Düsseldorf, Germany</div>
         <div class="thesis">Thesis: Single B cell antibody technology and high-throughput immune repertoire sequencing as complementary tools to better understand central nervous system (CNS) inflammation and treatment effects</div>
   </div>
