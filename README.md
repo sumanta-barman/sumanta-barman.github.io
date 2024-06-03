@@ -72,10 +72,10 @@ margin-right: 10px;
     }
 
 
-   #sticky-menu nav a::before {
-    content: "► ";
-    color: #339933;/* GitHub Cayman theme green color */
-}
+#sticky-menu nav a:not(.home)::before {
+      content: "► ";
+      color: #339933; /* GitHub Cayman theme green color */
+    }
 
   </style>
 </head>
@@ -83,7 +83,7 @@ margin-right: 10px;
 <div id="sticky-menu">
   <div style="text-align: justify;">
   <nav style="display: flex; justify-content: space-between;">
-    <a href="#top">Home</a> <!-- Added home button -->
+    <a href="#top" class="home">Home</a>
     <a href="#news">News</a>
     <a href="#about-me">About Me</a>
     <a href="#expertise">Expertise</a>
