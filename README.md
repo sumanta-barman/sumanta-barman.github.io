@@ -152,9 +152,8 @@ margin-right: 10px;
 ## <b>About Me</b>
 
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="about-me.jpg" alt="aboutme image" style="max-width: 30%; height: auto; margin-right: 10px;">
+    <img src="computational_immunology.jpeg" alt="aboutme image" style="max-width: 30%; height: auto; margin-right: 10px;">
   </div>
-   <br> 
 
 
 <div style="text-align: justify;">
@@ -193,10 +192,6 @@ and bash scripts-based pipeline
 
 ## <b>Research Highlights</b>
 
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="computational_immunology.jpeg" alt="ci image" style="max-width: 30%; height: auto; margin-right: 10px;">
-  </div>
-  
 <div style="text-align: justify;">
 <div class="projects"><b>Single cell sequencing:</b>
          <ul>
