@@ -179,6 +179,10 @@ I am a neuroimmunology scientist with extensive expertise in central nervous sys
 
 ## <b>Relevant Methods</b>
 
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="methods.png" alt="method image" style="max-width: 30%; height: auto; margin-right: 10px;">
+  </div>
+
 + NGS library preparation, data acquisition, quality control, visualization, statistical analysis, and interpretation
 + Bulk RNA-seq, single cell RNA-Seq, CITE-seq, transcriptomics, proteomics, immunogenomics data analysis using R and Python-based tools, custom scripts
 and bash scripts-based pipeline
