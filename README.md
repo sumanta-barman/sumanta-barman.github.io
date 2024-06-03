@@ -83,7 +83,7 @@ margin-right: 10px;
 <div id="sticky-menu">
   <div style="text-align: justify;">
   <nav style="display: flex; justify-content: space-between;">
-    <a href="#top" class="home"></a>
+    <a href="#top" class="home">Home</a>
     <a href="#news">News</a>
     <a href="#about-me">About Me</a>
     <a href="#expertise">Expertise</a>
