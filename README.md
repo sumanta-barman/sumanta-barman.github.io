@@ -58,6 +58,20 @@ margin-right: 10px;
     #sticky-menu nav a:last-child {
   margin-right: 0;
 }
+
+  #sticky-menu nav a.home::before {
+      content: "";
+      display: inline-block;
+      width: 20px; /* Adjust the width as per your logo size */
+      height: 20px; /* Adjust the height as per your logo size */
+      background-image: url("home.jpg"); /* Replace with your logo file name */
+      background-size: contain;
+      background-repeat: no-repeat;
+      margin-right: 5px; /* Add some spacing between the logo and the text */
+      vertical-align: middle;
+    }
+
+
    #sticky-menu nav a::before {
     content: "► ";
     color: #339933;/* GitHub Cayman theme green color */
