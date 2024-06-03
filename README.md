@@ -505,7 +505,6 @@ for (var i = 0; i < collapseElements.length; i++) {
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="personal_interest.jpg" alt="hobbies image" style="max-width: 20%; height: auto; margin-right: 10px;">
   </div>
-  <br>
 
 + Playing musical instruments
 + Photography
