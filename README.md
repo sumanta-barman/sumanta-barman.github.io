@@ -64,7 +64,7 @@ margin-right: 10px;
       display: inline-block;
       width: 20px; /* Adjust the width as per your logo size */
       height: 20px; /* Adjust the height as per your logo size */
-      background-image: url("hm1.jpg"); /* Replace with your logo file name */
+      background-image: url("hm.jpg"); /* Replace with your logo file name */
       background-size: contain;
       background-repeat: no-repeat;
       margin-right: 5px; /* Add some spacing between the logo and the text */
