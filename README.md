@@ -152,7 +152,7 @@ margin-right: 10px;
 ## <b>About Me</b>
 
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="about-me.jpg" alt="avoutme image" style="max-width: 20%; height: auto; margin-right: 10px;">
+    <img src="about-me.jpg" alt="aboutme image" style="max-width: 30%; height: auto; margin-right: 10px;">
   </div>
    <br> 
 
