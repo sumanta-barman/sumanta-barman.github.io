@@ -364,7 +364,7 @@ and bash scripts-based pipeline
         Nicole Caduff, Lisa Rieble, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz.
       </div>
       <em>Journal:</em> Nature Communications<br>
-      <em>Year:</em> 2024
+      <em>Year:</em> 2024<br>
       <a href="https://www.nature.com/articles/s41467-024-49209-w#Sec32"><img src="EBV_KHSV.webp" alt="Thumbnail" width="200"></a>
     </li>
     <br>
