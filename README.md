@@ -365,7 +365,7 @@ and bash scripts-based pipeline
       </div>
       <em>Journal:</em> Nature Communications<br>
       <em>Year:</em> 2024
-      <a href="https://www.nature.com/articles/s41467-024-49209-w#Sec32"><img src="https://www.nature.com/articles/s41467-024-49209-w/figures/1" alt="Thumbnail" width="200"></a>
+      <a href="https://www.nature.com/articles/s41467-024-49209-w#Sec32"><img src="EBV_KHSV.webp" alt="Thumbnail" width="200"></a>
     </li>
     <br>
     <li>
