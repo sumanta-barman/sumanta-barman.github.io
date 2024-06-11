@@ -139,7 +139,7 @@ margin-right: 10px;
 <div class="collapse-content">
   <div style="text-align: justify;">
       <ul>
-        Our recent article has been accepted in <b>Nature Communications</b>: Nicole Caduff, Lisa Rieble, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz. The article is titled <b>"T cell specificity and protective functions elicited by KSHV infection of B cells in vivo"</b> and I was involved in the TCR repertoire data analysis in EBV and EBV+KSHV infected humanized mice.
+        Our recent article has been published in <a href="https://www.nature.com/articles/s41467-024-49209-w" target="_blank"><b>Nature Communications</b>: Nicole Caduff, Lisa Rieble, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz. The article is titled <b>"T cell specificity and protective functions elicited by KSHV infection of B cells in vivo"</b> and I was involved in the TCR repertoire data analysis in EBV and EBV+KSHV infected humanized mice.
       </ul>
   </div>
 </div>
