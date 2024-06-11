@@ -97,6 +97,7 @@ margin-right: 10px;
     <a href="#certifications">Certifications</a>
     <a href="#awards-and-grants">Awards and Grants</a>
     <a href="#interests">Interests</a>
+    <a href="#blog">Blog</a>
     <a href="#contact-me">Contact Me</a>
   </nav>
 </div>  
@@ -534,6 +535,15 @@ for (var i = 0; i < collapseElements.length; i++) {
 + Camping
 + Cycling
 + Coding
+
+
+---
+
+
+## <b>Blog</b>
+
+ <br> 
+Coming soon....
 
 
 ---
