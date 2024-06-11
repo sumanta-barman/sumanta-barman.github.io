@@ -358,13 +358,14 @@ and bash scripts-based pipeline
     </li>
     <br>
     <li>
-      <strong>T cell specificity and protective functions elicited by KSHV infection of B cells in vivo</strong><br>
+      <strong><a href="https://www.nature.com/articles/s41467-024-49209-w#Sec32" target="_blank">T cell specificity and protective functions elicited by KSHV infection of B cells in vivo</a></strong><br>
       <em>Authors:</em>
       <div style="text-align: justify;">
         Nicole Caduff, Lisa Rieble, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz.
       </div>
-      <em>Journal:</em> Nature Communications (In press)<br>
+      <em>Journal:</em> Nature Communications<br>
       <em>Year:</em> 2024
+      <a href="https://www.nature.com/articles/s41467-024-49209-w#Sec32"><img src="https://www.nature.com/articles/s41467-024-49209-w/figures/1" alt="Thumbnail" width="200"></a>
     </li>
     <br>
     <li>
