@@ -98,8 +98,10 @@ margin-right: 10px;
     <a href="#certifications">Certifications</a>
     <a href="#awards-and-grants">Awards and Grants</a>
     <a href="#interests">Interests</a>
-    <a href="#blog">Blog</a>
-    <a href="#contact-me">Contact Me</a>
+    <div style="display: flex;">
+      <a href="#blog">Blog</a>
+      <a href="#contact-me">Contact Me</a>
+    </div>
   </nav>
 </div>  
 </div> 
