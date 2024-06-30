@@ -140,7 +140,7 @@ margin-right: 10px;
 
   <div style="text-align: justify;">
     <ul>
-        <b>May 10, 2024:</b> I am going to present our recent work at <a href="https://sng-ssn2024.congress-imk.ch" target="_blank">Swiss Neurological Society (SNS) annual meeting 2024</a>, which will take place on June 6th, 2024. The presentation is titled <b>"Dynamic Reshaping of Lymphocyte Repertoires in Multiple Sclerosis Patients Treated with Alemtuzumab: Insights into Secondary Autoimmunity".</b>
+        <b>May 10, 2024:</b> I am going to present our recent work at <a href="https://sng-ssn2024.congress-imk.ch" target="_blank">Swiss Neurological Society (SNS) annual meeting 2024 in Basel, Switzerland</a>, which will take place on June 6th, 2024. The presentation is titled <b>"Dynamic Reshaping of Lymphocyte Repertoires in Multiple Sclerosis Patients Treated with Alemtuzumab: Insights into Secondary Autoimmunity".</b>
       </ul>
   </div>
 </div>
@@ -159,7 +159,7 @@ margin-right: 10px;
 
   <div style="text-align: justify;">
       <ul>
-        June 10, 2024: Our recent article has been published in <a href="https://www.nature.com/articles/s41467-024-49209-w" target="_blank"><b>Nature Communications</b>:</a> Nicole Caduff, Lisa Rieble, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz. The article is titled <b>"T cell specificity and protective functions elicited by KSHV infection of B cells in vivo"</b> and I was involved in the TCR repertoire data analysis in EBV and EBV+KSHV infected humanized mice.
+        <b>June 10, 2024:</b> Our recent article has been published in <a href="https://www.nature.com/articles/s41467-024-49209-w" target="_blank"><b>Nature Communications</b>:</a> Nicole Caduff, Lisa Rieble, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz. The article is titled <b>"T cell specificity and protective functions elicited by KSHV infection of B cells in vivo"</b> and I was involved in the TCR repertoire data analysis in EBV and EBV+KSHV infected humanized mice.
       </ul>
   </div>
 </div>
