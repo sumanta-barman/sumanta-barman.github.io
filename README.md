@@ -154,10 +154,9 @@ margin-right: 10px;
       <ul>
         <b>June 30, 2024:</b> Our recent article has been accepted in <a href="https://www.thelancet.com/journals/ebiom/home" target="_blank"><b>eBioMedicine</b>:</a> C. Nelke, C. B. Schroeter, <strong>Sumanta Barman</strong> et al. The article is titled <b>"Identification of disease phenotypes in acetylcholine receptor-antibody myasthenia gravis using proteomics-based consensus clustering"</b> and I was involved in the BCR repertoire data analysis of myasthenia gravis patients.
       </ul>
-    </div>
+  </div>
   
 
-<div class="collapse-content">
   <div style="text-align: justify;">
       <ul>
         June 10, 2024: Our recent article has been published in <a href="https://www.nature.com/articles/s41467-024-49209-w" target="_blank"><b>Nature Communications</b>:</a> Nicole Caduff, Lisa Rieble, Michelle Böni, Donal McHugh, Romin Roshan, Wendell Miley, Nazzarena Labo, <strong>Sumanta Barman</strong>, Matthew Trivett, Douwe M. T. Bosma, Julia Rühl, Norbert Goebels, Denise Whitby, Christian Münz. The article is titled <b>"T cell specificity and protective functions elicited by KSHV infection of B cells in vivo"</b> and I was involved in the TCR repertoire data analysis in EBV and EBV+KSHV infected humanized mice.
