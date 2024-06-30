@@ -133,7 +133,7 @@ margin-right: 10px;
 <div class="collapse-content">
   <div style="text-align: justify;">
     <ul>
-        <b>June 30, 2024: I will give an oral presentation about our recent work at <a href="https://ectrims.eu/ectrims2024/" target="_blank">The 40th Congress of the European Committee for Treatment and Research in Multiple Sclerosis</a>, which will take place on 18-20 September 2024 in Copenhagen, Denmark. The presentation is titled <b>"Secondary Autoimmunity after Alemtuzumab treatment in MS: Longitudinal immune repeertoire study suggests pre-existing predisposition ".</b>
+        <b>June 30, 2024:</b> I will give an oral presentation about our recent work at <a href="https://ectrims.eu/ectrims2024/" target="_blank">The 40th Congress of the European Committee for Treatment and Research in Multiple Sclerosis</a>, which will take place on 18-20 September 2024 in Copenhagen, Denmark. The presentation is titled <b>"Secondary Autoimmunity after Alemtuzumab treatment in MS: Longitudinal immune repeertoire study suggests pre-existing predisposition ".</b>
       </ul>
   </div>
 
