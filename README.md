@@ -133,15 +133,14 @@ margin-right: 10px;
 <div class="collapse-content">
   <div style="text-align: justify;">
     <ul>
-        June 30, 2024: I will give an oral presentation about our recent work at <a href="https://ectrims.eu/ectrims2024/" target="_blank">The 40th Congress of the European Committee for Treatment and Research in Multiple Sclerosis</a>, which will take place on 18-20 September 2024 in Copenhagen, Denmark. The presentation is titled <b>"Secondary Autoimmunity after Alemtuzumab treatment in MS: Longitudinal immune repeertoire study suggests pre-existing predisposition ".</b>
+        <b>June 30, 2024: I will give an oral presentation about our recent work at <a href="https://ectrims.eu/ectrims2024/" target="_blank">The 40th Congress of the European Committee for Treatment and Research in Multiple Sclerosis</a>, which will take place on 18-20 September 2024 in Copenhagen, Denmark. The presentation is titled <b>"Secondary Autoimmunity after Alemtuzumab treatment in MS: Longitudinal immune repeertoire study suggests pre-existing predisposition ".</b>
       </ul>
   </div>
 
-  <br><br>
 
   <div style="text-align: justify;">
     <ul>
-        May 10, 2024: I am going to present our recent work at <a href="https://sng-ssn2024.congress-imk.ch" target="_blank">Swiss Neurological Society (SNS) annual meeting 2024</a>, which will take place on June 6th, 2024. The presentation is titled <b>"Dynamic Reshaping of Lymphocyte Repertoires in Multiple Sclerosis Patients Treated with Alemtuzumab: Insights into Secondary Autoimmunity".</b>
+        May 10, 2024:</b> I am going to present our recent work at <a href="https://sng-ssn2024.congress-imk.ch" target="_blank">Swiss Neurological Society (SNS) annual meeting 2024</a>, which will take place on June 6th, 2024. The presentation is titled <b>"Dynamic Reshaping of Lymphocyte Repertoires in Multiple Sclerosis Patients Treated with Alemtuzumab: Insights into Secondary Autoimmunity".</b>
       </ul>
   </div>
 </div>
@@ -153,11 +152,10 @@ margin-right: 10px;
 <div class="collapse-content">
   <div style="text-align: justify;">
       <ul>
-        June 30, 2024: Our recent article has been accepted in <a href="https://www.thelancet.com/journals/ebiom/home" target="_blank"><b>eBioMedicine</b>:</a> C. Nelke, C. B. Schroeter, <strong>Sumanta Barman</strong> et al. The article is titled <b>"Identification of disease phenotypes in acetylcholine receptor-antibody myasthenia gravis using proteomics-based consensus clustering"</b> and I was involved in the BCR repertoire data analysis of myasthenia gravis patients.
+        <b>June 30, 2024:</b> Our recent article has been accepted in <a href="https://www.thelancet.com/journals/ebiom/home" target="_blank"><b>eBioMedicine</b>:</a> C. Nelke, C. B. Schroeter, <strong>Sumanta Barman</strong> et al. The article is titled <b>"Identification of disease phenotypes in acetylcholine receptor-antibody myasthenia gravis using proteomics-based consensus clustering"</b> and I was involved in the BCR repertoire data analysis of myasthenia gravis patients.
       </ul>
     </div>
-  </div>
-
+  
 
 <div class="collapse-content">
   <div style="text-align: justify;">
