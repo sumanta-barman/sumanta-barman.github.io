@@ -127,7 +127,7 @@ margin-right: 10px;
 
 
 <div class="collapse">
-  <span>&#9658;</span> <b>Conference presentation</b> <span style="color: #0077b3;">(click to read more)</span>
+  <span>&#9658;</span> <b>Conference presentation (June 30, 2024)</b> <span style="color: #0077b3;">(click to read more)</span>
 </div>
 
 <div class="collapse-content">
@@ -139,7 +139,7 @@ margin-right: 10px;
 </div>
 
 <div class="collapse">
-  <span>&#9658;</span> <b>New publication</b> (click to read more)
+  <span>&#9658;</span> <b>New publication (June 30, 2024)</b> (click to read more)
 </div>
 
 <div class="collapse-content">
@@ -147,12 +147,12 @@ margin-right: 10px;
       <ul>
         Our recent article has been accepted in <a href="https://www.thelancet.com/journals/ebiom/home" target="_blank"><b>eBioMedicine</b>:</a> C. Nelke, C. B. Schroeter, S. Barman et al. The article is titled <b>"Identification of disease phenotypes in acetylcholine receptor-antibody myasthenia gravis using proteomics-based consensus clustering"</b> and I was involved in the BCR repertoire data analysis of myasthenia gravis patients.
       </ul>
+    </div>
   </div>
 
-  
 
 <div class="collapse">
-  <span>&#9658;</span> <b>Conference presentation</b> <span style="color: #0077b3;">(click to read more)</span>
+  <span>&#9658;</span> <b>Conference presentation (May 20, 2024)</b> <span style="color: #0077b3;">(click to read more)</span>
 </div>
 
 <div class="collapse-content">
@@ -164,7 +164,7 @@ margin-right: 10px;
 </div>
 
 <div class="collapse">
-  <span>&#9658;</span> <b>New publication</b> (click to read more)
+  <span>&#9658;</span> <b>New publication (June 10, 2024)</b> (click to read more)
 </div>
 
 <div class="collapse-content">
