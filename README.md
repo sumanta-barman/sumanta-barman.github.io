@@ -125,6 +125,32 @@ margin-right: 10px;
 }
 </style>
 
+
+<div class="collapse">
+  <span>&#9658;</span> <b>Conference presentation</b> <span style="color: #0077b3;">(click to read more)</span>
+</div>
+
+<div class="collapse-content">
+  <div style="text-align: justify;">
+    <ul>
+        I am going to present our recent work at <a href="https://ectrims.eu/ectrims2024/" target="_blank">The 40th Congress of the European Committee for Treatment and Research in Multiple Sclerosis</a>, which will take place on 18-20 September 2024. The presentation is titled <b>"Secondary Autoimmunity after Alemtuzumab treatment in MS: Longitudinal immune repeertoire study suggests pre-existing predisposition ".</b>
+      </ul>
+  </div>
+</div>
+
+<div class="collapse">
+  <span>&#9658;</span> <b>New publication</b> (click to read more)
+</div>
+
+<div class="collapse-content">
+  <div style="text-align: justify;">
+      <ul>
+        Our recent article has been accepted in <a href="https://www.thelancet.com/journals/ebiom/home" target="_blank"><b>eBioMedicine</b>:</a> C. Nelke, C. B. Schroeter, S. Barman et al. The article is titled <b>"Identification of disease phenotypes in acetylcholine receptor-antibody myasthenia gravis using proteomics-based consensus clustering"</b> and I was involved in the BCR repertoire data analysis of myasthenia gravis patients.
+      </ul>
+  </div>
+
+  
+
 <div class="collapse">
   <span>&#9658;</span> <b>Conference presentation</b> <span style="color: #0077b3;">(click to read more)</span>
 </div>
