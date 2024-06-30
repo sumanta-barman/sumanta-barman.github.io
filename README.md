@@ -136,9 +136,9 @@ margin-right: 10px;
         June 30, 2024: I will give an oral presentation about our recent work at <a href="https://ectrims.eu/ectrims2024/" target="_blank">The 40th Congress of the European Committee for Treatment and Research in Multiple Sclerosis</a>, which will take place on 18-20 September 2024 in Copenhagen, Denmark. The presentation is titled <b>"Secondary Autoimmunity after Alemtuzumab treatment in MS: Longitudinal immune repeertoire study suggests pre-existing predisposition ".</b>
       </ul>
   </div>
-</div>
 
-<div class="collapse-content">
+  <br><br>
+
   <div style="text-align: justify;">
     <ul>
         May 10, 2024: I am going to present our recent work at <a href="https://sng-ssn2024.congress-imk.ch" target="_blank">Swiss Neurological Society (SNS) annual meeting 2024</a>, which will take place on June 6th, 2024. The presentation is titled <b>"Dynamic Reshaping of Lymphocyte Repertoires in Multiple Sclerosis Patients Treated with Alemtuzumab: Insights into Secondary Autoimmunity".</b>
