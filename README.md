@@ -388,12 +388,14 @@ and bash scripts-based pipeline
     </li>
     <br>
     <li>
-      <strong>Consensus clustering identifies disease subtypes of myasthenia gravis</strong><br>
+      <strong>Identification of disease phenotypes in acetylcholine receptor-antibody myasthenia gravis using proteomics-based consensus clustering</strong><br>
       <em>Authors:</em>
       <div style="text-align: justify;">
-        Christopher Nelke, Christina B. Schroeter, <strong>Sumanta Barman</strong>, Frauke Stascheit, Lars Masanneck, Lukas Theissen, Niklas Huntemann, Derya Cengiz, Vera Dobelmann, Marc Pawlitzki, Saskia Räuber, Hans-Peter Hartung, Simone König, Andreas Roos, Andreas Meisel, Sven G. Meuth, Tobias Ruck.
+        Christopher Nelke, Christina B. Schroeter, <strong>Sumanta Barman</strong>, Frauke Stascheit, Lars Masanneck, Lukas Theissen, Niklas Huntemann, Sara Walli, Derya Cengiz, Vera Dobelmann, Anna Vogelsang, Marc Pawlitzki, Saskia Räuber, Felix F. Konen, Thomas Skripuletz, Hans-Peter Hartung, Simone König, Andreas Roos, Andreas Meisel, Sven G. Meuth, and Tobias Ruck.
       </div>
-      <em>Under review</em>
+      <em>Journal:</em> eBioMedicine<br>
+      <em>Year:</em> 2024<br>
+      <a href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00266-4/fulltext"><img src="MG_ebiomedicine.jpg" alt="Thumbnail" width="200"></a>
     </li>
     <br>
     <li>
