@@ -152,7 +152,7 @@ margin-right: 10px;
 <div class="collapse-content">
   <div style="text-align: justify;">
       <ul>
-        <b>June 30, 2024:</b> Our recent article has been accepted in <a href="https://www.thelancet.com/journals/ebiom/home" target="_blank"><b>eBioMedicine</b>:</a> C. Nelke, C. B. Schroeter, <strong>Sumanta Barman</strong> et al. The article is titled <b>"Identification of disease phenotypes in acetylcholine receptor-antibody myasthenia gravis using proteomics-based consensus clustering"</b> and I was involved in the BCR repertoire data analysis of myasthenia gravis patients.
+        <b>June 30, 2024:</b> Our recent article has been published in <a href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00266-4/fulltext#secsectitle0065" target="_blank"><b>eBioMedicine</b>:</a> Christopher Nelke, Christina B. Schroeter, <strong>Sumanta Barman</strong>, Frauke Stascheit, Lars Masanneck, Lukas Theissen, Niklas Huntemann, Sara Walli, Derya Cengiz, Vera Dobelmann, Anna Vogelsang, Marc Pawlitzki, Saskia Räuber, Felix F. Konen, Thomas Skripuletz, Hans-Peter Hartung, Simone König, Andreas Roos, Andreas Meisel, Sven G. Meuth, and Tobias Ruck. The article is titled <b>"Identification of disease phenotypes in acetylcholine receptor-antibody myasthenia gravis using proteomics-based consensus clustering"</b> and for this study, I had the privilege of conducting the B cell receptor (BCR) repertoire analysis of myasthenia gravis patients using Python and R-based tools, a bash scripts-based pipeline, and custom scripts.
       </ul>
   </div>
   
