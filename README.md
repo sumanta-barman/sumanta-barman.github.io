@@ -366,6 +366,17 @@ and bash scripts-based pipeline
     </li>
     <br>
     <li>
+      <strong><a href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00266-4/fulltext" target="_blank">Identification of disease phenotypes in acetylcholine receptor-antibody myasthenia gravis using proteomics-based consensus clustering</strong><br>
+      <em>Authors:</em>
+      <div style="text-align: justify;">
+        Christopher Nelke, Christina B. Schroeter, <strong>Sumanta Barman</strong>, Frauke Stascheit, Lars Masanneck, Lukas Theissen, Niklas Huntemann, Sara Walli, Derya Cengiz, Vera Dobelmann, Anna Vogelsang, Marc Pawlitzki, Saskia Räuber, Felix F. Konen, Thomas Skripuletz, Hans-Peter Hartung, Simone König, Andreas Roos, Andreas Meisel, Sven G. Meuth, and Tobias Ruck.
+      </div>
+      <em>Journal:</em> eBioMedicine<br>
+      <em>Year:</em> 2024<br>
+      <a href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00266-4/fulltext"><img src="MG_ebiomedicine.jpg" alt="Thumbnail" width="200"></a>
+    </li>
+    <br>
+    <li>
       <strong><a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full" target="_blank">Classifying flow cytometry data using Bayesian analysis helps to distinguish ALS patients from healthy controls</a></strong><br>
       <em>Authors:</em>
       <div style="text-align: justify;">
@@ -385,17 +396,6 @@ and bash scripts-based pipeline
       <em>Journal:</em> Nature Communications<br>
       <em>Year:</em> 2024<br>
       <a href="https://www.nature.com/articles/s41467-024-49209-w"><img src="EBV_KHSV.webp" alt="Thumbnail" width="200"></a>
-    </li>
-    <br>
-    <li>
-      <strong>Identification of disease phenotypes in acetylcholine receptor-antibody myasthenia gravis using proteomics-based consensus clustering</strong><br>
-      <em>Authors:</em>
-      <div style="text-align: justify;">
-        Christopher Nelke, Christina B. Schroeter, <strong>Sumanta Barman</strong>, Frauke Stascheit, Lars Masanneck, Lukas Theissen, Niklas Huntemann, Sara Walli, Derya Cengiz, Vera Dobelmann, Anna Vogelsang, Marc Pawlitzki, Saskia Räuber, Felix F. Konen, Thomas Skripuletz, Hans-Peter Hartung, Simone König, Andreas Roos, Andreas Meisel, Sven G. Meuth, and Tobias Ruck.
-      </div>
-      <em>Journal:</em> eBioMedicine<br>
-      <em>Year:</em> 2024<br>
-      <a href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00266-4/fulltext"><img src="MG_ebiomedicine.jpg" alt="Thumbnail" width="200"></a>
     </li>
     <br>
     <li>
