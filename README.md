@@ -371,8 +371,8 @@ and bash scripts-based pipeline
       <div style="text-align: justify;">
         Christopher Nelke, Christina B. Schroeter, <strong>Sumanta Barman</strong>, Frauke Stascheit, Lars Masanneck, Lukas Theissen, Niklas Huntemann, Sara Walli, Derya Cengiz, Vera Dobelmann, Anna Vogelsang, Marc Pawlitzki, Saskia Räuber, Felix F. Konen, Thomas Skripuletz, Hans-Peter Hartung, Simone König, Andreas Roos, Andreas Meisel, Sven G. Meuth, and Tobias Ruck.
       </div>
-      <em>Journal:</em>eBioMedicine<br>
-      <em>Year:</em>2024<br>
+      <em>Journal:</em> eBioMedicine<br>
+      <em>Year:</em> 2024<br>
       <a href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00266-4/fulltext"><img src="MG_ebiomedicine.jpg" alt="Thumbnail" width="200"></a>
     </li>
     <br>
@@ -382,8 +382,8 @@ and bash scripts-based pipeline
       <div style="text-align: justify;">
         Saskia Räuber, Christopher Nelke, Christina B Schroeter, <strong>Sumanta Barman</strong>, Marc Pawlitzki, Jens Ingwersen, Katja Akgün, Rene Günther, Alejandra P Garza, Michaela Marggraf, Ildiko Rita Dunay, Stefanie Schreiber, Stefan Vielhaber, Tjalf Ziemssen, Nico Melzer, Tobias Ruck, Sven G Meuth, Michael Herty.
       </div>
-      <em>Journal:</em>Frontiers in Immunology<br>
-      <em>Year:</em>2023<br>
+      <em>Journal:</em> Frontiers in Immunology<br>
+      <em>Year:</em> 2023<br>
       <a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198860/full"><img src="https://www.frontiersin.org/files/Articles/1198860/fimmu-14-1198860-HTML/image_m/fimmu-14-1198860-g004.jpg" alt="Thumbnail" width="300"></a>
     </li>
     <br>
