@@ -267,7 +267,7 @@ and bash scripts-based pipeline
   <br>
   <strong>Programming and Scripting Languages:</strong> Python and R (advance), HTML (beginner)<br>
   <strong>Integrated Development Environments (IDEs) and Notebooks:</strong> RStudio, Jupyter Notebook, Visual Studio Code<br>
-  <strong>Bioinformatics:</strong> Bioconductor, IMGT, IMGT/HighV-QUEST, BLAST, MAFFT, VDJdb<br>
+  <strong>Bioinformatics:</strong> Bioconductor, IMGT, IMGT/HighV-QUEST, BLAST, MAFFT, VDJdb etc.<br>
   <strong>Data Analysis and Visualization:</strong>
   <pre><b>Single cell sequencing data analysis:</b> Cell Ranger, STAR, Seurat, Scanpy, Scirpy, SCVItools, Monocle, Harmony, Dandelion, scRepertoire, NAIR, Propeller, Enclone, GLIPH, Immunearch, Immcantation, Dowser, Tcrdist3, Loupe Browser, Loupe V(D)J Browser, DESeq2, limma etc.<br><br><b>Bulk seq analysis:</b> MiXCR, STAR, VDJtools, Immunearch, Immcantation<br><br><b>Others:</b> R Markdown, Pandas, NumPy, Ggplot2, Plotly, Matplotlib, UMAP, t-SNE, TCRex, ViClod etc.</pre>
   <strong>Statistical Analysis:</strong> R, SPSS, GraphPad Prism<br>
