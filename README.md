@@ -125,6 +125,9 @@ margin-right: 10px;
 }
 </style>
 
+<div class="collapse">
+  <span>&#9658;</span> <b> Novermber 4, 2024: I have started a position as Expert Immunology Data Science at Novartis, Basel, Switzerland</b> </span>
+</div>
 
 <div class="collapse">
   <span>&#9658;</span> <b>Conference presentation</b> <span style="color: #0077b3;">(click to read more)</span>
@@ -133,7 +136,7 @@ margin-right: 10px;
 <div class="collapse-content">
   <div style="text-align: justify;">
     <ul>
-        <b>June 30, 2024:</b> I will give an oral presentation about our recent work at <a href="https://ectrims.eu/ectrims2024/" target="_blank">The 40th Congress of the European Committee for Treatment and Research in Multiple Sclerosis</a>, which will take place on 18-20 September 2024 in Copenhagen, Denmark. The presentation is titled <b>"Secondary Autoimmunity after Alemtuzumab treatment in MS: Longitudinal immune repeertoire study suggests pre-existing predisposition ".</b>
+        <b>June 30, 2024:</b> I have given an oral presentation about our recent work at <a href="https://ectrims.eu/ectrims2024/" target="_blank">The 40th Congress of the European Committee for Treatment and Research in Multiple Sclerosis</a>, which will take place on 18-20 September 2024 in Copenhagen, Denmark. The presentation is titled <b>"Secondary Autoimmunity after Alemtuzumab treatment in MS: Longitudinal immune repeertoire study suggests pre-existing predisposition ".</b>
       </ul>
   </div>
 
