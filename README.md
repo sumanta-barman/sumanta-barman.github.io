@@ -126,7 +126,7 @@ margin-right: 10px;
 </style>
 
 <div class="collapse">
-  <span>&#9658;</span> <b> Novermber 4, 2024: I have started a position as Expert Immunology Data Science at Novartis, Basel, Switzerland</b> </span>
+  <span>&#9658;</span> <b> Novermber 4, 2024: I have started a position as Expert Immunology Data Science at Novartis, Basel, Switzerland</b>
 </div>
 
 <div class="collapse">
