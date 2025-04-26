@@ -606,7 +606,7 @@ for (var i = 0; i < collapseElements.length; i++) {
 <div class="collapse-content" id="blog1-content">
   <div class="blog-justify">
     <h2>What happens to your brain as you age?</h2>
-    <p> Reading time: approximately 4 minutes 
+    <p> Reading time: approximately 4 minutes (বাংলায় পড়তে নিচে স্ক্রল করুন)
     </p>
     <img src="https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/1030_neuron_explainer_feat.jpg"
          alt="Brain illustration"
