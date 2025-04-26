@@ -591,6 +591,12 @@ for (var i = 0; i < collapseElements.length; i++) {
 .collapse-content.open {
   display: block;
 }
+
+/* Justify all text inside the blog content */
+.blog-justify {
+  text-align: justify;
+  text-justify: inter-word;
+}
 </style>
 
 <div class="collapse" id="blog1-toggle">
@@ -598,84 +604,85 @@ for (var i = 0; i < collapseElements.length; i++) {
 </div>
 
 <div class="collapse-content" id="blog1-content">
-  <h2>What happens to your brain as you age?</h2>
-  <img src="https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/1030_neuron_explainer_feat.jpg"
-       alt="Brain illustration"
-       style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
-  
-  <p>
-    <strong>Did you know?</strong> The human brain contains over 100 billion neurons, which create trillions of synapses-complex connections that allow us to think, remember, and feel. These neurons communicate at incredible speeds, with signals traveling up to 250 miles per hour. Despite making up only about 2% of our body weight, the brain consumes about 20-25% of our blood and energy, and when awake, can generate enough electricity to power a small light bulb. The cerebrum, responsible for memory, movement, and reasoning, makes up 85% of the brain’s weight and is divided into two hemispheres, each specializing in different functions. Remarkably, the brain’s memory capacity is considered virtually unlimited-estimated to rival the storage needed for the entire internet. Every time you form a new memory or thought, your brain creates a new connection, making it an ever-changing and dynamic “neuron forest.”
-  </p>
+  <div class="blog-justify">
+    <h2>What happens to your brain as you age?</h2>
+    <img src="https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/1030_neuron_explainer_feat.jpg"
+         alt="Brain illustration"
+         style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
+    
+    <p>
+      <strong>Did you know?</strong> The human brain contains over 100 billion neurons, which create trillions of synapses-complex connections that allow us to think, remember, and feel. These neurons communicate at incredible speeds, with signals traveling up to 250 miles per hour. Despite making up only about 2% of our body weight, the brain consumes about 20-25% of our blood and energy, and when awake, can generate enough electricity to power a small light bulb. The cerebrum, responsible for memory, movement, and reasoning, makes up 85% of the brain’s weight and is divided into two hemispheres, each specializing in different functions. Remarkably, the brain’s memory capacity is considered virtually unlimited-estimated to rival the storage needed for the entire internet. Every time you form a new memory or thought, your brain creates a new connection, making it an ever-changing and dynamic “neuron forest.”
+    </p>
 
-  <div style="margin-bottom:20px;">
-    <!-- YouTube thumbnail, clickable to open video -->
-    <a href="https://www.youtube.com/watch?v=cMim0uU1yzA" target="_blank" rel="noopener">
-      <img src="https://img.youtube.com/vi/cMim0uU1yzA/hqdefault.jpg" 
-           alt="YouTube Video Thumbnail" 
-           title="Watch the video"
-           style="max-width:300px;width:100%;height:auto;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.07);">
-    </a>
-    <div style="margin-top:8px;">
-      Source: The Economist<br>
+    <div style="margin-bottom:20px;">
+      <!-- YouTube thumbnail, clickable to open video -->
       <a href="https://www.youtube.com/watch?v=cMim0uU1yzA" target="_blank" rel="noopener">
-        https://www.youtube.com/watch?v=cMim0uU1yzA 
+        <img src="https://img.youtube.com/vi/cMim0uU1yzA/hqdefault.jpg" 
+             alt="YouTube Video Thumbnail" 
+             title="Watch the video"
+             style="max-width:300px;width:100%;height:auto;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.07);">
       </a>
+      <div style="margin-top:8px;">
+        Source: The Economist<br>
+        <a href="https://www.youtube.com/watch?v=cMim0uU1yzA" target="_blank" rel="noopener">
+          https://www.youtube.com/watch?v=cMim0uU1yzA 
+        </a>
+      </div>
     </div>
-  </div>
-</div>
 
-  <h3>Key points:"</h3>
-  <p>
-    The video traces the development and transformation of the human brain from before birth through old age and even after death, highlighting key stages and scientific insights at each phase.
-  </p>
-  <h4>In the Womb</h4>
-  <ul>
-    <li>The brain begins forming about two weeks after conception, starting as a neural plate that folds into a tube, creating the nervous system.</li>
-    <li>Rapid neuron production occurs, with a newborn's brain containing around 100 billion neurons-more than an adult's. These excess neurons are later pruned before adulthood.</li>
-  </ul>
-  <h4>Childhood</h4>
-  <ul>
-    <li>Initially, babies have few synapses (connections between neurons), but these increase dramatically in early years, reaching about 15,000 per neuron.</li>
-    <li>Myelination (insulation of neurons with a fatty substance called myelin) allows faster information transmission and more complex processes.</li>
-    <li>The brain undergoes "synaptic pruning," removing unused connections to improve efficiency-a process known as neuroplasticity.</li>
-    <li>This stage is critical for learning, and early experiences can have lasting effects on development.</li>
-  </ul>
-  <h4>Teenage Years</h4>
-  <ul>
-    <li>The brain stops growing but continues to develop, especially in terms of myelination.</li>
-    <li>Different brain regions mature at different rates: areas linked to reward develop faster than those responsible for self-control and rationality.</li>
-    <li>The limbic system (emotions) changes significantly, explaining mood swings and risk-taking behaviors in teens.</li>
-    <li>The gap between emotional and rational brain development may contribute to increased risk-taking and susceptibility to addiction.</li>
-  </ul>
-  <h4>Early Adulthood</h4>
-  <ul>
-    <li>Brain tissue in the prefrontal cortex (decision-making, self-control) increases, improving connections between emotional and motor centers.</li>
-    <li>Full brain development is typically reached by the 30s, with white matter peaking around age 40.</li>
-  </ul>
-  <h4>Middle Age</h4>
-  <ul>
-    <li>Neuroplasticity continues, allowing the brain to adapt and compensate for aging.</li>
-    <li>Older adults often use both brain hemispheres for tasks like short-term memory, rather than just one side.</li>
-    <li>The amygdala (emotion processing) responds less to negative stimuli, possibly making older adults more resilient to stress.</li>
-    <li>Experience helps activate neural pathways for handling difficult situations.</li>
-    <li>Menopause brings hormonal changes that affect brain energy and connectivity, with some regions becoming more efficient despite a decrease in white matter volume.</li>
-  </ul>
-  <h4>Later Life</h4>
-  <ul>
-    <li>The cerebral cortex (outer brain layer) thins, especially in areas important for memory and emotions (frontal lobe, hippocampus).</li>
-    <li>White matter shrinks, and levels of neurotransmitters like dopamine and serotonin decrease, slowing cognitive processing.</li>
-    <li>The rate of brain aging is influenced by genetics, with noticeable slowing typically starting in the 30s and 40s and accelerating in the 60s and 70s.</li>
-  </ul>
-  <h4>Death</h4>
-  <ul>
-    <li>Recent studies show that brain activity may persist for several minutes after the heart stops.</li>
-    <li>A surge in certain brain waves just before death may explain reports of life "flashing before your eyes" during near-death experiences.</li>
-  </ul>
-  <h4>Conclusion</h4>
-  <ul>
-    <li>The brain is a dynamic, ever-changing organ, adapting throughout life via neuroplasticity, influenced by genetics, experience, and environment.</li>
-    <li>Even in old age, the brain can find ways to compensate for decline, and its activity can continue briefly after clinical death.</li>
-  </ul>
+    <h3>Key points:</h3>
+    <p>
+      The video traces the development and transformation of the human brain from before birth through old age and even after death, highlighting key stages and scientific insights at each phase.
+    </p>
+    <h4>In the Womb</h4>
+    <ul>
+      <li>The brain begins forming about two weeks after conception, starting as a neural plate that folds into a tube, creating the nervous system.</li>
+      <li>Rapid neuron production occurs, with a newborn's brain containing around 100 billion neurons-more than an adult's. These excess neurons are later pruned before adulthood.</li>
+    </ul>
+    <h4>Childhood</h4>
+    <ul>
+      <li>Initially, babies have few synapses (connections between neurons), but these increase dramatically in early years, reaching about 15,000 per neuron.</li>
+      <li>Myelination (insulation of neurons with a fatty substance called myelin) allows faster information transmission and more complex processes.</li>
+      <li>The brain undergoes "synaptic pruning," removing unused connections to improve efficiency-a process known as neuroplasticity.</li>
+      <li>This stage is critical for learning, and early experiences can have lasting effects on development.</li>
+    </ul>
+    <h4>Teenage Years</h4>
+    <ul>
+      <li>The brain stops growing but continues to develop, especially in terms of myelination.</li>
+      <li>Different brain regions mature at different rates: areas linked to reward develop faster than those responsible for self-control and rationality.</li>
+      <li>The limbic system (emotions) changes significantly, explaining mood swings and risk-taking behaviors in teens.</li>
+      <li>The gap between emotional and rational brain development may contribute to increased risk-taking and susceptibility to addiction.</li>
+    </ul>
+    <h4>Early Adulthood</h4>
+    <ul>
+      <li>Brain tissue in the prefrontal cortex (decision-making, self-control) increases, improving connections between emotional and motor centers.</li>
+      <li>Full brain development is typically reached by the 30s, with white matter peaking around age 40.</li>
+    </ul>
+    <h4>Middle Age</h4>
+    <ul>
+      <li>Neuroplasticity continues, allowing the brain to adapt and compensate for aging.</li>
+      <li>Older adults often use both brain hemispheres for tasks like short-term memory, rather than just one side.</li>
+      <li>The amygdala (emotion processing) responds less to negative stimuli, possibly making older adults more resilient to stress.</li>
+      <li>Experience helps activate neural pathways for handling difficult situations.</li>
+      <li>Menopause brings hormonal changes that affect brain energy and connectivity, with some regions becoming more efficient despite a decrease in white matter volume.</li>
+    </ul>
+    <h4>Later Life</h4>
+    <ul>
+      <li>The cerebral cortex (outer brain layer) thins, especially in areas important for memory and emotions (frontal lobe, hippocampus).</li>
+      <li>White matter shrinks, and levels of neurotransmitters like dopamine and serotonin decrease, slowing cognitive processing.</li>
+      <li>The rate of brain aging is influenced by genetics, with noticeable slowing typically starting in the 30s and 40s and accelerating in the 60s and 70s.</li>
+    </ul>
+    <h4>Death</h4>
+    <ul>
+      <li>Recent studies show that brain activity may persist for several minutes after the heart stops.</li>
+      <li>A surge in certain brain waves just before death may explain reports of life "flashing before your eyes" during near-death experiences.</li>
+    </ul>
+    <h4>Conclusion</h4>
+    <ul>
+      <li>The brain is a dynamic, ever-changing organ, adapting throughout life via neuroplasticity, influenced by genetics, experience, and environment.</li>
+      <li>Even in old age, the brain can find ways to compensate for decline, and its activity can continue briefly after clinical death.</li>
+    </ul>
+  </div>
 </div>
 
 <script>
@@ -684,6 +691,7 @@ document.getElementById('blog1-toggle').onclick = function() {
   document.getElementById('blog1-content').classList.toggle('open');
 };
 </script>
+
 
 ---
 
