@@ -291,7 +291,7 @@ and bash scripts-based pipeline
 <div class="Professional Experience-section">
         <div class="Professional Experience-title">2024 to date</div>
         <div class="degree"><b>Expert Immunology Data Science</b></div>
-        <div class="institution">IMM Data Science Department, Novartis, Basel, Switzerland</div>
+        <div class="institution">IMM Data Science Department, Novartis, Switzerland</div>
 
   <br>
   
