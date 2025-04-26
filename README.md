@@ -594,14 +594,21 @@ for (var i = 0; i < collapseElements.length; i++) {
 </style>
 
 <div class="collapse" id="blog1-toggle">
-  <span class="arrow">&#9658;</span> <b>Blog 1 : Fascinating world of human Brain </b> (click to read more)
+  <span class="arrow">&#9658;</span> <b>Blog 1 : Fascinating world of human Brain </b>  (click to read more)
 </div>
 
 <div class="collapse-content" id="blog1-content">
   <h2>What happens to your brain as you age?</h2>
   <!-- Replace the src below with your own image URL -->
-  <img src="[https://github.com/sumanta-barman/sumanta-barman.github.io/blob/main/1030_neuron_explainer_feat.jpg]" 
-       alt="Brain illustration" style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
+
+  <img src="https://github.com/sumanta-barman/sumanta-barman.github.io/blob/main/1030_neuron_explainer_feat.jpg">
+         alt="Brain illustration">
+    <!-- YouTube thumbnail, clickable to open video -->
+    <a href="https://www.youtube.com/watch?v=cMim0uU1yzA" target="_blank" rel="noopener">
+      <img src="https://img.youtube.com/vi/cMim0uU1yzA/hqdefault.jpg" 
+           alt="YouTube Video Thumbnail" 
+           title="Watch the video">
+    </a>
   <div>
     Original video link: 
     <a href="https://www.youtube.com/watch?v=cMim0uU1yzA" target="_blank" rel="noopener">
