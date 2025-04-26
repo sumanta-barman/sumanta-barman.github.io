@@ -569,7 +569,25 @@ for (var i = 0; i < collapseElements.length; i++) {
 
 ## <b>Blog</b>
 
-<html lang="en">
+
+<style>
+.collapse {
+  cursor: pointer;
+}
+
+.collapse-content {
+  display: none;
+}
+</style>
+
+<div class="collapse">
+  <span>&#9658;</span> <b>Blog 1</b> (click to read more)
+</div>
+
+
+<div class="collapse-content">
+  <p><em>What happens to your brain as you age?</em></p>
+
 <head>
 <body>
   <div class="container">
