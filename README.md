@@ -606,12 +606,15 @@ for (var i = 0; i < collapseElements.length; i++) {
 <div class="collapse-content" id="blog1-content">
   <div class="blog-justify">
     <h2>What happens to your brain as you age?</h2>
+     <p>
+     Reading time: approximately 4 minutes
+     </p>
     <img src="https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/1030_neuron_explainer_feat.jpg"
          alt="Brain illustration"
          style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
     
     <p>
-      <strong>Did you know?</strong> The human brain contains over 100 billion neurons, which create trillions of synapses-complex connections that allow us to think, remember, and feel. These neurons communicate at incredible speeds, with signals traveling up to 250 miles per hour. Despite making up only about 2% of our body weight, the brain consumes about 20-25% of our blood and energy, and when awake, can generate enough electricity to power a small light bulb. The cerebrum, responsible for memory, movement, and reasoning, makes up 85% of the brain’s weight and is divided into two hemispheres, each specializing in different functions. Remarkably, the brain’s memory capacity is considered virtually unlimited-estimated to rival the storage needed for the entire internet. Every time you form a new memory or thought, your brain creates a new connection, making it an ever-changing and dynamic “neuron forest.”
+      <strong>Did you know?</strong> The human brain contains over 100 billion neurons, which create trillions of synapses-complex connections that allow us to think, remember, and feel. These neurons communicate at incredible speeds, with signals traveling up to 250 miles per hour. Despite making up only about 2% of our body weight, the brain consumes about 20-25% of our blood and energy, and when awake, can generate enough electricity to power a small light bulb. The cerebrum, responsible for memory, movement, and reasoning, makes up 85% of the brain’s weight and is divided into two hemispheres, each specializing in different functions. Every time you form a new memory or thought, your brain creates a new connection, making it an ever-changing and dynamic “neuron forest.”
     </p>
 
     <div style="margin-bottom:20px;">
