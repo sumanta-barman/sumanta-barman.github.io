@@ -569,7 +569,6 @@ for (var i = 0; i < collapseElements.length; i++) {
 
 ## <b>Blog</b>
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
