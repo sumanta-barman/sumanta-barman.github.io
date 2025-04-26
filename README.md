@@ -569,8 +569,6 @@ for (var i = 0; i < collapseElements.length; i++) {
 
 ## <b>Blog</b>
 
-<h1><b>Blog</b></h1>
-
 <style>
 .collapse {
   cursor: pointer;
@@ -596,7 +594,7 @@ for (var i = 0; i < collapseElements.length; i++) {
 </style>
 
 <div class="collapse" id="blog1-toggle">
-  <span class="arrow">&#9658;</span> <b>Blog 1</b> (click to read more)
+  <span class="arrow">&#9658;</span> <b>Blog 1 : What happens to your brain as you age?</b> (click to read more)
 </div>
 
 <div class="collapse-content" id="blog1-content">
@@ -611,7 +609,7 @@ for (var i = 0; i < collapseElements.length; i++) {
     </a>
   </div>
   <p>
-    The human brain is a fascinating organ in our body. More than 100 billion neurons are present, which create trillions of synapses-complex connections that allow us to think, remember, and feel. These neurons communicate at incredible speeds, with signals traveling up to 250 miles per hour. Despite making up only about 2% of our body weight, the brain consumes about 20-25% of our blood and energy, and when awake, can generate enough electricity to power a small light bulb. The cerebrum, responsible for memory, movement, and reasoning, makes up 85% of the brain’s weight and is divided into two hemispheres, each specializing in different functions. Remarkably, the brain’s memory capacity is considered virtually unlimited-estimated to rival the storage needed for the entire internet. Every time you form a new memory or thought, your brain creates a new connection, making it an ever-changing and dynamic “neuron forest.
+    <strong>Did you know?</strong>The human brain contains over 100 billion neurons, which create trillions of synapses-complex connections that allow us to think, remember, and feel. These neurons communicate at incredible speeds, with signals traveling up to 250 miles per hour. Despite making up only about 2% of our body weight, the brain consumes about 20-25% of our blood and energy, and when awake, can generate enough electricity to power a small light bulb. The cerebrum, responsible for memory, movement, and reasoning, makes up 85% of the brain’s weight and is divided into two hemispheres, each specializing in different functions. Remarkably, the brain’s memory capacity is considered virtually unlimited-estimated to rival the storage needed for the entire internet. Every time you form a new memory or thought, your brain creates a new connection, making it an ever-changing and dynamic “neuron forest.
   </p>
   <h3>Summary of "What happens to your brain as you age"</h3>
   <p>
