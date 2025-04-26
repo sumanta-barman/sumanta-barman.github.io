@@ -293,9 +293,7 @@ and bash scripts-based pipeline
         <div class="degree"><b>Expert Immunology Data Science</b></div>
         <div class="institution">IMM Data Science Department, Novartis, Switzerland</div>
 
-  <br>
-  
-<div class="Professional Experience-section">
+<br>
         <div class="Professional Experience-title">2021 to 2024</div>
         <div class="degree"><b>Postdoctoral researcher</b></div>
         <div class="institution">Department of Neurology, University Hospital Düsseldorf, Germany</div>
