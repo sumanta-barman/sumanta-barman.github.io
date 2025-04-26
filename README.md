@@ -569,35 +569,112 @@ for (var i = 0; i < collapseElements.length; i++) {
 
 ## <b>Blog</b>
 
-
-<style>
-.collapse {
-  cursor: pointer;
-}
-
-.collapse-content {
-  display: none;
-}
-</style>
-
-<div class="collapse">
-  <span>&#9658;</span> <b>Blog 1</b> (click to read more)
-</div>
-
-
-<div class="collapse-content">
-  <p><em>What happens to your brain as you age?</em></p>
-</div>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Blog Section</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background: #f9f9f9;
+      color: #222;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 2.5em 2em;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+    }
+    .collapse {
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      font-size: 1.2em;
+      font-weight: bold;
+      margin-bottom: 10px;
+      user-select: none;
+    }
+    .collapse .arrow {
+      transition: transform 0.2s;
+      margin-right: 8px;
+      font-size: 1.3em;
+    }
+    .collapse.open .arrow {
+      transform: rotate(90deg);
+    }
+    .collapse-content {
+      display: none;
+      margin-top: 0;
+      padding-left: 0;
+      animation: fadeIn 0.3s;
+    }
+    .collapse-content.open {
+      display: block;
+      margin-top: 10px;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    img.blog-image {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 20px auto 30px auto;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    h1 {
+      font-size: 2em;
+      margin-bottom: 0.3em;
+    }
+    h2 {
+      margin-top: 2em;
+      margin-bottom: 0.7em;
+      font-size: 1.25em;
+      border-bottom: 1px solid #eee;
+      padding-bottom: 0.2em;
+    }
+    ul {
+      margin-left: 1.5em;
+    }
+    .section-space {
+      margin-top: 1.5em;
+      margin-bottom: 1.5em;
+    }
+    .bold {
+      font-weight: bold;
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
 <body>
   <div class="container">
-    <button type="button" class="collapsible">Blog</button>
-    <div class="content">
-      <h1><b>Blog 1</b></h1>
-      <br>
-      <div class="section-space">
-        <span class="bold">Blog 1: What happens to your brain as you age?</span>
-      </div>
+    <h1><b>Blog</b></h1>
+
+    <div class="collapse" id="blog1-toggle">
+      <span class="arrow">&#9658;</span> <b>Blog 1</b> (click to read more)
+    </div>
+    <div class="collapse-content" id="blog1-content">
+      <h2>What happens to your brain as you age?</h2>
+      <!-- Replace the src attribute below with your own image URL -->
+      <img class="blog-image" src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=800&q=80" alt="Brain illustration">
+      
       <div class="section-space">
         Original video link: 
         <a href="https://www.youtube.com/watch?v=cMim0uU1yzA" target="_blank" rel="noopener">
@@ -664,21 +741,15 @@ for (var i = 0; i < collapseElements.length; i++) {
     </div>
   </div>
   <script>
-    var coll = document.getElementsByClassName("collapsible");
-    for (var i = 0; i < coll.length; i++) {
-      coll[i].addEventListener("click", function() {
-        this.classList.toggle("active");
-        var content = this.nextElementSibling;
-        if (content.style.maxHeight) {
-          content.style.maxHeight = null;
-        } else {
-          content.style.maxHeight = content.scrollHeight + "px";
-        }
-      });
-    }
+    const toggle = document.getElementById('blog1-toggle');
+    const content = document.getElementById('blog1-content');
+    toggle.addEventListener('click', function() {
+      toggle.classList.toggle('open');
+      content.classList.toggle('open');
+    });
   </script>
 </body>
-
+</html>
 
 
 ---
