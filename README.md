@@ -569,6 +569,8 @@ for (var i = 0; i < collapseElements.length; i++) {
 
 ## <b>Blog</b>
 
+<h2><b>Blog</b></h2>
+
 <style>
 .collapse {
   cursor: pointer;
@@ -591,24 +593,25 @@ for (var i = 0; i < collapseElements.length; i++) {
 .collapse-content.open {
   display: block;
 }
-
-/* Justify all text inside the blog content */
 .blog-justify {
   text-align: justify;
   text-justify: inter-word;
 }
 </style>
 
+<!-- Anchor for direct linking -->
+<a id="blog1"></a>
 <div class="collapse" id="blog1-toggle">
-  <span class="arrow">&#9658;</span> <b>Blog 1 : Fascinating world of human Brain </b>  (click to read more)
+  <span class="arrow">&#9658;</span>
+  <b>Blog 1 : Fascinating world of human Brain</b> (click to read more)
+<p>
+  Reading time: approximately 4 minutes 
+</p>
 </div>
 
 <div class="collapse-content" id="blog1-content">
   <div class="blog-justify">
     <h2>What happens to your brain as you age?</h2>
-     <p>
-     Reading time: approximately 4 minutes
-     </p>
     <img src="https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/1030_neuron_explainer_feat.jpg"
          alt="Brain illustration"
          style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
@@ -688,9 +691,9 @@ for (var i = 0; i < collapseElements.length; i++) {
 
     <!-- Bangla summary starts here -->
     <hr style="margin:40px 0 30px 0;">
-    <h3 style="color:#1a237e;">বাংলা অনুবাদ </h3>
+    <h3 style="color:#1a237e;">বাংলা অনুবাদ</h3>
     <p>
-      আপনি কি জানেন? মানুষের মস্তিষ্কে ১০০ বিলিয়নেরও বেশি নিউরন রয়েছে, যা ট্রিলিয়ন সংখ্যক  সিন্যাপ্স (synapse) বা জটিল সংযোগ তৈরি করে-যার মাধ্যমে আমরা চিন্তা করি, স্মরণ করি ও অনুভব করি। এই নিউরনগুলো অবিশ্বাস্য গতিতে যোগাযোগ করে, যার সংকেত ঘণ্টায় ২৫০ মাইল পর্যন্ত যেতে পারে। শরীরের মোট ওজনের মাত্র ২% হলেও, মস্তিষ্ক আমাদের রক্ত ও শক্তির প্রায় ২০-২৫% ব্যবহার করে এবং জাগ্রত অবস্থায় একটি ছোট বৈদ্যুতিক বাতি জ্বালানোর মতো বিদ্যুৎ উৎপাদন করতে পারে। স্মৃতি, চলন ও যুক্তির জন্য দায়ী সেরিব্রাম মস্তিষ্কের ৮৫% ওজন নিয়ে গঠিত এবং এটি দুইটি হেমিস্ফিয়ারে বিভক্ত, যার প্রত্যেকটি বিভিন্ন কাজে বিশেষায়িত। আপনি যখনই নতুন কোনো স্মৃতি বা চিন্তা গঠন করেন, তখনই আপনার মস্তিষ্কে একটি নতুন সংযোগ তৈরি হয়, ফলে এটি সদা পরিবর্তনশীল ও গতিশীল এক ‘নিউরন বন’ হয়ে ওঠে।
+      আপনি কি জানেন? মানুষের মস্তিষ্কে ১০০ বিলিয়নেরও বেশি নিউরন রয়েছে, যা ট্রিলিয়ন সংখ্যক সিন্যাপ্স বা জটিল সংযোগ তৈরি করে-যার মাধ্যমে আমরা চিন্তা করি, স্মরণ করি ও অনুভব করি। এই নিউরনগুলো অবিশ্বাস্য গতিতে যোগাযোগ করে, যার সংকেত ঘণ্টায় ২৫০ মাইল পর্যন্ত যেতে পারে। শরীরের মোট ওজনের মাত্র ২% হলেও, মস্তিষ্ক আমাদের রক্ত ও শক্তির প্রায় ২০-২৫% ব্যবহার করে এবং জাগ্রত অবস্থায় একটি ছোট বৈদ্যুতিক বাতি জ্বালানোর মতো বিদ্যুৎ উৎপাদন করতে পারে। স্মৃতি, চলন ও যুক্তির জন্য দায়ী সেরিব্রাম মস্তিষ্কের ৮৫% ওজন নিয়ে গঠিত এবং এটি দুইটি হেমিস্ফিয়ারে বিভক্ত, যার প্রত্যেকটি বিভিন্ন কাজে বিশেষায়িত। আপনি যখনই নতুন কোনো স্মৃতি বা চিন্তা গঠন করেন, তখনই আপনার মস্তিষ্কে একটি নতুন সংযোগ তৈরি হয়, ফলে এটি সদা পরিবর্তনশীল ও গতিশীল এক ‘নিউরন বন’ হয়ে ওঠে।
     </p>
     <p>
       ভিডিওটি মানব মস্তিষ্কের গঠন ও পরিবর্তনের গল্প বলে, জন্মের আগের সময় থেকে শুরু করে বার্ধক্য এবং মৃত্যুর পর পর্যন্ত, প্রতিটি ধাপে বৈজ্ঞানিক তথ্য তুলে ধরে।
@@ -752,7 +755,16 @@ document.getElementById('blog1-toggle').onclick = function() {
   this.classList.toggle('open');
   document.getElementById('blog1-content').classList.toggle('open');
 };
+
+// Auto-expand if URL has #blog1
+if (window.location.hash === "#blog1") {
+  document.getElementById('blog1-toggle').classList.add('open');
+  document.getElementById('blog1-content').classList.add('open');
+  // Optionally scroll into view
+  document.getElementById('blog1-toggle').scrollIntoView();
+}
 </script>
+
 
 ---
 
