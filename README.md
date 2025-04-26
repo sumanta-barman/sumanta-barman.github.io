@@ -602,7 +602,6 @@ for (var i = 0; i < collapseElements.length; i++) {
   <!-- Replace the src below with your own image URL -->
 
   <img src="https://github.com/sumanta-barman/sumanta-barman.github.io/blob/main/1030_neuron_explainer_feat.jpg">
-         alt="Brain illustration">
     <!-- YouTube thumbnail, clickable to open video -->
     <a href="https://www.youtube.com/watch?v=cMim0uU1yzA" target="_blank" rel="noopener">
       <img src="https://img.youtube.com/vi/cMim0uU1yzA/hqdefault.jpg" 
