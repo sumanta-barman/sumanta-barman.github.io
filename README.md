@@ -565,8 +565,7 @@ for (var i = 0; i < collapseElements.length; i++) {
 
 
 ---
-
-<h2><b>Blog</b></h2>
+## <b>Blog</b>
 
 <style>
 .collapse {
