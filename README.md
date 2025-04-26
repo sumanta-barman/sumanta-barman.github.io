@@ -566,9 +566,6 @@ for (var i = 0; i < collapseElements.length; i++) {
 
 ---
 
-
-## <b>Blog</b>
-
 <h2><b>Blog</b></h2>
 
 <style>
@@ -604,14 +601,13 @@ for (var i = 0; i < collapseElements.length; i++) {
 <div class="collapse" id="blog1-toggle">
   <span class="arrow">&#9658;</span>
   <b>Blog 1 : Fascinating world of human Brain</b> (click to read more)
-<p>
-  Reading time: approximately 4 minutes 
-</p>
 </div>
 
 <div class="collapse-content" id="blog1-content">
   <div class="blog-justify">
     <h2>What happens to your brain as you age?</h2>
+    <p> Reading time: approximately 4 minutes 
+    </p>
     <img src="https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/1030_neuron_explainer_feat.jpg"
          alt="Brain illustration"
          style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
