@@ -99,7 +99,7 @@ margin-right: 10px;
     <a href="#awards-and-grants">Awards and Grants</a>
     <a href="#interests">Interests</a>
     <div style="display: flex;">
-      <h2 id="blog">Blog</h2>
+      <a href="#blog">Blog</a>
       <a href="#contact-me">Contact Me</a>
     </div>
   </nav>
@@ -565,7 +565,7 @@ for (var i = 0; i < collapseElements.length; i++) {
 
 
 ---
-<h2><b>Blog</b></h2>
+## <b>Blog</b>
 
 <style>
 .collapse {
