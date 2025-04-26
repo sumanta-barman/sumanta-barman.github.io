@@ -603,20 +603,22 @@ for (var i = 0; i < collapseElements.length; i++) {
 
   <img src="https://github.com/sumanta-barman/sumanta-barman.github.io/blob/main/1030_neuron_explainer_feat.jpg">
     <!-- YouTube thumbnail, clickable to open video -->
-    <a href="https://www.youtube.com/watch?v=cMim0uU1yzA" target="_blank" rel="noopener">
-      <img src="https://img.youtube.com/vi/cMim0uU1yzA/hqdefault.jpg" 
-           alt="YouTube Video Thumbnail" 
-           title="Watch the video">
-    </a>
+  
+  <p>
+    <strong>Did you know?</strong> The human brain contains over 100 billion neurons, which create trillions of synapses-complex connections that allow us to think, remember, and feel. These neurons communicate at incredible speeds, with signals traveling up to 250 miles per hour. Despite making up only about 2% of our body weight, the brain consumes about 20-25% of our blood and energy, and when awake, can generate enough electricity to power a small light bulb. The cerebrum, responsible for memory, movement, and reasoning, makes up 85% of the brain’s weight and is divided into two hemispheres, each specializing in different functions. Remarkably, the brain’s memory capacity is considered virtually unlimited-estimated to rival the storage needed for the entire internet. Every time you form a new memory or thought, your brain creates a new connection, making it an ever-changing and dynamic “neuron forest.
+  </p>
+
   <div>
     Original video link: 
     <a href="https://www.youtube.com/watch?v=cMim0uU1yzA" target="_blank" rel="noopener">
       https://www.youtube.com/watch?v=cMim0uU1yzA (The Economist)
     </a>
+    <a href="https://www.youtube.com/watch?v=cMim0uU1yzA" target="_blank" rel="noopener">
+      <img src="https://img.youtube.com/vi/cMim0uU1yzA/hqdefault.jpg" 
+           alt="YouTube Video Thumbnail" 
+           title="Watch the video">
+    </a>
   </div>
-  <p>
-    <strong>Did you know?</strong> The human brain contains over 100 billion neurons, which create trillions of synapses-complex connections that allow us to think, remember, and feel. These neurons communicate at incredible speeds, with signals traveling up to 250 miles per hour. Despite making up only about 2% of our body weight, the brain consumes about 20-25% of our blood and energy, and when awake, can generate enough electricity to power a small light bulb. The cerebrum, responsible for memory, movement, and reasoning, makes up 85% of the brain’s weight and is divided into two hemispheres, each specializing in different functions. Remarkably, the brain’s memory capacity is considered virtually unlimited-estimated to rival the storage needed for the entire internet. Every time you form a new memory or thought, your brain creates a new connection, making it an ever-changing and dynamic “neuron forest.
-  </p>
   <h3>Key points:"</h3>
   <p>
     The video traces the development and transformation of the human brain from before birth through old age and even after death, highlighting key stages and scientific insights at each phase.
