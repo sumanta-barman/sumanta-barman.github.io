@@ -99,7 +99,7 @@ margin-right: 10px;
     <a href="#awards-and-grants">Awards and Grants</a>
     <a href="#interests">Interests</a>
     <div style="display: flex;">
-      <h2 id="#blog">Blog</h2>
+      <h2 id="blog">Blog</h2>
       <a href="#contact-me">Contact Me</a>
     </div>
   </nav>
