@@ -294,13 +294,13 @@ and bash scripts-based pipeline
         <div class="institution">IMM Data Science Department, Novartis, Switzerland</div>
 
 <br>
-        <div class="Professional Experience-title">2021 to 2024</div>
+        <div class="Professional Experience-title">2021 - 2024</div>
         <div class="degree"><b>Postdoctoral researcher</b></div>
         <div class="institution">Department of Neurology, University Hospital Düsseldorf, Germany</div>
 
 <br>
 
-  <div class="Professional Experience-title">2016 – 2021</div>
+  <div class="Professional Experience-title">2016 - 2021</div>
   <div class="degree"><b>Doctoral researcher</b></div>
   <div class="institution">Department of Neurology, University Hospital Düsseldorf, Germany</div>
  
