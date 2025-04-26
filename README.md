@@ -587,8 +587,8 @@ for (var i = 0; i < collapseElements.length; i++) {
 
 <div class="collapse-content">
   <p><em>What happens to your brain as you age?</em></p>
+</div>
 
-<head>
 <body>
   <div class="container">
     <button type="button" class="collapsible">Blog</button>
@@ -678,7 +678,7 @@ for (var i = 0; i < collapseElements.length; i++) {
     }
   </script>
 </body>
-</html>
+
 
 
 ---
