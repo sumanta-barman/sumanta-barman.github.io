@@ -6,7 +6,7 @@
 
   <!-- Middle section: Additional text -->
   <div>
-    <p><b>Expert Immunology Data Science<br>IMM Data Science Department<br>Novartis Pharma<br>Basel, Switzerland</b></p>
+    <p><b>Expert Immunology Data Science,<br>IMM Data Science Department,<br>Novartis Pharma,<br>Basel, Switzerland</b></p>
   </div>
 
   <!-- Right side: Logos for LinkedIn, Google Scholar, GitHub -->
