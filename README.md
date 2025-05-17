@@ -776,7 +776,7 @@ if (window.location.hash === "#blog1") {
   <div class="blog-justify">
     <h2>How Stress Weakens Skin Immunity: New Insights into the Brain-Skin Connection</h2>
     <p>Reading time: approximately 5 minutes (To read in Bangla, please scroll down)</p>
-    <img src="https://raw.githubusercontent.com/yourusername/your-repo/main/stress-skin-image.jpg" 
+    <img src="https://raw.githubusercontent.com/yourusername/your-repo/main/stress-skin-image.jpg](https://github.com/sumanta-barman/sumanta-barman.github.io/blob/main/Stress-Sickness-1322687018-770x533-1_jpg.webp" 
          alt="Stress affecting skin cells illustration"
          style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
 
