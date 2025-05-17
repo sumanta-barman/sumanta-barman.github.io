@@ -175,7 +175,7 @@ margin-right: 10px;
 ## <b>About Me</b>
 
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="computational_immunology.jpeg" alt="aboutme image" style="max-width: 100%; height: auto; margin-right: 10px;">
+    <img src="computational_immunology.jpeg" alt="aboutme image" style="max-width: 50%; height: auto; margin-right: 10px;">
   </div>
 
 
