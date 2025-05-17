@@ -774,8 +774,8 @@ if (window.location.hash === "#blog1") {
 
 <div class="collapse-content" id="blog2-content">
   <div class="blog-justify">
-    <h2>How Stress Weakens Skin Immunity: New Insights into the Brain-Skin Connection</h2>
-    <p>Reading time: approximately 5 minutes (To read in Bangla, please scroll down)</p>
+    <h2>How Stress Weakens Skin Immunity?</h2>
+    <p>Reading time: approximately 4 minutes (To read in Bangla, please scroll down)</p>
     <img src="https://github.com/sumanta-barman/sumanta-barman.github.io/blob/main/Mental-Illness.png" 
          alt="Stress affecting skin cells illustration"
          style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
