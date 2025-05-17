@@ -776,7 +776,7 @@ if (window.location.hash === "#blog1") {
   <div class="blog-justify">
     <h2>How Stress Weakens Skin Immunity?</h2>
     <p>Reading time: approximately 4 minutes (To read in Bangla, please scroll down)</p>
-    <img src="https://github.com/sumanta-barman/sumanta-barman.github.io/blob/main/Mental-Illness.png" 
+    <img src="https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/1030_neuron_explainer_feat.jpg" 
          alt="Stress affecting skin cells illustration"
          style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
 
