@@ -555,7 +555,7 @@ for (var i = 0; i < collapseElements.length; i++) {
 ## <b>Interests</b>
 
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="interests.jpg" alt="hobbies image" style="max-width: 50%; height: auto; margin-right: 10px;">
+    <img src="interests.jpg" alt="hobbies image" style="max-width: 40%; height: auto; margin-right: 10px;">
   </div>
    <br> 
   
