@@ -604,7 +604,8 @@ for (var i = 0; i < collapseElements.length; i++) {
 <a id="blog1"></a>
 <div class="collapse" id="blog1-toggle">
   <span class="arrow">&#9658;</span>
-  <b>Blog 1 : Fascinating world of human Brain</b> (click to read more)
+  <b>Blog 1 : Fascinating world of human Brain</b>&nbsp;&nbsp;&nbsp;(click to read more)
+  
 </div>
 
 <div class="collapse-content" id="blog1-content">
@@ -769,7 +770,7 @@ if (window.location.hash === "#blog1") {
 <a id="blog2"></a>
 <div class="collapse" id="blog2-toggle">
   <span class="arrow">&#9658;</span>
-  <b>Blog 2: Stress and Skin Immunity </b> (click to read more)
+  <b>Blog 2: Stress and Skin Immunity </b>&nbsp;&nbsp;&nbsp;(click to read more)
 </div>
 
 <div class="collapse-content" id="blog2-content">
