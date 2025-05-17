@@ -555,7 +555,7 @@ for (var i = 0; i < collapseElements.length; i++) {
 ## <b>Interests</b>
 
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="interests.jpg" alt="hobbies image" style="max-width: 25%; height: auto; margin-right: 10px;">
+    <img src="interests.jpg" alt="hobbies image" style="max-width: 50%; height: auto; margin-right: 10px;">
   </div>
    <br> 
   
@@ -776,7 +776,7 @@ if (window.location.hash === "#blog1") {
   <div class="blog-justify">
     <h2>How Stress Weakens Skin Immunity?</h2>
     <p>Reading time: approximately 4 minutes (To read in Bangla, please scroll down)</p>
-    <img src="https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/blob/main/Mental-Illness.png" 
+    <img src="Mental-Illness.png" 
          alt="Stress affecting skin cells illustration"
          style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
 
