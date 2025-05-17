@@ -175,7 +175,7 @@ margin-right: 10px;
 ## <b>About Me</b>
 
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="computational_immunology.jpeg" alt="aboutme image" style="max-width: 30%; height: auto; margin-right: 10px;">
+    <img src="computational_immunology.jpeg" alt="aboutme image" style="max-width: 100%; height: auto; margin-right: 10px;">
   </div>
 
 
@@ -264,8 +264,8 @@ and bash scripts-based pipeline
 </head>
 <body>
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="r-python.png" alt="Bioinformatics Image" style="max-width: 15%; height: auto; margin-right: 10px;">
-    <img src="Seurat_scvi.png" alt="Another Image" style="max-width: 15%; height: auto;">
+    <img src="r-python.png" alt="Bioinformatics Image" style="max-width: 25%; height: auto; margin-right: 10px;">
+    <img src="Seurat_scvi.png" alt="Another Image" style="max-width: 25%; height: auto;">
   </div>
   <br>
   <strong>Programming and Scripting Languages:</strong> Python and R (advance), HTML (beginner)<br>
