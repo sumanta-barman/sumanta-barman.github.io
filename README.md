@@ -125,9 +125,12 @@ margin-right: 10px;
 }
 </style>
 
-<div class="collapse">
-  <span>&#9658;</span> <b> May 22, 2025: We’re excited to announce our manuscript is now on pre-print <a href="https://www.biorxiv.org/content/10.1101/2025.05.18.654720v1" target="_blank"> </b>
-</div>
+<div class="collapse-content">
+  <div style="text-align: justify;">
+    <ul>
+        <b>May 22, 2025:</b> We’re excited to announce our manuscript is now on pre-print <a href="https://www.biorxiv.org/content/10.1101/2025.05.18.654720v1" target="_blank"></b>
+      </ul>
+  </div>
 
 
 <div class="collapse">
