@@ -125,13 +125,11 @@ margin-right: 10px;
 }
 </style>
 
-<div class="collapse-content">
-  <div style="text-align: justify;">
+<div class="collapse">
     <ul>
         <b>May 22, 2025:</b> We’re excited to announce our manuscript is now on pre-print <a href="https://www.biorxiv.org/content/10.1101/2025.05.18.654720v1" target="_blank"></b>
       </ul>
   </div>
-</div>
 
 <div class="collapse">
   <span>&#9658;</span> <b> Novermber 4, 2024: I have started a position as Expert Immunology Data Science at Novartis, Switzerland</b>
