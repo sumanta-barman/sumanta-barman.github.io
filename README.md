@@ -909,7 +909,7 @@ if (window.location.hash === "#blog2") {
   <div class="blog-justify">
     <h2>Unlocking Disease Diagnostics with Machine Learning and Immune Receptor Sequencing</h2>
     <p>Reading time: approximately 5 minutes (To read in Bangla, please scroll down)</p>
-    <img src="immune-receptor-ml.png" 
+    <img src="Blog3.png" 
          alt="Machine learning analyzing immune cell receptors"
          style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
 
