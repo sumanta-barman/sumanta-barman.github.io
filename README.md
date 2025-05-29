@@ -926,6 +926,11 @@ if (window.location.hash === "#blog2") {
       During training, Mal-ID evaluated six different representations of BCR and TCR sequence features. By combining these features in a single model, the team was able to predict disease status with remarkable accuracy. The system could distinguish not only between healthy controls and those with autoimmune diseases or viral infections but also identify individuals who had recently received an influenza vaccine.
     </p>
 
+    <img src="Science_blog3.png" 
+         alt="Machine learning analyzing immune cell receptors"
+         style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
+         
+
     <h3>Why This Matters</h3>
     <p>
       The ability to interpret immune receptor sequences has broad potential for both scientific research and clinical medicine. For example, Mal-ID highlighted distinct characteristics of autoreactivity in systemic lupus erythematosus and type 1 diabetes, as well as antigen-specific receptors for viruses like SARS-CoV-2 and HIV. This means that, in the future, doctors might use Mal-ID or similar tools to diagnose diseases earlier, monitor immune responses to treatment, or even predict risk before symptoms appear.
