@@ -16,7 +16,7 @@
       <li style="margin-bottom: 8px;"><a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/" style="margin-left: 300px;"><img src="linkedIn_logo.png" alt="LinkedIn" width="30"></a></li>
       <li style="margin-bottom: 8px;"><a href="https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en" style="margin-left: 300px;"><img src="google_scholar_logo.png" alt="Google Scholar" width="30"></a></li>
       <li style="margin-bottom: 8px;"><a href="https://github.com/sumanta-barman" style="margin-left: 300px;"><img src="github-logo.png" alt="GitHub" width="30"></a></li>
-      <li style="margin-bottom: 8px;"><a href="https://x.com/SumantaBarman" style="margin-left: 300px;"><img src="Xlogo.webp" alt="X" width="30"></a></li>
+      <li style="margin-bottom: 8px;"><a href="https://x.com/SumantaBarman" style="margin-left: 300px;"><img src="Xlogo.jpg" alt="X" width="30"></a></li>
       
     </ul>
   </div>
@@ -1030,7 +1030,7 @@ if (window.location.hash === "#blog3") {
 <a href="https://www.linkedin.com/in/dr-sumanta-barman-327954143/"><img src="linkedIn_logo.png" alt="LinkedIn" width="30"></a>
 <a href="https://scholar.google.com/citations?user=GUAu_j0AAAAJ&hl=en"><img src="google_scholar_logo.png" alt="Google Scholar" width="30"></a>
 <a href="https://github.com/sumanta-barman"><img src="github-logo.png" alt="GitHub" width="30"></a>
-<a href="https://x.com/SumantaBarman"><img src="Xlogo.webp" alt="X" width="30"></a>
+<a href="https://x.com/SumantaBarman"><img src="Xlogo.jpg" alt="X" width="30"></a>
 
 ---
 
