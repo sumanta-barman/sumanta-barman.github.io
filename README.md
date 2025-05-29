@@ -919,7 +919,7 @@ if (window.location.hash === "#blog2") {
     </p>
 
     <h3>How Mal-ID Works</h3>
-    <img src="Science_blog3.png" 
+    <img src="Science_blog3.jpg" 
      alt="Machine learning analyzing immune cell receptors"
      style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
     <p>
