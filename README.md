@@ -907,7 +907,7 @@ if (window.location.hash === "#blog2") {
 
 <div class="collapse-content" id="blog3-content">
   <div class="blog-justify">
-    <h2>Unlocking Disease Diagnostics with Machine Learning and Immune Receptor Sequencing</h2>
+    <h2>Unlocking Disease Diagnostics with Machine Learning and Immune Repertoire Sequencing</h2>
     <p>Reading time: approximately 4 minutes (To read in Bangla, please scroll down)</p>
     <img src="Blog3.png" 
          alt="Machine learning analyzing immune cell receptors"
