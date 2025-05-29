@@ -898,7 +898,6 @@ if (window.location.hash === "#blog2") {
 }
 </script>
 
-
 <!-- Anchor for direct linking -->
 <a id="blog3"></a>
 <div class="collapse" id="blog3-toggle">
@@ -908,63 +907,47 @@ if (window.location.hash === "#blog2") {
 
 <div class="collapse-content" id="blog3-content">
   <div class="blog-justify">
-    <h2>Mal-ID: The Immune System's Digital Translator</h2>
+    <h2>Unlocking Disease Diagnostics with Machine Learning and Immune Receptor Sequencing</h2>
     <p>Reading time: approximately 5 minutes (To read in Bangla, please scroll down)</p>
-    <img src="Immune-Receptor-ML.png" 
+    <img src="immune-receptor-ml.png" 
          alt="Machine learning analyzing immune cell receptors"
          style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
 
-    <h3>Key Discoveries</h3>
-    <ul>
-      <li><strong>One Blood Test, Multiple Diagnoses:</strong> Mal-ID analyzes B/T cell receptor sequences to simultaneously detect COVID-19, HIV, lupus, type 1 diabetes, and vaccine responses with 98.6% accuracy (AUROC 0.986)[4][7].</li>
-      <li><strong>Immune Memory Decoder:</strong> Processes >1 million receptor sequences per sample, identifying disease-specific patterns in the variable CDR3 regions[5][8].</li>
-      <li><strong>Beyond Current Diagnostics:</strong> Reveals hidden connections between autoimmune conditions through shared receptor features[1][3].</li>
-      <li><strong>Real-World Validation:</strong> Tested on 593 individuals across 6 medical centers, maintaining accuracy in pediatric/adult comparisons[2][4].</li>
-    </ul>
+    <h3>A New Era in Immunological Diagnosis</h3>
+    <p>
+      Imagine a future where a simple blood test could not only detect whether you are healthy or sick but could also distinguish between different diseases—autoimmune conditions like lupus and type 1 diabetes, viral infections such as HIV and SARS-CoV-2, or even recent vaccinations like the flu shot. This vision is now closer to reality thanks to a groundbreaking machine learning framework called Mal-ID, developed by researchers at leading institutions and recently published in <em>Science</em>.
+    </p>
 
-    <h3>How It Works</h3>
-    <ol>
-      <li>Blood draw → isolate B/T cells → sequence receptor genes (BCR heavy chain, TCR beta chain)</li>
-      <li>Machine learning analyzes six feature representations:
-        <ul>
-          <li>Clone frequency distributions</li>
-          <li>Shared receptor sequences across patients</li>
-          <li>3D structural predictions</li>
-        </ul>
-      </li>
-      <li>Model outputs disease probability scores and interpretable biological insights[1][6]</li>
-    </ol>
+    <h3>How Mal-ID Works</h3>
+    <p>
+      Mal-ID uses advanced machine learning to analyze the sequences of B cell and T cell receptors (BCRs and TCRs) found in human blood. These receptors are the immune system’s “memory,” shaped by past encounters with pathogens, vaccines, and even the body’s own cells in autoimmune diseases. The researchers trained Mal-ID to recognize patterns in these sequences, comparing them between healthy individuals and those with various illnesses.
+    </p>
+    <p>
+      During training, Mal-ID evaluated six different representations of BCR and TCR sequence features. By combining these features in a single model, the team was able to predict disease status with remarkable accuracy. The system could distinguish not only between healthy controls and those with autoimmune diseases or viral infections but also identify individuals who had recently received an influenza vaccine.
+    </p>
 
-    <h3>Clinical Implications</h3>
-    <table>
-      <tr>
-        <th>Condition</th>
-        <th>Mal-ID Signature</th>
-        <th>Potential Impact</th>
-      </tr>
-      <tr>
-        <td>Type 1 Diabetes</td>
-        <td>Autoreactive TCR clusters targeting insulin peptides</td>
-        <td>Early detection before symptom onset</td>
-      </tr>
-      <tr>
-        <td>COVID-19</td>
-        <td>Convergent BCR evolution against spike protein</td>
-        <td>Severity prediction</td>
-      </tr>
-      <tr>
-        <td>Lupus</td>
-        <td>Cross-reactive BCRs binding dsDNA and viral antigens</td>
-        <td>Flare anticipation</td>
-      </tr>
-    </table>
+    <h3>Why This Matters</h3>
+    <p>
+      The ability to interpret immune receptor sequences has broad potential for both scientific research and clinical medicine. For example, Mal-ID highlighted distinct characteristics of autoreactivity in systemic lupus erythematosus and type 1 diabetes, as well as antigen-specific receptors for viruses like SARS-CoV-2 and HIV. This means that, in the future, doctors might use Mal-ID or similar tools to diagnose diseases earlier, monitor immune responses to treatment, or even predict risk before symptoms appear.
+    </p>
 
-    <h3>Challenges Ahead</h3>
-    <ul>
-      <li><strong>Confounding Factors:</strong> HLA diversity, prior infections, and sequencing depth affect signal interpretation[1][7]</li>
-      <li><strong>Technical Hurdles:</strong> Requires 10M reads/sample and specialized bioinformatics pipelines[5][8]</li>
-      <li><strong>Clinical Integration:</strong> Needs validation in diverse populations and cost reduction to <$200/test[6][8]</li>
-    </ul>
+    <h3>Challenges and Caveats</h3>
+    <p>
+      While the promise of Mal-ID is exciting, the authors and commentators urge caution. Machine learning models can sometimes learn differences between cases and controls that are unrelated to the disease of interest. Factors like the number of unique immune receptor clones (clone count), sample handling, sequencing depth, and even the geographic origin of samples can introduce confounding signals.
+    </p>
+    <p>
+      For instance, differences in HLA types (which vary globally) and prior exposures to common pathogens can shape the public T cell repertoire. This means that what appears to be a disease-specific signal might actually reflect other differences between groups. Additionally, clonal expansion of autoimmune-relevant T cells is generally lower than that seen in response to infectious pathogens, making diagnosis of autoimmune diseases from immune repertoires especially challenging.
+    </p>
+
+    <h3>The Road Ahead</h3>
+    <p>
+      Despite these challenges, immune repertoires hold a wealth of information. The key to robust disease diagnostics will be deep sampling, careful case-control matching, and validation in large, independent cohorts. As technology and machine learning methods continue to advance, tools like Mal-ID could revolutionize how we detect and monitor disease, offering a window into the immune system’s history and current state.
+    </p>
+
+    <h3>In Summary</h3>
+    <p>
+      Mal-ID represents a major step forward in using machine learning and immune receptor sequencing for disease diagnostics. While there are hurdles to overcome, the potential benefits for personalized medicine and early disease detection are enormous. The future of immunology is here—and it’s powered by data.
+    </p>
 
     <p style="margin-top: 30px;">
       <strong>Source:</strong> <a href="https://www.science.org/doi/10.1126/science.adp2407" target="_blank" rel="noopener">Zaslavsky et al., Science (2025)</a> | DOI: 10.1126/science.adp2407
@@ -973,64 +956,44 @@ if (window.location.hash === "#blog2") {
     <!-- Bangla translation -->
     <hr style="margin:40px 0 30px 0;">
     <h3 style="color:#1a237e;">বাংলা অনুবাদ</h3>
-    <h4>ম্যাল-আইডি: ইমিউন সিস্টেমের ডিজিটাল দোভাষী</h4>
+    <h4>মেশিন লার্নিং আর ইমিউন রিসেপ্টর সিকোয়েন্সিং দিয়ে রোগ নির্ণয়: নতুন যুগের সূচনা</h4>
     <p>
-      স্ট্যানফোর্ড গবেষকদের তৈরি মেশিন লার্নিং মডেল Mal-ID রক্তের B/T সেল রিসেপ্টর সিকোয়েন্স বিশ্লেষণ করে একসাথে কোভিড-১৯, এইচআইভি, লুপাস, টাইপ ১ ডায়াবেটিস ও ভ্যাকসিন প্রতিক্রিয়া শনাক্ত করতে পারে ৯৮.৬% নির্ভুলতায়[৪][৭]।
+      চিন্তা করুন এমন একটি ভবিষ্যৎ, যেখানে একটি সাধারণ রক্ত পরীক্ষা দিয়ে শুধু আপনার সুস্থ বা অসুস্থ অবস্থা জানা যাবে না, বরং বিভিন্ন ধরনের রোগ—যেমন অটোইমিউন রোগ লুপাস ও টাইপ ১ ডায়াবেটিস, ভাইরাসজনিত সংক্রমণ যেমন এইচআইভি ও সার্স-কোভ-২ অথবা সাম্প্রতিক ফ্লু ভ্যাকসিন—ও শনাক্ত করা যাবে। এই স্বপ্ন এখন বাস্তবের আরও কাছাকাছি এসেছে, সায়েন্স জার্নালে প্রকাশিত নতুন একটি গবেষণায়। গবেষকরা Mal-ID নামের একটি মেশিন লার্নিং ফ্রেমওয়ার্ক তৈরি করেছেন, যা মানুষের রক্তে থাকা B সেল ও T সেল রিসেপ্টর (BCR ও TCR) সিকোয়েন্স বিশ্লেষণ করে রোগ শনাক্ত করতে পারে।
     </p>
 
-    <h4>গুরুত্বপূর্ণ আবিষ্কার</h4>
-    <ul>
-      <li><strong>একটি রক্ত পরীক্ষা, একাধিক রোগ নির্ণয়:</strong> Mal-ID B/T সেল রিসেপ্টরের CDR3 অঞ্চলে রোগ-সুনির্দিষ্ট প্যাটার্ন চিহ্নিত করে[৫][৮]।</li>
-      <li><strong>ইমিউন মেমোরি ডিকোডার:</strong> প্রতি নমুনায় ১০ লক্ষেরও বেশি রিসেপ্টর সিকোয়েন্স প্রসেস করে[১][৩]।</li>
-      <li><strong>বাস্তব-বিশ্ব যাচাইকরণ:</strong> ৬ মেডিকেল সেন্টারের ৫৯৩ জন রোগীতে সফল পরীক্ষা[২][৪]।</li>
-    </ul>
+    <h4>Mal-ID কিভাবে কাজ করে</h4>
+    <p>
+      Mal-ID উন্নত মেশিন লার্নিং ব্যবহার করে BCR ও TCR সিকোয়েন্স বিশ্লেষণ করে। এই রিসেপ্টরগুলো মানুষের ইমিউন সিস্টেমের “মেমোরি” হিসেবে কাজ করে, যা বিভিন্ন প্যাথোজেন, ভ্যাকসিন এবং অটোইমিউন রোগে শরীরের নিজস্ব কোষের বিরুদ্ধে তৈরি হয়। গবেষকরা Mal-ID কে এই সিকোয়েন্সের প্যাটার্ন চিনতে শেখান, যাতে এটি সুস্থ ব্যক্তি এবং বিভিন্ন রোগে আক্রান্ত ব্যক্তিদের মধ্যে পার্থক্য করতে পারে।
+    </p>
+    <p>
+      শিক্ষণ প্রক্রিয়ায় Mal-ID BCR ও TCR সিকোয়েন্সের ছয়টি ভিন্ন ফিচার উপস্থাপনা মূল্যায়ন করে। এই ফিচারগুলো একসাথে ব্যবহার করে একক মডেলে রোগের অবস্থা ভবিষ্যদ্বাণী করা সম্ভব হয়েছে। এই সিস্টেম শুধু সুস্থ ও অটোইমিউন বা ভাইরাসজনিত রোগে আক্রান্তদের মধ্যে পার্থক্যই করতে পারে না, বরং সম্প্রতি ফ্লু ভ্যাকসিন নেওয়া ব্যক্তিকেও চিহ্নিত করতে পারে!
+    </p>
 
-    <h4>কীভাবে কাজ করে</h4>
-    <ol>
-      <li>রক্ত নমুনা → B/T সেল আলাদা → রিসেপ্টর জিন সিকোয়েন্সিং (BCR হেভি চেইন, TCR বিটা চেইন)</li>
-      <li>মেশিন লার্নিং বিশ্লেষণ করে:
-        <ul>
-          <li>ক্লোন ফ্রিকোয়েন্সি বণ্টন</li>
-          <li>রোগীদের মধ্যে শেয়ার্ড রিসেপ্টর সিকোয়েন্স</li>
-          <li>৩ডি স্ট্রাকচারাল ভবিষ্যদ্বাণী</li>
-        </ul>
-      </li>
-      <li>মডেল আউটপুট দেয় রোগের সম্ভাব্যতা ও ব্যাখ্যাযুক্ত জৈবিক তথ্য[১][৬]</li>
-    </ol>
+    <h4>এটা কেন গুরুত্বপূর্ণ</h4>
+    <p>
+      ইমিউন রিসেপ্টর সিকোয়েন্স বিশ্লেষণের এই ক্ষমতা বৈজ্ঞানিক গবেষণা ও ক্লিনিকাল চিকিৎসা উভয় ক্ষেত্রেই বিপুল সম্ভাবনা নিয়ে এসেছে। উদাহরণস্বরূপ, Mal-ID সিস্টেমিক লুপাস এরিথেমাটোসাস এবং টাইপ ১ ডায়াবেটিসের অটোইমিউন প্রতিক্রিয়ার স্বতন্ত্র বৈশিষ্ট্য, পাশাপাশি সার্স-কোভ-২ ও এইচআইভি ভাইরাসের জন্য অ্যান্টিজেন-স্পেসিফিক রিসেপ্টরও শনাক্ত করতে পেরেছে। এর অর্থ হল, ভবিষ্যতে ডাক্তাররা Mal-ID বা এরকম টুল ব্যবহার করে রোগ শনাক্ত, চিকিৎসার প্রতিক্রিয়া পর্যবেক্ষণ, এমনকি লক্ষণ দেখা দেওয়ার আগেই ঝুঁকি পূর্বাভাস দিতে পারবেন।
+    </p>
 
-    <h4>চিকিৎসার প্রভাব</h4>
-    <table>
-      <tr>
-        <th>রোগ</th>
-        <th>Mal-ID সিগনেচার</th>
-        <th>প্রভাব</th>
-      </tr>
-      <tr>
-        <td>টাইপ ১ ডায়াবেটিস</td>
-        <td>ইনসুলিন পেপটাইড টার্গেট করা TCR ক্লাস্টার</td>
-        <td>লক্ষণ প্রকাশের আগেই শনাক্তকরণ</td>
-      </tr>
-      <tr>
-        <td>কোভিড-১৯</td>
-        <td>স্পাইক প্রোটিনের বিরুদ্ধে BCR অভিসারী বিবর্তন</td>
-        <td>রোগের তীব্রতা ভবিষ্যদ্বাণী</td>
-      </tr>
-      <tr>
-        <td>লুপাস</td>
-        <td>dsDNA ও ভাইরাল অ্যান্টিজেন বাইন্ডিং BCR</td>
-        <td>ফ্লেয়ার অ্যান্টিসিপেশন</td>
-      </tr>
-    </table>
+    <h4>চ্যালেঞ্জ ও সতর্কতা</h4>
+    <p>
+      Mal-ID এর সম্ভাবনা সত্যিই উৎসাহজনক, তবে গবেষকরা সতর্কও করেছেন। মেশিন লার্নিং মডেল কখনো কখনো রোগের সাথে সম্পর্কহীন পার্থক্য শিখে ফেলতে পারে। যেমন, ইমিউন রিসেপ্টর ক্লোন সংখ্যা, স্যাম্পল হ্যান্ডলিং, সিকোয়েন্সিং গভীরতা, এমনকি স্যাম্পলের ভৌগোলিক উৎসও বিভ্রান্তিকর সংকেত দিতে পারে।
+    </p>
+    <p>
+      উদাহরণস্বরূপ, HLA টাইপের পার্থক্য (যা বিশ্বজুড়ে বিভিন্ন) এবং সাধারণ প্যাথোজেনের আগের সংস্পর্শে আসা T সেল রিপারটয়ারকে প্রভাবিত করতে পারে। ফলে যা রোগের জন্য স্পেসিফিক বলে মনে হয়, তা আসলে অন্য পার্থক্যের কারণে হতে পারে। এছাড়া, অটোইমিউন-সম্পর্কিত T সেলের ক্লোনাল এক্সপানশন সাধারণত সংক্রামক প্যাথোজেনের তুলনায় কম হয়, তাই অটোইমিউন রোগ নির্ণয় ইমিউন রিপারটয়ার থেকে আরও চ্যালেঞ্জিং।
+    </p>
 
-    <h4>চ্যালেঞ্জসমূহ</h4>
-    <ul>
-      <li><strong>বিভ্রান্তিকর ফ্যাক্টর:</strong> HLA ডাইভার্সিটি, পূর্ববর্তী সংক্রমণ[১][৭]</li>
-      <li><strong>প্রযুক্তিগত বাধা:</strong> নমুনায় ১০M রিড ও বিশেষায়িত বায়োইনফরমেটিক্স প্রয়োজন[৫][৮]</li>
-      <li><strong>ক্লিনিকাল ইন্টিগ্রেশন:</strong> টেস্ট খরচ <$200 এ নামানো প্রয়োজন[৬][৮]</li>
-    </ul>
+    <h4>ভবিষ্যতের পথ</h4>
+    <p>
+      এই সব চ্যালেঞ্জ সত্ত্বেও, ইমিউন রিপারটয়ারের তথ্য খুবই মূল্যবান। শক্তিশালী রোগ নির্ণয়ের জন্য গভীর স্যাম্পলিং, সতর্ক কেস-কন্ট্রোল ম্যাচিং এবং বড়, স্বাধীন কোহর্টে ভ্যালিডেশন প্রয়োজন। প্রযুক্তি ও মেশিন লার্নিং পদ্ধতি আরও উন্নত হলে, Mal-ID এর মতো টুল রোগ শনাক্তকরণ ও পর্যবেক্ষণে বিপ্লব আনতে পারে—ইমিউন সিস্টেমের ইতিহাস ও বর্তমান অবস্থার জানালা খুলে দেবে।
+    </p>
+
+    <h4>সারসংক্ষেপ</h4>
+    <p>
+      Mal-ID মেশিন লার্নিং ও ইমিউন রিসেপ্টর সিকোয়েন্সিং ব্যবহার করে রোগ নির্ণয়ে বড় ধাপ এগিয়েছে। কিছু বাধা থাকলেও, ব্যক্তিগতকৃত চিকিৎসা ও প্রাথমিক রোগ শনাক্তকরণে এর সম্ভাবনা বিশাল। ইমিউনোলজির ভবিষ্যৎ এখন ডেটার শক্তিতে।
+    </p>
 
     <p style="margin-top: 30px;">
-      <strong>সূত্র:</strong> <a href="https://www.science.org/doi/10.1126/science.adp2407" target="_blank" rel="noopener">Zaslavsky et al., Science (2025)</a> | DOI: 10.1126/science.adp2407
+      <strong>তথ্যসূত্র:</strong> <a href="https://www.science.org/doi/10.1126/science.adp2407" target="_blank" rel="noopener">Zaslavsky et al., Science (2025)</a> | DOI: 10.1126/science.adp2407
     </p>
   </div>
 </div>
@@ -1048,6 +1011,7 @@ if (window.location.hash === "#blog3") {
   document.getElementById('blog3-toggle').scrollIntoView();
 }
 </script>
+
 
 
 
