@@ -899,6 +899,158 @@ if (window.location.hash === "#blog2") {
 </script>
 
 
+<!-- Anchor for direct linking -->
+<a id="blog3"></a>
+<div class="collapse" id="blog3-toggle">
+  <span class="arrow">&#9658;</span>
+  <b>Blog 3: Machine Learning Decodes Immune Secrets</b>&nbsp;&nbsp;&nbsp;(click to read more)
+</div>
+
+<div class="collapse-content" id="blog3-content">
+  <div class="blog-justify">
+    <h2>Mal-ID: The Immune System's Digital Translator</h2>
+    <p>Reading time: approximately 5 minutes (To read in Bangla, please scroll down)</p>
+    <img src="Immune-Receptor-ML.png" 
+         alt="Machine learning analyzing immune cell receptors"
+         style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
+
+    <h3>Key Discoveries</h3>
+    <ul>
+      <li><strong>One Blood Test, Multiple Diagnoses:</strong> Mal-ID analyzes B/T cell receptor sequences to simultaneously detect COVID-19, HIV, lupus, type 1 diabetes, and vaccine responses with 98.6% accuracy (AUROC 0.986)[4][7].</li>
+      <li><strong>Immune Memory Decoder:</strong> Processes >1 million receptor sequences per sample, identifying disease-specific patterns in the variable CDR3 regions[5][8].</li>
+      <li><strong>Beyond Current Diagnostics:</strong> Reveals hidden connections between autoimmune conditions through shared receptor features[1][3].</li>
+      <li><strong>Real-World Validation:</strong> Tested on 593 individuals across 6 medical centers, maintaining accuracy in pediatric/adult comparisons[2][4].</li>
+    </ul>
+
+    <h3>How It Works</h3>
+    <ol>
+      <li>Blood draw → isolate B/T cells → sequence receptor genes (BCR heavy chain, TCR beta chain)</li>
+      <li>Machine learning analyzes six feature representations:
+        <ul>
+          <li>Clone frequency distributions</li>
+          <li>Shared receptor sequences across patients</li>
+          <li>3D structural predictions</li>
+        </ul>
+      </li>
+      <li>Model outputs disease probability scores and interpretable biological insights[1][6]</li>
+    </ol>
+
+    <h3>Clinical Implications</h3>
+    <table>
+      <tr>
+        <th>Condition</th>
+        <th>Mal-ID Signature</th>
+        <th>Potential Impact</th>
+      </tr>
+      <tr>
+        <td>Type 1 Diabetes</td>
+        <td>Autoreactive TCR clusters targeting insulin peptides</td>
+        <td>Early detection before symptom onset</td>
+      </tr>
+      <tr>
+        <td>COVID-19</td>
+        <td>Convergent BCR evolution against spike protein</td>
+        <td>Severity prediction</td>
+      </tr>
+      <tr>
+        <td>Lupus</td>
+        <td>Cross-reactive BCRs binding dsDNA and viral antigens</td>
+        <td>Flare anticipation</td>
+      </tr>
+    </table>
+
+    <h3>Challenges Ahead</h3>
+    <ul>
+      <li><strong>Confounding Factors:</strong> HLA diversity, prior infections, and sequencing depth affect signal interpretation[1][7]</li>
+      <li><strong>Technical Hurdles:</strong> Requires 10M reads/sample and specialized bioinformatics pipelines[5][8]</li>
+      <li><strong>Clinical Integration:</strong> Needs validation in diverse populations and cost reduction to <$200/test[6][8]</li>
+    </ul>
+
+    <p style="margin-top: 30px;">
+      <strong>Source:</strong> <a href="https://www.science.org/doi/10.1126/science.adp2407" target="_blank" rel="noopener">Zaslavsky et al., Science (2025)</a> | DOI: 10.1126/science.adp2407
+    </p>
+
+    <!-- Bangla translation -->
+    <hr style="margin:40px 0 30px 0;">
+    <h3 style="color:#1a237e;">বাংলা অনুবাদ</h3>
+    <h4>ম্যাল-আইডি: ইমিউন সিস্টেমের ডিজিটাল দোভাষী</h4>
+    <p>
+      স্ট্যানফোর্ড গবেষকদের তৈরি মেশিন লার্নিং মডেল Mal-ID রক্তের B/T সেল রিসেপ্টর সিকোয়েন্স বিশ্লেষণ করে একসাথে কোভিড-১৯, এইচআইভি, লুপাস, টাইপ ১ ডায়াবেটিস ও ভ্যাকসিন প্রতিক্রিয়া শনাক্ত করতে পারে ৯৮.৬% নির্ভুলতায়[৪][৭]।
+    </p>
+
+    <h4>গুরুত্বপূর্ণ আবিষ্কার</h4>
+    <ul>
+      <li><strong>একটি রক্ত পরীক্ষা, একাধিক রোগ নির্ণয়:</strong> Mal-ID B/T সেল রিসেপ্টরের CDR3 অঞ্চলে রোগ-সুনির্দিষ্ট প্যাটার্ন চিহ্নিত করে[৫][৮]।</li>
+      <li><strong>ইমিউন মেমোরি ডিকোডার:</strong> প্রতি নমুনায় ১০ লক্ষেরও বেশি রিসেপ্টর সিকোয়েন্স প্রসেস করে[১][৩]।</li>
+      <li><strong>বাস্তব-বিশ্ব যাচাইকরণ:</strong> ৬ মেডিকেল সেন্টারের ৫৯৩ জন রোগীতে সফল পরীক্ষা[২][৪]।</li>
+    </ul>
+
+    <h4>কীভাবে কাজ করে</h4>
+    <ol>
+      <li>রক্ত নমুনা → B/T সেল আলাদা → রিসেপ্টর জিন সিকোয়েন্সিং (BCR হেভি চেইন, TCR বিটা চেইন)</li>
+      <li>মেশিন লার্নিং বিশ্লেষণ করে:
+        <ul>
+          <li>ক্লোন ফ্রিকোয়েন্সি বণ্টন</li>
+          <li>রোগীদের মধ্যে শেয়ার্ড রিসেপ্টর সিকোয়েন্স</li>
+          <li>৩ডি স্ট্রাকচারাল ভবিষ্যদ্বাণী</li>
+        </ul>
+      </li>
+      <li>মডেল আউটপুট দেয় রোগের সম্ভাব্যতা ও ব্যাখ্যাযুক্ত জৈবিক তথ্য[১][৬]</li>
+    </ol>
+
+    <h4>চিকিৎসার প্রভাব</h4>
+    <table>
+      <tr>
+        <th>রোগ</th>
+        <th>Mal-ID সিগনেচার</th>
+        <th>প্রভাব</th>
+      </tr>
+      <tr>
+        <td>টাইপ ১ ডায়াবেটিস</td>
+        <td>ইনসুলিন পেপটাইড টার্গেট করা TCR ক্লাস্টার</td>
+        <td>লক্ষণ প্রকাশের আগেই শনাক্তকরণ</td>
+      </tr>
+      <tr>
+        <td>কোভিড-১৯</td>
+        <td>স্পাইক প্রোটিনের বিরুদ্ধে BCR অভিসারী বিবর্তন</td>
+        <td>রোগের তীব্রতা ভবিষ্যদ্বাণী</td>
+      </tr>
+      <tr>
+        <td>লুপাস</td>
+        <td>dsDNA ও ভাইরাল অ্যান্টিজেন বাইন্ডিং BCR</td>
+        <td>ফ্লেয়ার অ্যান্টিসিপেশন</td>
+      </tr>
+    </table>
+
+    <h4>চ্যালেঞ্জসমূহ</h4>
+    <ul>
+      <li><strong>বিভ্রান্তিকর ফ্যাক্টর:</strong> HLA ডাইভার্সিটি, পূর্ববর্তী সংক্রমণ[১][৭]</li>
+      <li><strong>প্রযুক্তিগত বাধা:</strong> নমুনায় ১০M রিড ও বিশেষায়িত বায়োইনফরমেটিক্স প্রয়োজন[৫][৮]</li>
+      <li><strong>ক্লিনিকাল ইন্টিগ্রেশন:</strong> টেস্ট খরচ <$200 এ নামানো প্রয়োজন[৬][৮]</li>
+    </ul>
+
+    <p style="margin-top: 30px;">
+      <strong>সূত্র:</strong> <a href="https://www.science.org/doi/10.1126/science.adp2407" target="_blank" rel="noopener">Zaslavsky et al., Science (2025)</a> | DOI: 10.1126/science.adp2407
+    </p>
+  </div>
+</div>
+
+<script>
+document.getElementById('blog3-toggle').onclick = function() {
+  this.classList.toggle('open');
+  document.getElementById('blog3-content').classList.toggle('open');
+};
+
+// Auto-expand if URL has #blog3
+if (window.location.hash === "#blog3") {
+  document.getElementById('blog3-toggle').classList.add('open');
+  document.getElementById('blog3-content').classList.add('open');
+  document.getElementById('blog3-toggle').scrollIntoView();
+}
+</script>
+
+
+
 ---
 
 ## <b>Contact Me</b>
