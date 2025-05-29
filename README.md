@@ -908,7 +908,7 @@ if (window.location.hash === "#blog2") {
 <div class="collapse-content" id="blog3-content">
   <div class="blog-justify">
     <h2>Unlocking Disease Diagnostics with Machine Learning and Immune Receptor Sequencing</h2>
-    <p>Reading time: approximately 5 minutes (To read in Bangla, please scroll down)</p>
+    <p>Reading time: approximately 4 minutes (To read in Bangla, please scroll down)</p>
     <img src="Blog3.png" 
          alt="Machine learning analyzing immune cell receptors"
          style="max-width:70%;height:auto;margin-bottom:20px;border-radius:6px;">
@@ -955,7 +955,7 @@ if (window.location.hash === "#blog2") {
     </p>
 
     <p style="margin-top: 30px;">
-      <strong>Source:</strong> <a href="https://www.science.org/doi/10.1126/science.adp2407" target="_blank" rel="noopener">Zaslavsky et al., Science (2025)</a> | DOI: 10.1126/science.adp2407
+      <strong>Source:</strong> <a href="https://www.science.org/doi/10.1126/science.adp2407" target="_blank" rel="noopener">Zaslavsky et al., Science (2025)</a>
     </p>
 
     <!-- Bangla translation -->
@@ -998,7 +998,7 @@ if (window.location.hash === "#blog2") {
     </p>
 
     <p style="margin-top: 30px;">
-      <strong>তথ্যসূত্র:</strong> <a href="https://www.science.org/doi/10.1126/science.adp2407" target="_blank" rel="noopener">Zaslavsky et al., Science (2025)</a> | DOI: 10.1126/science.adp2407
+      <strong>তথ্যসূত্র:</strong> <a href="https://www.science.org/doi/10.1126/science.adp2407" target="_blank" rel="noopener">Zaslavsky et al., Science (2025)</a>
     </p>
   </div>
 </div>
