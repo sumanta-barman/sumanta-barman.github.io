@@ -919,16 +919,16 @@ if (window.location.hash === "#blog2") {
     </p>
 
     <h3>How Mal-ID Works</h3>
+    <img src="Science_blog3.png" 
+     alt="Machine learning analyzing immune cell receptors"
+     style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
     <p>
-      Mal-ID uses advanced machine learning to analyze the sequences of B cell and T cell receptors (BCRs and TCRs) found in human blood. These receptors are the immune system’s “memory,” shaped by past encounters with pathogens, vaccines, and even the body’s own cells in autoimmune diseases. The researchers trained Mal-ID to recognize patterns in these sequences, comparing them between healthy individuals and those with various illnesses.
+    Mal-ID uses advanced machine learning to analyze the sequences of B cell and T cell receptors (BCRs and TCRs) found in human blood. These receptors are the immune system’s “memory,” shaped by past encounters with pathogens, vaccines, and even the body’s own cells in autoimmune diseases. T     he researchers trained Mal-ID to recognize patterns in these sequences, comparing them between healthy individuals and those with various illnesses.
     </p>
     <p>
-      During training, Mal-ID evaluated six different representations of BCR and TCR sequence features. By combining these features in a single model, the team was able to predict disease status with remarkable accuracy. The system could distinguish not only between healthy controls and those with autoimmune diseases or viral infections but also identify individuals who had recently received an influenza vaccine.
+    During training, Mal-ID evaluated six different representations of BCR and TCR sequence features. By combining these features in a single model, the team was able to predict disease status with remarkable accuracy. The system could distinguish not only between healthy controls and those       with autoimmune diseases or viral infections but also identify individuals who had recently received an influenza vaccine.
     </p>
 
-    <img src="Science_blog3.png" 
-         alt="Machine learning analyzing immune cell receptors"
-         style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
          
 
     <h3>Why This Matters</h3>
