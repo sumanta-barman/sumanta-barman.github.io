@@ -911,7 +911,7 @@ if (window.location.hash === "#blog2") {
     <p>Reading time: approximately 5 minutes (To read in Bangla, please scroll down)</p>
     <img src="Blog3.png" 
          alt="Machine learning analyzing immune cell receptors"
-         style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
+         style="max-width:100%;height:auto;margin-bottom:15px;border-radius:6px;">
 
     <h3>A New Era in Immunological Diagnosis</h3>
     <p>
