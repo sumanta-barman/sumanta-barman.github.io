@@ -1030,7 +1030,7 @@ if (window.location.hash === "#blog3") {
 
 <div class="collapse-content" id="blog4-content">
   <div class="blog-justify">
-    <h2>How Your Diet Shapes Your Gut: Massive Study Reveals the Microbial Impact of Plant-Based and Omnivore Diets</h2>
+    <h2>Gut Check: What Your Diet Does to Your Microbes</h2>
     <p>Reading time: approximately 4 minutes (To read in Bangla, please scroll down)</p>
     <img src="healthy_gut.webp" 
          alt="Plant-based diet and gut microbiome"
