@@ -1032,7 +1032,7 @@ if (window.location.hash === "#blog3") {
   <div class="blog-justify">
     <h2>Gut Check: What Your Diet Does to Your Microbes</h2>
     <p>Reading time: approximately 4 minutes (To read in Bangla, please scroll down)</p>
-    <img src="healthy_gut.webp" 
+    <img src="gut_health_matters_alt.jpg" 
          alt="Plant-based diet and gut microbiome"
          style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
 
