@@ -1061,10 +1061,11 @@ if (window.location.hash === "#blog3") {
 
     <h3>Practical Takeaways: Simple Steps for a Healthier Gut</h3>
     <ul>
-      <li>Increase plant diversity</li>
-      <li>Reduce red meat</li>
-      <li>Don’t stress about labels</li>
-      <li>Enjoy fermented foods</li>
+      <li>Increase plant diversity: Aim to eat a rainbow of fruits, vegetables, whole grains, and legumes each week</li>
+      <li>Reduce red meat: Try substituting plant-based proteins like beans, lentils, or tofu in some meals</li>
+      <li>Don’t stress about labels: Every plant-based meal counts!</li>
+      <li>Enjoy fermented foods: Yogurt, kefir, sauerkraut, and kimchi can introduce beneficial microbes to your gut</li>
+      <li><strong>Boost your happiness and health by embracing more plant-based foods.</strong></li>
     </ul>
 
     <h3>Looking Ahead: The Future of Personalized Nutrition</h3>
@@ -1102,10 +1103,11 @@ if (window.location.hash === "#blog3") {
     </p>
     <h4>সহজ টিপস: স্বাস্থ্যকর অন্ত্রের জন্য কী করবেন</h4>
     <ul>
-      <li>উদ্ভিদজাত খাবারের বৈচিত্র্য বাড়ান</li>
-      <li>লাল মাংস কমান</li>
-      <li>লেবেল নিয়ে দুশ্চিন্তা নয়</li>
-      <li>ফারমেন্টেড খাবার খান</li>
+      <li>উদ্ভিদজাত খাবারের বৈচিত্র্য বাড়ান: প্তাহে নানা রঙের ফল, সবজি, শস্য ও ডাল খান</li>
+      <li>লাল মাংস কমান: মাংসের বদলে ডাল, ছোলা বা টোফু খেতে পারেন</li>
+      <li>লেবেল নিয়ে দুশ্চিন্তা নয়: শুধু উদ্ভিদজাত খাবার বাড়ান</li>
+      <li>ফারমেন্টেড খাবার খান: দই, কেফির, আচার, কিমচি—এসব অন্ত্রে ভালো জীবাণু যোগ করতে পারে</li>
+      <li><strong>Boost your happiness and health by embracing more plant-based foods.</strong></li>
     </ul>
     <h4>সামনে কী: ব্যক্তিগত পুষ্টির ভবিষ্যৎ</h4>
     <p>
