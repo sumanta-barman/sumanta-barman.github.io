@@ -1068,7 +1068,7 @@ if (window.location.hash === "#blog3") {
       
     </ul>
     <ul>
-    <strong>Boost your happiness and health by embracing more plant-based foods.</strong>
+    <strong>"Boost your happiness and health by embracing more plant-based foods"</strong>
     </ul>
 
     <h3>Looking Ahead: The Future of Personalized Nutrition</h3>
@@ -1114,7 +1114,7 @@ if (window.location.hash === "#blog3") {
     </ul>
 
     <ul>
-    <strong>আরও বেশি উদ্ভিদ-ভিত্তিক খাবার খেয়ে আপনার সুখ ও স্বাস্থ্য বাড়িয়ে তুলুন।</strong>
+    <strong>"আরও বেশি উদ্ভিদ-ভিত্তিক খাবার খেয়ে আপনার সুখ ও স্বাস্থ্য বাড়িয়ে তুলুন"</strong>
     </ul>
     
     <h4>সামনে কী: ব্যক্তিগত পুষ্টির ভবিষ্যৎ</h4>
