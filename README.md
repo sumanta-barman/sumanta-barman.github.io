@@ -1065,7 +1065,10 @@ if (window.location.hash === "#blog3") {
       <li>Reduce red meat: Try substituting plant-based proteins like beans, lentils, or tofu in some meals</li>
       <li>Don’t stress about labels: Every plant-based meal counts!</li>
       <li>Enjoy fermented foods: Yogurt, kefir, sauerkraut, and kimchi can introduce beneficial microbes to your gut</li>
-      <li><strong>Boost your happiness and health by embracing more plant-based foods.</strong></li>
+      
+    </ul>
+    <ul>
+    <li><strong>Boost your happiness and health by embracing more plant-based foods.</strong></li>
     </ul>
 
     <h3>Looking Ahead: The Future of Personalized Nutrition</h3>
@@ -1107,8 +1110,13 @@ if (window.location.hash === "#blog3") {
       <li>লাল মাংস কমান: মাংসের বদলে ডাল, ছোলা বা টোফু খেতে পারেন</li>
       <li>লেবেল নিয়ে দুশ্চিন্তা নয়: শুধু উদ্ভিদজাত খাবার বাড়ান</li>
       <li>ফারমেন্টেড খাবার খান: দই, কেফির, আচার, কিমচি—এসব অন্ত্রে ভালো জীবাণু যোগ করতে পারে</li>
-      <li><strong>Boost your happiness and health by embracing more plant-based foods.</strong></li>
+      
     </ul>
+
+    <ul>
+    <li><strong>আরও বেশি উদ্ভিদ-ভিত্তিক খাবার খেয়ে আপনার সুখ ও স্বাস্থ্য বাড়িয়ে তুলুন।</strong></li>
+    </ul>
+    
     <h4>সামনে কী: ব্যক্তিগত পুষ্টির ভবিষ্যৎ</h4>
     <p>
       বিজ্ঞানীরা যতই খাদ্য ও মাইক্রোবায়োমের সম্পর্ক জানছেন, ততই আমরা এমন এক ভবিষ্যতের দিকে এগোচ্ছি, যেখানে আপনার খাদ্যাভ্যাস শুধু স্বাদের জন্য নয়, বরং আপনার অন্ত্রের বাসিন্দাদের জন্যও সাজানো হবে।
