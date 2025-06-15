@@ -726,7 +726,7 @@
 
 <!-- Blog 4 -->
     
-<div class="collapse" id="blog4">
+<div class="collapse" id="blog4-toggle">
   <span class="arrow">&#9658;</span>
   <b>Blog 4: Plant-Based Diets Shape a Healthier Gut Microbiome</b>&nbsp;&nbsp;&nbsp;(click to read more)
 </div>
@@ -921,6 +921,28 @@ if (window.location.hash === "#blog4") {
   document.getElementById('blog4').scrollIntoView();
 }
 
-</script>  
+</script> 
+<script>
+// On page load, show the section matching the hash, or home if none
+window.addEventListener('DOMContentLoaded', function() {
+  var hash = window.location.hash.replace('#', '');
+  if (hash && document.getElementById(hash)) {
+    showSection(hash);
+    // Optionally scroll to the subsection if it's a collapsible blog
+    var toggle = document.getElementById(hash + '-toggle');
+    var content = document.getElementById(hash + '-content');
+    if (toggle && content) {
+      toggle.classList.add('open');
+      content.classList.add('open');
+      content.style.display = 'block';
+      toggle.scrollIntoView();
+    }
+  } else {
+    showSection('home');
+  }
+});
+
+</script> 
+  
 </body>
 </html>
