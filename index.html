@@ -725,8 +725,8 @@
 </div>
 
 <!-- Blog 4 -->
-<div id="blog4" class="collapse">    
-<div class="collapse" id="blog4-toggle">
+    
+<div class="collapse" id="blog4">
   <span class="arrow">&#9658;</span>
   <b>Blog 4: Plant-Based Diets Shape a Healthier Gut Microbiome</b>&nbsp;&nbsp;&nbsp;(click to read more)
 </div>
@@ -830,7 +830,6 @@
     </p>
   </div>
 </div>
-</div>
 
 <script>
 function toggleBlogCollapse(id) {
@@ -914,13 +913,14 @@ function toggleMobileMenu() {
 </script>
 
 <script>
-if (window.location.hash === "#blog4" || window.location.hash === "#blog4-toggle") {
-  document.getElementById('blog4-toggle').classList.add('open');
+if (window.location.hash === "#blog4") {
+  document.getElementById('blog4').classList.add('open');
   var content = document.getElementById('blog4-content');
   content.classList.add('open');
   content.style.display = 'block';
-  document.getElementById('blog4-toggle').scrollIntoView();
+  document.getElementById('blog4').scrollIntoView();
 }
+
 </script>  
 </body>
 </html>
