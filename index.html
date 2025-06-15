@@ -726,7 +726,7 @@
 
 <!-- Blog 4 -->
     
-<div class="collapse" id="blog4-toggle" data-target="#blog4-content">
+<div class="collapse" id="blog4-toggle">
   <span class="arrow">&#9658;</span>
   <b>Blog 4: Plant-Based Diets Shape a Healthier Gut Microbiome</b>&nbsp;&nbsp;&nbsp;(click to read more)
 </div>
@@ -847,7 +847,13 @@ function toggleBlogCollapse(id) {
   }
 });
 </script>
-
+<!-- Add CSS for collapsible functionality -->
+  <style>
+  .collapse { cursor: pointer; margin: 20px 0; }
+  .collapse-content { display: none; }
+  .collapse-content.open { display: block !important; }
+  .collapse.open .arrow { transform: rotate(90deg); }
+  </style>
     <!-- Insert your blog entries from paste.txt here -->
   </main>
 
@@ -873,89 +879,67 @@ function toggleBlogCollapse(id) {
  <script>
 function toggleDropdown(event, id) {
   event.stopPropagation();
-  document.querySelectorAll('.dropdown-content').forEach(menu => {
+  document.querySelectorAll('.dropdown-content').forEach(function(menu) {
     if (menu.id !== id) menu.style.display = 'none';
   });
-  const menu = document.getElementById(id);
-  menu.style.display = menu.style.display === 'block' ? 'none' : 'block';
+  var menu = document.getElementById(id);
+  menu.style.display = (menu.style.display === 'block') ? 'none' : 'block';
 }
 
 window.onclick = function(event) {
   if (!event.target.matches('.dropbtn')) {
-    document.querySelectorAll('.dropdown-content').forEach(menu => {
+    document.querySelectorAll('.dropdown-content').forEach(function(menu) {
       menu.style.display = 'none';
     });
   }
 };
 
-function showSection(sectionId, subSectionId = null) {
-  // Hide all sections
-  document.querySelectorAll('.section-content').forEach(sec => {
+function showSection(sectionId) {
+  document.querySelectorAll('.section-content').forEach(function(sec) {
     sec.style.display = 'none';
   });
-  
-  // Show requested section
-  const section = document.getElementById(sectionId);
-  if (section) {
-    section.style.display = 'block';
-    
-    // Handle subsection
-    setTimeout(() => {
-      if (subSectionId) {
-        const subElement = document.getElementById(subSectionId);
-        if (subElement) {
-          // Open collapsible if needed
-          const toggle = document.querySelector(`[data-target="#${subSectionId}"]`);
-          if (toggle && !toggle.classList.contains('open')) {
-            toggle.click();
-          }
-          subElement.scrollIntoView({ 
-            behavior: 'smooth', 
-            block: 'start' 
-          });
-        }
-      } else {
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-      }
-    }, 100);
-  }
-  
-  // Close all dropdowns
-  document.querySelectorAll('.dropdown-content').forEach(menu => {
+  document.getElementById(sectionId).style.display = 'block';
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+  document.querySelectorAll('.dropdown-content').forEach(function(menu) {
     menu.style.display = 'none';
   });
 }
 
-// Handle page load and URL hash
-window.addEventListener('DOMContentLoaded', () => {
-  const hash = window.location.hash.substring(1);
+// Handle page load with hash detection
+window.addEventListener('DOMContentLoaded', function() {
+  var hash = window.location.hash.substring(1); // Remove the #
   
   if (hash) {
-    // Check if hash matches a section
-    const section = document.getElementById(hash);
-    if (section?.classList.contains('section-content')) {
+    // Check if it's a blog post
+    if (hash.startsWith('blog')) {
+      showSection('blog');
+      // Auto-expand the specific blog post
+      setTimeout(function() {
+        var blogToggle = document.getElementById(hash + '-toggle');
+        var blogContent = document.getElementById(hash + '-content');
+        if (blogToggle && blogContent) {
+          blogToggle.classList.add('open');
+          blogContent.classList.add('open');
+          blogContent.style.display = 'block';
+          blogToggle.scrollIntoView({ behavior: 'smooth' });
+        }
+      }, 100);
+    } 
+    // Check if it's a main section
+    else if (document.getElementById(hash)) {
       showSection(hash);
-      return;
     }
-    
-    // Check if hash matches a subsection
-    const subElement = document.getElementById(hash);
-    if (subElement) {
-      // Find parent section
-      const parentSection = subElement.closest('.section-content');
-      if (parentSection) {
-        showSection(parentSection.id, hash);
-        return;
-      }
+    // Default to home if hash doesn't match anything
+    else {
+      showSection('home');
     }
+  } else {
+    // No hash, show home
+    showSection('home');
   }
-  
-  // Default to home
-  showSection('home');
 });
 </script>
-
-  <script>
+<script>
 function toggleMobileMenu() {
   var menu = document.querySelector('.nav-menu');
   menu.classList.toggle('open');
