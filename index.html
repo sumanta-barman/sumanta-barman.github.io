@@ -903,27 +903,7 @@ function toggleBlogCollapse(id) {
         menu.style.display = 'none';
       });
     }
-    showSection('home');
-  </script>
-  <script>
-function toggleMobileMenu() {
-  var menu = document.querySelector('.nav-menu');
-  menu.classList.toggle('open');
-}
-</script>
-
-<script>
-if (window.location.hash === "#blog4") {
-  document.getElementById('blog4').classList.add('open');
-  var content = document.getElementById('blog4-content');
-  content.classList.add('open');
-  content.style.display = 'block';
-  document.getElementById('blog4').scrollIntoView();
-}
-
-</script> 
-<script>
-// On page load, show the section matching the hash, or home if none
+    // On page load, show the section matching the hash, or home if none
 window.addEventListener('DOMContentLoaded', function() {
   var hash = window.location.hash.replace('#', '');
   if (hash && document.getElementById(hash)) {
@@ -942,7 +922,23 @@ window.addEventListener('DOMContentLoaded', function() {
   }
 });
 
+  </script>
+  <script>
+function toggleMobileMenu() {
+  var menu = document.querySelector('.nav-menu');
+  menu.classList.toggle('open');
+}
+</script>
+
+<script>
+if (window.location.hash === "#blog4") {
+  document.getElementById('blog4').classList.add('open');
+  var content = document.getElementById('blog4-content');
+  content.classList.add('open');
+  content.style.display = 'block';
+  document.getElementById('blog4').scrollIntoView();
+}
+
 </script> 
-  
 </body>
 </html>
