@@ -36,17 +36,29 @@
             <li><a href="#" onclick="showSection('about-me','interests')">Interests</a></li>
           </ul>
 
-        </li>
         <li class="dropdown">
-          <button class="dropbtn" onclick="toggleDropdown(event, 'research-dropdown')">Research</button>
-          <ul class="dropdown-content" id="research-dropdown">
-            <li><a href="#" onclick="showSection('research','relevant-methods')">Relevant Methods</a></li>
-            <li><a href="#" onclick="showSection('research','research-highlights')">Research Highlights</a></li>
-            <li><a href="#" onclick="showSection('research','tools-and-technologies')">Tools and Technologies</a></li>
-            <li><a href="#" onclick="showSection('research','research-articles')">Research Articles</a></li>
-            <li><a href="#" onclick="showSection('research','complete-list-of-publications')">Complete List of Publications</a></li>
-          </ul>
-        </li>
+  <button class="dropbtn" onclick="toggleDropdown(event, 'about-dropdown')">About Me</button>
+  <ul class="dropdown-content" id="about-dropdown">
+    <li><a href="#" onclick="showSection('about-me')">About Me</a></li>
+    <li><a href="#" onclick="showSection('about-me','expertise')">Expertise</a></li>
+    <li><a href="#" onclick="showSection('about-me','professional-experiences')">Professional Experiences</a></li>
+    <li><a href="#" onclick="showSection('about-me','education')">Education</a></li>
+    <li><a href="#" onclick="showSection('about-me','certifications')">Certifications</a></li>
+    <li><a href="#" onclick="showSection('about-me','awards-and-grants')">Awards and Grants</a></li>
+    <li><a href="#" onclick="showSection('about-me','interests')">Interests</a></li>
+  </ul>
+</li>
+<li class="dropdown">
+  <button class="dropbtn" onclick="toggleDropdown(event, 'research-dropdown')">Research</button>
+  <ul class="dropdown-content" id="research-dropdown">
+    <li><a href="#" onclick="showSection('research','relevant-methods')">Relevant Methods</a></li>
+    <li><a href="#" onclick="showSection('research','research-highlights')">Research Highlights</a></li>
+    <li><a href="#" onclick="showSection('research','tools-and-technologies')">Tools and Technologies</a></li>
+    <li><a href="#" onclick="showSection('research','research-articles')">Research Articles</a></li>
+    <li><a href="#" onclick="showSection('research','complete-list-of-publications')">Complete List of Publications</a></li>
+  </ul>
+</li>
+
         <li><a href="#" onclick="showSection('blog')">Blog</a></li>
         <li><a href="#" onclick="showSection('contact-me')">Contact</a></li>
       </ul>
@@ -894,26 +906,63 @@ window.onclick = function(event) {
   }
 };
 
-function showSection(sectionId) {
+function showSection(sectionId, subSectionId = null) {
+  // Hide all sections
   document.querySelectorAll('.section-content').forEach(function(sec) {
     sec.style.display = 'none';
   });
+  
+  // Show the main section
   document.getElementById(sectionId).style.display = 'block';
-  window.scrollTo({ top: 0, behavior: 'smooth' });
+  
+  // Close all dropdowns
   document.querySelectorAll('.dropdown-content').forEach(function(menu) {
     menu.style.display = 'none';
   });
+  
+  // Handle subsection scrolling
+  setTimeout(function() {
+    if (subSectionId) {
+      const subElement = document.getElementById(subSectionId);
+      if (subElement) {
+        subElement.scrollIntoView({
+          behavior: "smooth",
+          block: "start"
+        });
+      }
+    } else {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  }, 100);
 }
 
 // Handle page load with hash detection
 window.addEventListener('DOMContentLoaded', function() {
-  var hash = window.location.hash.substring(1); // Remove the #
+  var hash = window.location.hash.substring(1);
   
   if (hash) {
+    // Check if it's a subsection (like expertise, education, etc.)
+    const subsectionElement = document.getElementById(hash);
+    if (subsectionElement) {
+      // Find which main section contains this subsection
+      const parentSection = subsectionElement.closest('.section-content');
+      if (parentSection) {
+        // Show the parent section and scroll to subsection
+        showSection(parentSection.id, hash);
+        return;
+      }
+    }
+    
+    // Check if it's a main section
+    const mainSection = document.getElementById(hash);
+    if (mainSection && mainSection.classList.contains('section-content')) {
+      showSection(hash);
+      return;
+    }
+    
     // Check if it's a blog post
     if (hash.startsWith('blog')) {
       showSection('blog');
-      // Auto-expand the specific blog post
       setTimeout(function() {
         var blogToggle = document.getElementById(hash + '-toggle');
         var blogContent = document.getElementById(hash + '-content');
@@ -924,21 +973,15 @@ window.addEventListener('DOMContentLoaded', function() {
           blogToggle.scrollIntoView({ behavior: 'smooth' });
         }
       }, 100);
-    } 
-    // Check if it's a main section
-    else if (document.getElementById(hash)) {
-      showSection(hash);
+      return;
     }
-    // Default to home if hash doesn't match anything
-    else {
-      showSection('home');
-    }
-  } else {
-    // No hash, show home
-    showSection('home');
   }
+  
+  // Default to home
+  showSection('home');
 });
 </script>
+
 <script>
 function toggleMobileMenu() {
   var menu = document.querySelector('.nav-menu');
