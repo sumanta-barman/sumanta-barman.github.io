@@ -726,7 +726,7 @@
 
 <!-- Blog 4 -->
     
-<div class="collapse" id="blog4-toggle">
+<div class="collapse" id="blog4-toggle" data-target="#blog4-content">
   <span class="arrow">&#9658;</span>
   <b>Blog 4: Plant-Based Diets Shape a Healthier Gut Microbiome</b>&nbsp;&nbsp;&nbsp;(click to read more)
 </div>
@@ -870,59 +870,91 @@ function toggleBlogCollapse(id) {
     </div>
   </footer>
 
-  <script>
-    function toggleDropdown(event, id) {
-      event.stopPropagation();
-      document.querySelectorAll('.dropdown-content').forEach(function(menu) {
-        if (menu.id !== id) menu.style.display = 'none';
-      });
-      var menu = document.getElementById(id);
-      menu.style.display = (menu.style.display === 'block') ? 'none' : 'block';
-    }
-    window.onclick = function(event) {
-      if (!event.target.matches('.dropbtn')) {
-        document.querySelectorAll('.dropdown-content').forEach(function(menu) {
-          menu.style.display = 'none';
-        });
-      }
-    };
-    // Show section and scroll to subanchor if provided
-    function showSection(sectionId, subSectionId = null) {
-      document.querySelectorAll('.section-content').forEach(function(sec) {
-        sec.style.display = 'none';
-      });
-      document.getElementById(sectionId).style.display = 'block';
-      setTimeout(function() {
-        if (subSectionId && document.getElementById(subSectionId)) {
-          document.getElementById(subSectionId).scrollIntoView({behavior: "smooth", block: "start"});
-        } else {
-          window.scrollTo({ top: 0, behavior: 'smooth' });
-        }
-      }, 100);
-      document.querySelectorAll('.dropdown-content').forEach(function(menu) {
-        menu.style.display = 'none';
-      });
-    }
-    // On page load, show the section matching the hash, or home if none
-window.addEventListener('DOMContentLoaded', function() {
-  var hash = window.location.hash.replace('#', '');
-  if (hash && document.getElementById(hash)) {
-    showSection(hash);
-    // Optionally scroll to the subsection if it's a collapsible blog
-    var toggle = document.getElementById(hash + '-toggle');
-    var content = document.getElementById(hash + '-content');
-    if (toggle && content) {
-      toggle.classList.add('open');
-      content.classList.add('open');
-      content.style.display = 'block';
-      toggle.scrollIntoView();
-    }
-  } else {
-    showSection('home');
-  }
-});
+ <script>
+function toggleDropdown(event, id) {
+  event.stopPropagation();
+  document.querySelectorAll('.dropdown-content').forEach(menu => {
+    if (menu.id !== id) menu.style.display = 'none';
+  });
+  const menu = document.getElementById(id);
+  menu.style.display = menu.style.display === 'block' ? 'none' : 'block';
+}
 
-  </script>
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+    document.querySelectorAll('.dropdown-content').forEach(menu => {
+      menu.style.display = 'none';
+    });
+  }
+};
+
+function showSection(sectionId, subSectionId = null) {
+  // Hide all sections
+  document.querySelectorAll('.section-content').forEach(sec => {
+    sec.style.display = 'none';
+  });
+  
+  // Show requested section
+  const section = document.getElementById(sectionId);
+  if (section) {
+    section.style.display = 'block';
+    
+    // Handle subsection
+    setTimeout(() => {
+      if (subSectionId) {
+        const subElement = document.getElementById(subSectionId);
+        if (subElement) {
+          // Open collapsible if needed
+          const toggle = document.querySelector(`[data-target="#${subSectionId}"]`);
+          if (toggle && !toggle.classList.contains('open')) {
+            toggle.click();
+          }
+          subElement.scrollIntoView({ 
+            behavior: 'smooth', 
+            block: 'start' 
+          });
+        }
+      } else {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+    }, 100);
+  }
+  
+  // Close all dropdowns
+  document.querySelectorAll('.dropdown-content').forEach(menu => {
+    menu.style.display = 'none';
+  });
+}
+
+// Handle page load and URL hash
+window.addEventListener('DOMContentLoaded', () => {
+  const hash = window.location.hash.substring(1);
+  
+  if (hash) {
+    // Check if hash matches a section
+    const section = document.getElementById(hash);
+    if (section?.classList.contains('section-content')) {
+      showSection(hash);
+      return;
+    }
+    
+    // Check if hash matches a subsection
+    const subElement = document.getElementById(hash);
+    if (subElement) {
+      // Find parent section
+      const parentSection = subElement.closest('.section-content');
+      if (parentSection) {
+        showSection(parentSection.id, hash);
+        return;
+      }
+    }
+  }
+  
+  // Default to home
+  showSection('home');
+});
+</script>
+
   <script>
 function toggleMobileMenu() {
   var menu = document.querySelector('.nav-menu');
