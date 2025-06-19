@@ -344,6 +344,8 @@
     box-shadow: 0 8px 24px rgba(23,99,60,0.10);
     z-index: 100;
     padding: 1rem 0;
+    max-height: 80vh;
+    overflow-y: auto;  
   }
   .nav-menu.open {
     display: flex;
@@ -353,6 +355,30 @@
   }
   .nav-container {
     flex-wrap: nowrap;
+  }
+}
+
+  /* Ensure dropdowns work properly on mobile */
+  .dropdown-content {
+    position: static;
+    box-shadow: none;
+    background: rgba(234, 250, 241, 0.5);
+    margin-left: 1rem;
+    border-radius: 0;
+  }
+
+
+  
+  /* Add some spacing between menu items on mobile */
+  .nav-menu > li {
+    margin: 0.5rem 0;
+  }
+  
+  .nav-menu > li > a,
+  .nav-menu > li > .dropbtn {
+    padding: 1rem 1.5rem;
+    width: 100%;
+    text-align: left;
   }
 }
 
