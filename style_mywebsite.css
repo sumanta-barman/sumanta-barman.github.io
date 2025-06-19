@@ -343,7 +343,7 @@
     background: var(--nav-bg);
     box-shadow: 0 8px 24px rgba(23,99,60,0.10);
     z-index: 100;
-    padding: 1rem 0;
+    padding: 0.5rem 0; 
     max-height: 80vh;
     overflow-y: auto;  
   }
@@ -366,20 +366,37 @@
     margin-left: 1rem;
     border-radius: 0;
   }
-
-
   
-  /* Add some spacing between menu items on mobile */
+  /* spacing between menu items on mobile */
   .nav-menu > li {
-    margin: 0.5rem 0;
+    margin: 0;
   }
   
   .nav-menu > li > a,
   .nav-menu > li > .dropbtn {
-    padding: 1rem 1.5rem;
+    padding: 0.8rem 1.5rem;
     width: 100%;
     text-align: left;
+    border-bottom: 1px solid rgba(23,99,60,0.1); /* Add subtle separator */
   }
+/* Fix profile section alignment on mobile */
+  .profile-hero {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 18px;
+  }
+  
+  .profile-hero-text {
+    align-items: center;
+    text-align: center;
+  }
+  
+  .profile-name, .profile-title {
+    width: 100%;
+    text-align: center;
+  }
+
 }
 
 
