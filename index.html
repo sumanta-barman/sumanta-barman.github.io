@@ -6,6 +6,19 @@
   <title>Sumanta Barman, PhD - Immunology Data Scientist</title>
   <link rel="stylesheet" href="style_mywebsite.css">
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+  <!-- Default meta tags -->
+  <meta property="og:title" content="Sumanta Barman, PhD - Immunology Data Scientist">
+  <meta property="og:description" content="Computational immunology scientist with expertise in CNS and systemic autoimmune diseases">
+  <meta property="og:image" content="https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/Image/Background.jpg" alt="Background">
+  <meta property="og:url" content="https://sumanta-barman.github.io/">
+  <meta property="og:type" content="website">
+  
+  <!-- Twitter Card tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Dr. Sumanta Barman - Immunology Data Scientist">
+  <meta name="twitter:description" content="Computational immunology scientist with expertise in CNS and systemic autoimmune diseases">
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/Image/SB.jpg">
+
 
 </head>
 <body>
@@ -1167,6 +1180,82 @@ if (window.location.hash === "#blog4") {
 }
 
 </script> 
+
+<script>
+function updateMetaTags(blogId) {
+  const blogData = {
+    'blog1': {
+      title: 'Fascinating world of human Brain - Dr. Sumanta Barman',
+      description: 'What happens to your brain as you age? Discover how the brain develops and changes throughout life.',
+      image: 'https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/Image/1030_neuron_explainer_feat.jpg',
+      url: 'https://sumanta-barman.github.io/#blog1'
+    },
+    'blog2': {
+      title: 'Stress and Skin Immunity - Dr. Sumanta Barman',
+      description: 'How stress weakens skin immunity and affects your health.',
+      image: 'https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/Image/Mental-Illness.png',
+      url: 'https://sumanta-barman.github.io/#blog2'
+    },
+    'blog3': {
+      title: 'Machine Learning Decodes Immune Secrets - Dr. Sumanta Barman',
+      description: 'Unlocking disease diagnostics with machine learning and immune repertoire sequencing.',
+      image: 'https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/Image/Blog3.png',
+      url: 'https://sumanta-barman.github.io/#blog3'
+    },
+    'blog4': {
+      title: 'Plant-Based Diets Shape a Healthier Gut Microbiome - Dr. Sumanta Barman',
+      description: 'Gut Check: What your diet does to your microbes and overall health.',
+      image: 'https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/Image/gut_health_matters_alt.jpg',
+      url: 'https://sumanta-barman.github.io/#blog4'
+    }
+  };
+
+  if (blogData[blogId]) {
+    const blog = blogData[blogId];
+    
+    // Update Open Graph tags
+    updateMetaTag('property', 'og:title', blog.title);
+    updateMetaTag('property', 'og:description', blog.description);
+    updateMetaTag('property', 'og:image', blog.image);
+    updateMetaTag('property', 'og:url', blog.url);
+    
+    // Update Twitter Card tags
+    updateMetaTag('name', 'twitter:title', blog.title);
+    updateMetaTag('name', 'twitter:description', blog.description);
+    updateMetaTag('name', 'twitter:image', blog.image);
+    
+    // Update page title
+    document.title = blog.title;
+  }
+}
+
+function updateMetaTag(attribute, name, content) {
+  let element = document.querySelector(`meta[${attribute}="${name}"]`);
+  if (!element) {
+    element = document.createElement('meta');
+    element.setAttribute(attribute, name);
+    document.head.appendChild(element);
+  }
+  element.setAttribute('content', content);
+}
+
+// Update meta tags when hash changes
+window.addEventListener('hashchange', function() {
+  const hash = window.location.hash.substring(1);
+  if (hash.startsWith('blog')) {
+    updateMetaTags(hash);
+  }
+});
+
+// Update meta tags on page load if there's a hash
+window.addEventListener('DOMContentLoaded', function() {
+  const hash = window.location.hash.substring(1);
+  if (hash.startsWith('blog')) {
+    updateMetaTags(hash);
+  }
+});
+</script>
+  
  
 </body>
 </html>
