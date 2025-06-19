@@ -1059,10 +1059,8 @@ function showSection(sectionId, subSectionId = null) {
   // Show the main section
   document.getElementById(sectionId).style.display = 'block';
   
-  // Close all dropdowns
-  document.querySelectorAll('.dropdown-content').forEach(function(menu) {
-    menu.style.display = 'none';
-  });
+  // Close mobile menu when any menu item is clicked
+  closeMobileMenu();
   
   // Handle subsection scrolling
   setTimeout(function() {
@@ -1080,18 +1078,30 @@ function showSection(sectionId, subSectionId = null) {
   }, 100);
 }
 
+function toggleMobileMenu() {
+  var menu = document.querySelector('.nav-menu');
+  menu.classList.toggle('open');
+}
+
+function closeMobileMenu() {
+  var menu = document.querySelector('.nav-menu');
+  menu.classList.remove('open');
+  // Also close any open dropdowns
+  document.querySelectorAll('.dropdown-content').forEach(function(dropdown) {
+    dropdown.style.display = 'none';
+  });
+}
+
 // Handle page load with hash detection
 window.addEventListener('DOMContentLoaded', function() {
   var hash = window.location.hash.substring(1);
   
   if (hash) {
-    // Check if it's a subsection (like expertise, education, etc.)
+    // Check if it's a subsection
     const subsectionElement = document.getElementById(hash);
     if (subsectionElement) {
-      // Find which main section contains this subsection
       const parentSection = subsectionElement.closest('.section-content');
       if (parentSection) {
-        // Show the parent section and scroll to subsection
         showSection(parentSection.id, hash);
         return;
       }
@@ -1124,7 +1134,20 @@ window.addEventListener('DOMContentLoaded', function() {
   // Default to home
   showSection('home');
 });
+
+// Close mobile menu when clicking outside
+document.addEventListener('click', function(event) {
+  const navMenu = document.querySelector('.nav-menu');
+  const hamburger = document.querySelector('.nav-toggle');
+  
+  if (navMenu && hamburger) {
+    if (!navMenu.contains(event.target) && !hamburger.contains(event.target)) {
+      closeMobileMenu();
+    }
+  }
+});
 </script>
+
 
 <script>
 function toggleMobileMenu() {
