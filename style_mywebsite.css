@@ -170,6 +170,22 @@
     display: block;
   }
   
+@media (max-width: 600px) {
+  .welcome-text, 
+  .text-justify, 
+  .main-card,
+  .profile-hero-text,
+  .section-content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  /* Additional spacing for main content areas */
+  .main-card {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+  }
+}
 
 
 
