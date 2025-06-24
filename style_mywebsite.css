@@ -171,22 +171,25 @@
   }
   
 @media (max-width: 600px) {
-  .welcome-text, 
-  .text-justify, 
+  .container,
   .main-card,
-  .profile-hero-text,
-  .section-content {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-  
-  /* Additional spacing for main content areas */
-  .main-card {
-    margin-left: 0.5rem;
-    margin-right: 0.5rem;
+  .hero-center-container {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    box-sizing: border-box;
   }
 }
 
+
+@media (max-width: 600px) {
+  #blog .main-card {
+    padding-right: 1.5rem;
+  }
+  
+  .blog-justify {
+    padding-right: 1rem;
+  }
+}
 
 
   .main-card {
