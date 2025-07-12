@@ -489,7 +489,7 @@
 
 /* Mobile responsive images */
 @media (max-width: 600px) {
-  .section-img-small {
+  .section-img-small1 {
     width: 180px; /* Reduced from 250px */
     height: auto;
   }
