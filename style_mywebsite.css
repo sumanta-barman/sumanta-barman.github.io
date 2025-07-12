@@ -483,6 +483,32 @@
     .dropdown-content[style*="block"] {
         display: block !important;
     }
+    
+}
+
+
+/* Mobile responsive images */
+@media (max-width: 600px) {
+  .section-img-small {
+    width: 180px; /* Reduced from 250px */
+    height: auto;
+  }
+  
+  .center-images {
+    gap: 16px; /* Reduced gap for mobile */
+    flex-wrap: wrap; /* Allow wrapping if needed */
+  }
+}
+
+/* For very small screens */
+@media (max-width: 480px) {
+  .section-img-small {
+    width: 150px; /* Even smaller for very small screens */
+  }
+  
+  .center-images {
+    gap: 12px;
+  }
 }
 
   
