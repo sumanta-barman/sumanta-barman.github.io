@@ -1255,6 +1255,47 @@ window.addEventListener('DOMContentLoaded', function() {
     updateMetaTags(hash);
   }
 });
+
+
+
+
+
+
+  function toggleDropdown(event, id) {
+  event.stopPropagation();
+  
+  // Close other dropdowns
+  document.querySelectorAll('.dropdown-content').forEach(function(menu) {
+    if (menu.id !== id) menu.style.display = 'none';
+  });
+  
+  // Toggle current dropdown
+  var menu = document.getElementById(id);
+  menu.style.display = (menu.style.display === 'block') ? 'none' : 'block';
+  
+  // NEW: Open the associated section when dropdown opens
+  if (menu.style.display === 'block') {
+    const sectionId = getSectionIdFromDropdown(id);
+    if (sectionId) {
+      showSection(sectionId);
+    }
+  }
+}
+
+// Helper function to map dropdown IDs to section IDs
+function getSectionIdFromDropdown(dropdownId) {
+  const mapping = {
+    'research-dropdown': 'research',
+    'publications-dropdown': 'publications', 
+    'about-dropdown': 'about',
+    'blog-dropdown': 'blog'
+    // Add more mappings as needed
+  };
+  return mapping[dropdownId];
+}
+
+
+  
 </script>
   
  
