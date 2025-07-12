@@ -1149,7 +1149,7 @@ function toggleBlogCollapse(id) {
   toggle.classList.toggle('open');
   content.classList.toggle('open');
 }
-['blog1','blog2','blog3','blog4'].forEach(function(id){
+['blog1','blog2','blog3','blog4', 'blog5'].forEach(function(id){
   document.getElementById(id+'-toggle').onclick = function() { toggleBlogCollapse(id); };
   if (window.location.hash === "#" + id) {
     document.getElementById(id + '-toggle').classList.add('open');
