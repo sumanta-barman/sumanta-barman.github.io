@@ -169,6 +169,13 @@
     height: auto;
     display: block;
   }
+
+
+  .section-img-small1 {
+    width: 250px;
+    height: auto;
+    display: block;
+  }
   
 @media (max-width: 600px) {
   .welcome-text, 
@@ -493,7 +500,12 @@
     width: 180px; /* Reduced from 250px */
     height: auto;
   }
-  
+
+  .section-img-small {
+    width: 250px; /* Reduced from 250px */
+    height: auto;
+  }
+    
   .center-images {
     gap: 16px; /* Reduced gap for mobile */
     flex-wrap: wrap; /* Allow wrapping if needed */
