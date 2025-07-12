@@ -442,4 +442,47 @@
   }
 }
 
+
+
+
+
+
+/* Active navigation state */
+.nav-menu > li > a.active,
+.nav-menu > li > .dropbtn.active {
+    background: var(--primary-green);
+    color: var(--nav-link-hover);
+}
+
+/* Improved dropdown visibility */
+.dropdown-content.show {
+    display: block;
+}
+
+/* Smooth transitions for dropdowns */
+.dropdown-content {
+    transition: opacity 0.2s ease-in-out;
+    opacity: 0;
+}
+
+.dropdown-content[style*="block"] {
+    opacity: 1;
+}
+
+/* Ensure dropdowns work on mobile */
+@media (max-width: 800px) {
+    .dropdown-content {
+        position: static;
+        box-shadow: none;
+        background: rgba(234, 250, 241, 0.5);
+        margin-left: 1rem;
+        border-radius: 0;
+        opacity: 1; /* Always visible on mobile when shown */
+    }
+    
+    .dropdown-content[style*="block"] {
+        display: block !important;
+    }
+}
+
   
