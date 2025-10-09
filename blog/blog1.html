@@ -35,25 +35,6 @@
     <div class="hero-image-text"><span>Sumanta Barman, PhD</span></div>
   </section>
 
-  <!-- Same navbar styles; links return to main index -->
-  <nav class="navbar">
-    <div class="nav-container">
-      <ul class="nav-menu">
-        <li><a href="../index.html#home">Home</a></li>
-        <li><a href="../index.html#news">News</a></li>
-        <li><a href="../index.html#about-me">About Me</a></li>
-        <li><a href="../index.html#research">Research</a></li>
-        <li><a href="../index.html#blog" class="active">Blog</a></li>
-        <li><a href="../index.html#contact-me">Contact</a></li>
-      </ul>
-      <button class="nav-toggle" aria-label="Open menu" onclick="document.querySelector('.nav-menu').classList.toggle('open')">
-        <span class="nav-toggle-bar"></span>
-        <span class="nav-toggle-bar"></span>
-        <span class="nav-toggle-bar"></span>
-      </button>
-    </div>
-  </nav>
-
   <!-- Post content wrapped in your existing main-card + blog-justify classes -->
   <main class="main-card">
     <div class="blog-justify">
@@ -198,16 +179,6 @@
   </div>
 </div>
 
-<!-- Optional: source/video block preserved exactly like on index -->
-      <div style="margin-bottom:20px">
-        <a href="https://www.youtube.com/watch?v=cMim0uU1yzA" target="_blank" rel="noopener">
-          <img src="https://img.youtube.com/vi/cMim0uU1yzA/hqdefault.jpg" alt="YouTube Video Thumbnail" title="Watch the video" style="max-width:300px;width:100%;height:auto;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.07);" />
-        </a>
-        <div style="margin-top:8px">
-          Source: The Economist<br />
-          <a href="https://www.youtube.com/watch?v=cMim0uU1yzA" target="_blank" rel="noopener">https://www.youtube.com/watch?v=cMim0uU1yzA</a>
-        </div>
-      </div>
 
       <!-- Back link styled like a subtle action -->
       <p><a href="../index.html#blog">← Back to all blog posts</a></p>
@@ -217,7 +188,563 @@
   <footer class="footer">
     <div class="container">© 2025 Sumanta Barman. All Rights Reserved.</div>
   </footer>
+
+<style>
+
+:root {
+    --primary-green: #17633c;
+    --secondary-green: #2e8b57;
+    --accent-green: #eafaf1;
+    --cream: #faf8f5;
+    --card-bg: #fff;
+    --text-dark: #18392b;
+    --text-light: #4b6b57;
+    --nav-bg: #faf8f5;
+    --nav-link: #17633c;
+    --nav-link-hover: #fff;
+    --dropdown-bg: #eafaf1;
+    --dropdown-hover: #c7e8d4;
+    --border-radius: 14px;
+    --box-shadow: 0 2px 16px rgba(23,99,60,0.07);
+  }
+
+  
+  body {
+    font-family: 'Montserrat', Arial, sans-serif;
+    background: var(--cream);
+    color: var(--text-dark);
+    margin: 0;
+    line-height: 1.7;
+  }
+
+  .text-justify {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+  
+  
+  .hero-image-section {
+    position: relative;
+    width: 100%;
+    height: 320px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+  }
+  .hero-bg-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    z-index: 1;
+  }
+  .hero-overlay {
+    position: absolute;
+    top:0; left:0; right:0; bottom:0;
+    background: linear-gradient(120deg, rgba(23,99,60,0.4) 0%, rgba(46,139,87,0.3) 100%);
+    z-index: 2;
+  }
+  .hero-image-text {
+    position: relative;
+    z-index: 3;
+    color: #fff; /* White text */
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+    font-weight: 700;
+    text-shadow: 0 4px 24px rgba(23,99,60,0.28);
+    letter-spacing: 2px;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .navbar {
+    background: var(--nav-bg);
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+    box-shadow: 0 2px 24px rgba(23,99,60,0.12);
+  }
+  .nav-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.2rem 2vw;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  .nav-menu {
+    display: flex;
+    list-style: none;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .nav-menu > li {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 100%;
+  }
+  .nav-menu > li > a,
+  .nav-menu > li > .dropbtn {
+    color: var(--nav-link);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    transition: background 0.2s, color 0.2s;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    box-sizing: border-box;
+  }
+  .nav-menu > li > a:hover,
+  .nav-menu > li > .dropbtn:hover,
+  .nav-menu > li > a:focus,
+  .nav-menu > li > .dropbtn:focus {
+    background: var(--secondary-green);
+    color: var(--nav-link-hover);
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 100%;
+    min-width: 220px;
+    background: var(--dropdown-bg);
+    border-radius: 0 0 10px 10px;
+    box-shadow: 0 8px 24px rgba(23,99,60,0.10);
+    z-index: 10;
+    padding: 0.5rem 0;
+  }
+  .dropdown-content li {
+    width: 100%;
+  }
+  .dropdown-content a {
+    display: block;
+    color: var(--nav-link);
+    padding: 0.7rem 1.2rem;
+    text-decoration: none;
+    font-weight: 500;
+    border-radius: 0;
+    background: none;
+    transition: background 0.2s, color 0.2s;
+  }
+  .dropdown-content a:hover {
+    background: var(--dropdown-hover);
+    color: var(--primary-green);
+  }
+  
+
+  .center-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px; /* space between images */
+    margin: 20px 0;
+  }
+  
+  .section-img-small {
+    width: 250px;
+    height: auto;
+    display: block;
+  }
+
+
+  .section-img-small1 {
+    width: 250px;
+    height: auto;
+    display: block;
+  }
+  
+@media (max-width: 600px) {
+  .welcome-text, 
+  .text-justify, 
+  .main-card,
+  .profile-hero-text,
+  .section-content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  /* Additional spacing for main content areas */
+  .main-card {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+  }
+}
+
+
+
+@media (max-width: 600px) {
+  #blog .main-card {
+    padding-right: 1.5rem;
+  }
+  
+  .blog-justify {
+    padding-right: 1rem;
+  }
+}
+
+
+  .main-card {
+    background: var(--card-bg);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    margin: 2.5rem auto;
+    padding: 2.5rem 2rem;
+    max-width: 900px;
+  }
+  .hero-center-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: none;
+    padding: 0;
+  }
+  .profile-hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 36px;
+  }
+  .profile-pic {
+    width: 130px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    background: var(--card-bg);
+    box-shadow: none; /* Remove border and shadow */
+    border: none;
+  }
+  .profile-hero-text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .profile-name {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.2rem;
+    color: var(--primary-green);
+    margin-bottom: 0.2rem;
+  }
+  .profile-title {
+    color: var(--text-light);
+    font-size: 1.1rem;
+    margin-bottom: 0.7rem;
+  }
+  .profile-social {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  .profile-social img {
+    width: 32px;
+    height: 32px;
+    border-radius: 6px;
+    background: var(--accent-green);
+    padding: 3px;
+    transition: box-shadow 0.2s;
+    border: none;
+  }
+  .profile-social img:hover {
+    box-shadow: 0 0 8px var(--secondary-green);
+  }
+  .welcome-section {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+  .welcome-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    color: var(--primary-green);
+    margin-bottom: 1rem;
+  }
+  .welcome-text {
+    font-size: 1.2rem;
+    color: var(--text-light);
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1.8;
+  }
+  
+  /* Hide all sections by default except .main-card#home */
+  .section-content {
+    display: none;
+  }
+  #home.section-content {
+    display: block;
+  }
+  
+  /* Remove border from all images */
+  img { border: 0; }
+  
+  .footer {
+    background: var(--primary-green);
+    color: var(--nav-link-hover);
+    text-align: center;
+    padding: 1.5rem 0;
+    font-size: 1rem;
+    border-top: 1px solid var(--accent-green);
+  }
+  
+  @media (max-width: 900px) {
+    .profile-hero {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 18px;
+    }
+    .main-card {
+      padding: 1.5rem 0.7rem;
+    }
+  }
+  @media (max-width: 600px) {
+    .navbar, .nav-container {
+      flex-direction: column;
+      align-items: stretch;
+    }
+    .profile-hero {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+    .main-card {
+      padding: 1rem 0.2rem;
+    }
+    .nav-menu {
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+    .hero-image-text {
+      font-size: 1.5rem;
+    }
+  }
+
+
+/* Hamburger icon styles */
+.nav-toggle {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 44px;
+  height: 44px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  margin-left: 1rem;
+  z-index: 200;
+}
+.nav-toggle-bar {
+  width: 28px;
+  height: 3px;
+  background: var(--primary-green);
+  margin: 4px 0;
+  border-radius: 2px;
+  transition: all 0.3s;
+}
+
+/* Hide menu and show hamburger on mobile */
+@media (max-width: 800px) {
+  .nav-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    background: var(--nav-bg);
+    box-shadow: 0 8px 24px rgba(23,99,60,0.10);
+    z-index: 100;
+    padding: 0.5rem 0; 
+    max-height: 80vh;
+    overflow-y: auto;  
+  }
+  .nav-menu.open {
+    display: flex;
+  }
+  .nav-toggle {
+    display: flex;
+  }
+  .nav-container {
+    flex-wrap: nowrap;
+  }
+}
+
+  /* Ensure dropdowns work properly on mobile */
+  .dropdown-content {
+    position: static;
+    box-shadow: none;
+    background: rgba(234, 250, 241, 0.5);
+    margin-left: 1rem;
+    border-radius: 0;
+  }
+  
+  /* spacing between menu items on mobile */
+  .nav-menu > li {
+    margin: 0;
+  }
+  
+  .nav-menu > li > a,
+  .nav-menu > li > .dropbtn {
+    padding: 0.8rem 1.5rem;
+    width: 100%;
+    text-align: left;
+    border-bottom: 1px solid rgba(23,99,60,0.1); /* Add subtle separator */
+  }
+/* Fix profile section alignment on mobile */
+  .profile-hero {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 18px;
+  }
+  
+  .profile-hero-text {
+    align-items: center;
+    text-align: center;
+  }
+  
+  .profile-name, .profile-title {
+    width: 100%;
+    text-align: center;
+  }
+
+}
+
+
+@media (max-width: 600px) {
+  .profile-hero {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .profile-hero-text {
+    align-items: center;
+  }
+  .profile-name, .profile-title {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+
+
+
+
+
+/* Active navigation state */
+.nav-menu > li > a.active,
+.nav-menu > li > .dropbtn.active {
+    background: var(--primary-green);
+    color: var(--nav-link-hover);
+}
+
+/* Improved dropdown visibility */
+.dropdown-content.show {
+    display: block;
+}
+
+/* Smooth transitions for dropdowns */
+.dropdown-content {
+    transition: opacity 0.2s ease-in-out;
+    opacity: 0;
+}
+
+.dropdown-content[style*="block"] {
+    opacity: 1;
+}
+
+/* Ensure dropdowns work on mobile */
+@media (max-width: 800px) {
+    .dropdown-content {
+        position: static;
+        box-shadow: none;
+        background: rgba(234, 250, 241, 0.5);
+        margin-left: 1rem;
+        border-radius: 0;
+        opacity: 1; /* Always visible on mobile when shown */
+    }
+    
+    .dropdown-content[style*="block"] {
+        display: block !important;
+    }
+    
+}
+
+
+/* Mobile responsive images */
+@media (max-width: 600px) {
+  .section-img-small1 {
+    width: 180px; /* Reduced from 250px */
+    height: auto;
+  }
+
+  .section-img-small {
+    width: 250px; /* Reduced from 250px */
+    height: auto;
+  }
+    
+  .center-images {
+    gap: 16px; /* Reduced gap for mobile */
+    flex-wrap: wrap; /* Allow wrapping if needed */
+  }
+}
+
+/* For very small screens */
+@media (max-width: 480px) {
+  .section-img-small {
+    width: 150px; /* Even smaller for very small screens */
+  }
+  
+  .center-images {
+    gap: 12px;
+  }
+}
+
+
+
+
+  /* Blog share button alignment when used inside .collapse */
+.collapse {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.collapse .arrow { margin-right: 7px; transition: transform 0.2s; }
+.collapse.open .arrow { transform: rotate(90deg); }
+
+.share-btn {
+  margin-left: auto;
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: 1px solid var(--secondary-green);
+  background: var(--accent-green);
+  color: var(--primary-green);
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+.share-btn:hover {
+  background: var(--dropdown-hover);
+}
+
+/* Ensure blog content block toggles reliably on small screens */
+.collapse-content { display: none; margin-left: 20px; }
+.collapse-content.open { display: block !important; }
+</script>
 </body>
 </html>
-
-
