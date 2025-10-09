@@ -23,23 +23,44 @@
   <meta name="twitter:description" content="What happens to your brain as you age? Discover how the brain develops and changes throughout life." />
   <meta name="twitter:image" content="https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/Image/1030-neuron-explainer-feat.jpg" />
 
+  <!-- Reuse your exact site styling and fonts -->
   <link rel="stylesheet" href="../stylemywebsite.css" />
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Montserrat:wght@400;600&display=swap" rel="stylesheet" />
 </head>
 <body>
+  <!-- Keep the same hero so the page looks identical -->
+  <section class="hero-image-section">
+    <img src="https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/Image/Background.jpg" alt="Background" class="hero-bg-img" />
+    <div class="hero-overlay"></div>
+    <div class="hero-image-text"><span>Sumanta Barman, PhD</span></div>
+  </section>
+
+  <!-- Same navbar styles; links return to main index -->
   <nav class="navbar">
     <div class="nav-container">
       <ul class="nav-menu">
         <li><a href="../index.html#home">Home</a></li>
-        <li><a href="../index.html#blog">Blog</a></li>
+        <li><a href="../index.html#news">News</a></li>
+        <li><a href="../index.html#about-me">About Me</a></li>
+        <li><a href="../index.html#research">Research</a></li>
+        <li><a href="../index.html#blog" class="active">Blog</a></li>
+        <li><a href="../index.html#contact-me">Contact</a></li>
       </ul>
+      <button class="nav-toggle" aria-label="Open menu" onclick="document.querySelector('.nav-menu').classList.toggle('open')">
+        <span class="nav-toggle-bar"></span>
+        <span class="nav-toggle-bar"></span>
+        <span class="nav-toggle-bar"></span>
+      </button>
     </div>
   </nav>
 
+  <!-- Post content wrapped in your existing main-card + blog-justify classes -->
   <main class="main-card">
-    <h2>What happens to your brain as you age?</h2>
-    <p>Reading time approximately 4 minutes — To read in Bangla, please scroll down</p>
-    <img src="https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/Image/1030-neuron-explainer-feat.jpg" alt="Brain illustration" style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
+    <div class="blog-justify">
+      <h2>What happens to your brain as you age?</h2>
+      <p>Reading time approximately 4 minutes — To read in Bangla, please scroll down</p>
+      <img src="https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/Image/1030-neuron-explainer-feat.jpg" alt="Brain illustration" style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
+
     <!-- Paste the full Blog 1 content from paste.txt here -->
 
     <p>
@@ -176,6 +197,21 @@
     <!-- For brevity, the full text is omitted here, but you can copy-paste it directly from your paste.txt -->
   </div>
 </div>
+
+<!-- Optional: source/video block preserved exactly like on index -->
+      <div style="margin-bottom:20px">
+        <a href="https://www.youtube.com/watch?v=cMim0uU1yzA" target="_blank" rel="noopener">
+          <img src="https://img.youtube.com/vi/cMim0uU1yzA/hqdefault.jpg" alt="YouTube Video Thumbnail" title="Watch the video" style="max-width:300px;width:100%;height:auto;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.07);" />
+        </a>
+        <div style="margin-top:8px">
+          Source: The Economist<br />
+          <a href="https://www.youtube.com/watch?v=cMim0uU1yzA" target="_blank" rel="noopener">https://www.youtube.com/watch?v=cMim0uU1yzA</a>
+        </div>
+      </div>
+
+      <!-- Back link styled like a subtle action -->
+      <p><a href="../index.html#blog">← Back to all blog posts</a></p>
+    </div>    
   </main>
 
   <footer class="footer">
@@ -183,4 +219,5 @@
   </footer>
 </body>
 </html>
+
 
