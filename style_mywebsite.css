@@ -523,4 +523,33 @@
   }
 }
 
-  
+
+
+
+  /* Blog share button alignment when used inside .collapse */
+.collapse {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.collapse .arrow { margin-right: 7px; transition: transform 0.2s; }
+.collapse.open .arrow { transform: rotate(90deg); }
+
+.share-btn {
+  margin-left: auto;
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: 1px solid var(--secondary-green);
+  background: var(--accent-green);
+  color: var(--primary-green);
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+.share-btn:hover {
+  background: var(--dropdown-hover);
+}
+
+/* Ensure blog content block toggles reliably on small screens */
+.collapse-content { display: none; margin-left: 20px; }
+.collapse-content.open { display: block !important; }
+
