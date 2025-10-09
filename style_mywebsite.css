@@ -525,7 +525,7 @@
 
 
 
-
+ /* this part for share button, since not yet finalize, for now not necessary */
   /* Blog share button alignment when used inside .collapse */
 .collapse {
   display: flex;
