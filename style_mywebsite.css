@@ -65,7 +65,7 @@
     text-shadow: 0 4px 24px rgba(23,99,60,0.28);
     letter-spacing: 2px;
     text-align: center;
-    top: 75%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 100%;
@@ -73,7 +73,23 @@
     align-items: center;
     justify-content: center;
   }
+  .hero-text-center {
+  width: 100%;
+  }
 
+  .hero-title {
+  font-size: 0.7em;
+  color: #fff;
+  font-weight: 600;
+  }
+
+  .hero-subtitle {
+  font-size: 0.5em;
+  color: #ececec;
+  font-weight: 400;
+  margin-top: 0.5em;
+  display: inline-block;
+  }   
   .navbar {
     background: var(--nav-bg);
     position: sticky;
@@ -341,6 +357,15 @@
     }
     .hero-image-text {
       font-size: 1.5rem;
+    }
+
+    .hero-title {
+    font-size: 1.3em;
+    }
+    .hero-subtitle {
+    font-size: 0.92em;
+    padding-left: 5px;
+    padding-right: 5px;
     }
   }
 
