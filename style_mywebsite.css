@@ -65,12 +65,15 @@
     text-shadow: 0 4px 24px rgba(23,99,60,0.28);
     letter-spacing: 2px;
     text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  
+
   .navbar {
     background: var(--nav-bg);
     position: sticky;
