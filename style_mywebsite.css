@@ -56,7 +56,7 @@
     z-index: 2;
   }
   .hero-image-text {
-    position: relative;
+    position: absolute;
     z-index: 3;
     color: #fff; /* White text */
     font-family: 'Playfair Display', serif;
@@ -65,7 +65,7 @@
     text-shadow: 0 4px 24px rgba(23,99,60,0.28);
     letter-spacing: 2px;
     text-align: center;
-    top: 50%;
+    top: 25%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 100%;
