@@ -51,6 +51,7 @@
         <li><a href="#" onclick="showSection('news')">News</a></li>
          <li><a href="#" onclick="showSection('about-me')">About Me</a></li>
         <li><a href="#" onclick="showSection('research')">Research</a></li>
+        <li><a href="#" onclick="showSection('resources')">Resources</a></li>
 
 
          <!-- 
@@ -1849,6 +1850,368 @@ function toggleBlogCollapse(id) {
   </style>
     <!-- Insert your blog entries from paste.txt here -->
   </main>
+
+
+<!-- ============================================================
+  STEP 2: Paste this entire <main> block after your other sections
+  ============================================================ -->
+
+<main id="resources" class="main-card section-content" style="display:none;">
+  <h2 id="resources">Resources</h2>
+  <div class="text-justify">
+    A curated collection of bioinformatics tools, review papers, machine learning resources,
+    and databases for T/B cell receptor sequencing (T/BCR-seq) and multi-omics analysis.
+  </div>
+
+  <!-- ─── TUTORIALS & GETTING STARTED ─── -->
+  <h3 id="res-tutorials">Tutorials &amp; Getting Started</h3>
+  <ul>
+    <li>
+      <a href="https://www.nature.com/articles/s41592-021-01129-z" target="_blank" rel="noopener noreferrer">
+        Adaptive immune receptor repertoire analysis
+      </a> — Nature Methods review on AIRR analysis workflows
+    </li>
+    <li>
+      <a href="https://www.nature.com/articles/s41592-021-01227-y" target="_blank" rel="noopener noreferrer">
+        Single-cell immune repertoire analysis
+      </a> — Nature Methods
+    </li>
+    <li>
+      <a href="https://repseq-tutorial.readthedocs.io/en/latest/prerequisites.html" target="_blank" rel="noopener noreferrer">
+        RepSeq Tutorial
+      </a> — Prerequisites and hands-on guide to repertoire sequencing analysis
+    </li>
+    <li>
+      <a href="https://immcantation.readthedocs.io/en/stable/tutorials/10x_tutorial.html" target="_blank" rel="noopener noreferrer">
+        Immcantation Portal — 10x scBCR Tutorial
+      </a> — Docker-based BCR analysis pipeline for 10x Genomics data
+    </li>
+    <li>
+      <a href="https://scirpy.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer">
+        scirpy Getting Started
+      </a> — Case study re-analysing 140k T cells (Wu et al. 2020)
+    </li>
+    <li>
+      <a href="https://www.nature.com/articles/s41588-022-01014-z" target="_blank" rel="noopener noreferrer">
+        Tutorial: A statistical genetics guide to identifying HLA alleles driving complex disease
+      </a>
+    </li>
+  </ul>
+
+  <!-- ─── REVIEW PAPERS ─── -->
+  <h3 id="res-papers">Review Papers &amp; Key Publications</h3>
+  <ul>
+    <li>
+      <a href="https://www.cell.com/trends/immunology/fulltext/S1471-4906(22)00157-6" target="_blank" rel="noopener noreferrer">
+        Can we predict T cell specificity with digital biology and machine learning?
+      </a>
+    </li>
+    <li>
+      <a href="https://www.nature.com/articles/s41576-021-00348-w" target="_blank" rel="noopener noreferrer">
+        High-throughput and single-cell T cell receptor sequencing technologies
+      </a> — Nature Reviews Genetics
+    </li>
+    <li>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/33782622/" target="_blank" rel="noopener noreferrer">
+        Disease diagnostics using machine learning of immune receptors
+      </a>
+    </li>
+    <li>
+      <a href="https://www.nature.com/articles/nrg3227" target="_blank" rel="noopener noreferrer">
+        Rep-Seq: uncovering the immunological repertoire through next-generation sequencing
+      </a> — Nature Reviews Genetics
+    </li>
+    <li>
+      <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2021.735945/full" target="_blank" rel="noopener noreferrer">
+        Single Cell T Cell Receptor Sequencing: Techniques and Future Challenges
+      </a> — Frontiers in Immunology
+    </li>
+    <li>
+      <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2019.00413/full" target="_blank" rel="noopener noreferrer">
+        T-cell repertoire analysis and metrics of diversity and clonality
+      </a> — Frontiers in Immunology
+    </li>
+    <li>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/29211713/" target="_blank" rel="noopener noreferrer">
+        A clonotype nomenclature for T cell receptors
+      </a>
+    </li>
+    <li>
+      <a href="https://www.nature.com/articles/s41592-022-01488-3" target="_blank" rel="noopener noreferrer">
+        T Cell Clonal Analysis Using Single-cell RNA Sequencing and Reference Maps
+      </a> — Nature Methods
+    </li>
+    <li>
+      <a href="https://www.nature.com/articles/s41551-021-00772-3" target="_blank" rel="noopener noreferrer">
+        De novo prediction of cancer-associated T cell receptors for noninvasive cancer detection
+      </a> — Nature Biomedical Engineering
+    </li>
+    <li>
+      <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2021.779972/full" target="_blank" rel="noopener noreferrer">
+        TCR-engineered T cell therapy in solid tumors: State of the art and perspectives
+      </a> — Frontiers in Immunology
+    </li>
+    <li>
+      <a href="https://academic.oup.com/bib/article/26/1/bbae602/7906917" target="_blank" rel="noopener noreferrer">
+        tcrBLOSUM: an amino acid substitution matrix for sensitive alignment of distant epitope-specific TCRs
+      </a> — Briefings in Bioinformatics
+    </li>
+    <li>
+      <a href="https://www.nature.com/articles/s41590-021-01084-4" target="_blank" rel="noopener noreferrer">
+        TCR-Vγδ usage distinguishes protumor from antitumor intestinal γδ T cell subsets
+      </a> — Nature Immunology
+    </li>
+  </ul>
+
+  <!-- ─── T/BCR-SEQ ANALYSIS TOOLS ─── -->
+  <h3 id="res-tools">T/BCR-seq Analysis Tools</h3>
+  <ul>
+    <li>
+      <a href="https://github.com/zktuong/dandelion" target="_blank" rel="noopener noreferrer"><b>Dandelion</b></a>
+      — Python package for single-cell BCR/TCR data from 10x Genomics 5' solution
+    </li>
+    <li>
+      <a href="https://github.com/mourisl/TRUST4" target="_blank" rel="noopener noreferrer"><b>TRUST4</b></a>
+      — Extracts TCR/BCR from bulk RNA-seq or 5' scRNA-seq
+    </li>
+    <li>
+      <a href="https://github.com/milpore/compairr" target="_blank" rel="noopener noreferrer"><b>CompAIRR</b></a>
+      — ~1000× speedup for overlapping AIRR repertoires across 10,000+ samples
+    </li>
+    <li>
+      <a href="https://github.com/svalkiers/clusTCR" target="_blank" rel="noopener noreferrer"><b>ClusTCR</b></a>
+      — Python interface for rapid clustering of large CDR3 sequence sets
+    </li>
+    <li>
+      <a href="https://github.com/repseqio/pyrepseq" target="_blank" rel="noopener noreferrer"><b>Pyrepseq</b></a>
+      — Lightning-fast immune repertoire toolkit; 1 million TCR sequences in ~1 second
+    </li>
+    <li>
+      <a href="https://github.com/immunoengineer/gliph" target="_blank" rel="noopener noreferrer"><b>GLIPH2</b></a>
+      — Grouping of lymphocyte interactions by paratope hotspots
+    </li>
+    <li>
+      <a href="https://github.com/s175573/GIANA" target="_blank" rel="noopener noreferrer"><b>GIANA</b></a>
+      — Computationally efficient TCR clustering and multi-disease repertoire classification
+    </li>
+    <li>
+      <a href="https://github.com/kmayerb/tcrdist3" target="_blank" rel="noopener noreferrer"><b>tcrdist3</b></a>
+      — Python API toolkit for computing TCR distance and motif analysis
+    </li>
+    <li>
+      <a href="https://github.com/scirpy-team/scirpy" target="_blank" rel="noopener noreferrer"><b>scirpy</b></a>
+      — Scanpy extension for single-cell TCR/BCR analysis (Python)
+    </li>
+    <li>
+      <a href="https://github.com/ncborcherding/scRepertoire" target="_blank" rel="noopener noreferrer"><b>scRepertoire</b></a>
+      — R/Bioconductor package for integrating immune repertoires with scRNA-seq
+    </li>
+    <li>
+      <a href="https://github.com/immunarch/immunarch" target="_blank" rel="noopener noreferrer"><b>immunarch</b></a>
+      — R package for fast and easy immune repertoire analysis and visualization
+    </li>
+    <li>
+      <a href="https://github.com/mikessh/vdjtools" target="_blank" rel="noopener noreferrer"><b>VDJTools</b></a>
+      — Post-analysis framework for immune repertoire data
+    </li>
+    <li>
+      <a href="https://github.com/milaboratory/mixcr" target="_blank" rel="noopener noreferrer"><b>MiXCR</b></a>
+      — Universal software for fast and accurate T/B cell receptor repertoire analysis
+    </li>
+    <li>
+      <a href="https://github.com/mikessh/migec" target="_blank" rel="noopener noreferrer"><b>MIGEC</b></a>
+      — RepSeq processing toolkit with UMI-based error correction
+    </li>
+    <li>
+      <a href="https://github.com/Mangul-Lab-USC/imrep" target="_blank" rel="noopener noreferrer"><b>ImReP</b></a>
+      — Rapid adaptive immune repertoire profiling from regular RNA-seq data
+    </li>
+    <li>
+      <a href="https://github.com/10XGenomics/enclone" target="_blank" rel="noopener noreferrer"><b>enclone</b></a>
+      — 10x Genomics tool for precise clonotyping of TCR and BCR sequences
+    </li>
+    <li>
+      <a href="https://github.com/caleblareau/CellaRepertorium" target="_blank" rel="noopener noreferrer"><b>CellaRepertorium</b></a>
+      — R/Bioconductor package for single-cell immune repertoire analysis
+    </li>
+    <li>
+      <a href="https://github.com/ncborcherding/Tessa" target="_blank" rel="noopener noreferrer"><b>Tessa</b></a>
+      — Bayesian model integrating TCR sequences with T cell transcriptomes
+    </li>
+    <li>
+      <a href="https://github.com/ncborcherding/CoNGA" target="_blank" rel="noopener noreferrer"><b>CoNGA</b></a>
+      — Clonotype neighbor graph analysis integrating TCR sequences and transcriptional profiles
+    </li>
+    <li>
+      <a href="https://github.com/Benjamin-Lee/Echidna" target="_blank" rel="noopener noreferrer"><b>Echidna</b></a>
+      — Integrated simulation of single-cell immune receptor repertoires and transcriptomes
+    </li>
+    <li>
+      <a href="https://github.com/s175573/T1K" target="_blank" rel="noopener noreferrer"><b>T1K</b></a>
+      — Efficient and accurate KIR and HLA genotyping from massively parallel sequencing
+    </li>
+    <li>
+      <a href="https://github.com/cran/tcR" target="_blank" rel="noopener noreferrer"><b>tcR</b></a>
+      — R package for advanced T cell receptor repertoire data analysis
+    </li>
+  </ul>
+
+  <!-- ─── MACHINE LEARNING & DEEP LEARNING ─── -->
+  <h3 id="res-ml">Machine Learning &amp; Deep Learning Tools</h3>
+  <ul>
+    <li>
+      <a href="https://www.nature.com/articles/s43588-024-00653-0" target="_blank" rel="noopener noreferrer"><b>TCRen</b></a>
+      — Structure-based prediction of TCR recognition of unseen epitopes
+    </li>
+    <li>
+      <a href="https://github.com/phiweger/DeepTCR" target="_blank" rel="noopener noreferrer"><b>DeepTCR</b></a>
+      — Deep learning methods for parsing TCR sequencing data (Science Advances)
+    </li>
+    <li>
+      <a href="https://github.com/josteinbf/DeepAIR" target="_blank" rel="noopener noreferrer"><b>DeepAIR</b></a>
+      — Deep learning framework integrating sequence and 3D structure for immune receptor analysis
+    </li>
+    <li>
+      <a href="https://github.com/nec-research/STAPLER" target="_blank" rel="noopener noreferrer"><b>STAPLER</b></a>
+      — Efficient learning of TCR–peptide specificity from full-length TCR data
+    </li>
+    <li>
+      <a href="https://github.com/bittremieux/TCRex" target="_blank" rel="noopener noreferrer"><b>TCRex</b></a>
+      — Web tool for prediction of TCR–epitope recognition
+    </li>
+    <li>
+      <a href="https://github.com/pmoris/ImRex" target="_blank" rel="noopener noreferrer"><b>ImRex</b></a>
+      — TCR–epitope recognition via CNN with combined sequence input representation
+    </li>
+    <li>
+      <a href="https://services.healthtech.dtu.dk/service.php?NetTCR-2.0" target="_blank" rel="noopener noreferrer"><b>NetTCR-2.0</b></a>
+      — Sequence-based prediction of peptide–TCR binding (DTU Health Tech)
+    </li>
+    <li>
+      <a href="https://github.com/s175573/TcellMatch" target="_blank" rel="noopener noreferrer"><b>TcellMatch</b></a>
+      — Predicting T cell to epitope specificity using CDR3 sequences and RNA counts
+    </li>
+    <li>
+      <a href="https://github.com/soskic/GraphMHC" target="_blank" rel="noopener noreferrer"><b>GraphMHC</b></a>
+      — Graph neural network + CNN for neoantigen/MHC binding prediction
+    </li>
+    <li>
+      <a href="https://github.com/steineggerlab/colabfold" target="_blank" rel="noopener noreferrer"><b>ColabFold</b></a>
+      — Accessible protein structure prediction using AlphaFold2 and RoseTTAFold
+    </li>
+    <li>
+      <a href="https://github.com/facebookresearch/esm" target="_blank" rel="noopener noreferrer"><b>ESMFold / ESM-2</b></a>
+      — Meta AI protein language model for atomic-level structure prediction
+    </li>
+    <li>
+      <a href="https://github.com/deepmind/alphafold" target="_blank" rel="noopener noreferrer"><b>AlphaFold2</b></a>
+      — DeepMind's landmark protein structure prediction model
+    </li>
+    <li>
+      <a href="https://github.com/dptech-corp/Uni-Fold" target="_blank" rel="noopener noreferrer"><b>Uni-Fold</b></a>
+      — Open-source protein structure prediction beyond AlphaFold
+    </li>
+  </ul>
+
+  <!-- ─── DATABASES ─── -->
+  <h3 id="res-databases">Databases &amp; Repositories</h3>
+  <ul>
+    <li>
+      <a href="https://www.ebi.ac.uk/ipd/imgt/hla/" target="_blank" rel="noopener noreferrer"><b>IPD-IMGT/HLA Database</b></a>
+      — Official WHO-curated HLA sequence database; part of the IMGT project
+    </li>
+    <li>
+      <a href="https://vdjdb.cdr3.net/" target="_blank" rel="noopener noreferrer"><b>VDJdb</b></a>
+      — Curated database of T-cell receptor sequences with known antigen specificity
+    </li>
+    <li>
+      <a href="http://tcr.bu.edu/mcpas-tcr/" target="_blank" rel="noopener noreferrer"><b>McPAS-TCR</b></a>
+      — Manually curated catalogue of pathology-associated TCR sequences
+    </li>
+    <li>
+      <a href="https://bioinfo.life.hust.edu.cn/TCRdb/" target="_blank" rel="noopener noreferrer"><b>TCRdb</b></a>
+      — Comprehensive database of human TCR sequences
+    </li>
+    <li>
+      <a href="https://opig.stats.ox.ac.uk/webapps/ots/" target="_blank" rel="noopener noreferrer"><b>Observed TCR Space (OTS)</b></a>
+      — 5.33M redundant / 1.63M non-redundant α/β TCR sequences from 50 studies (Oxford OPIG)
+    </li>
+    <li>
+      <a href="https://opig.stats.ox.ac.uk/webapps/oas/documentation/" target="_blank" rel="noopener noreferrer"><b>Observed Antibody Space (OAS)</b></a>
+      — Large repository of antibody sequences for structural and repertoire studies
+    </li>
+    <li>
+      <a href="https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab" target="_blank" rel="noopener noreferrer"><b>SAbDab</b></a>
+      — All antibody structures deposited in the PDB, consistently annotated (Oxford OPIG)
+    </li>
+    <li>
+      <a href="https://gateway.ireceptor.org/" target="_blank" rel="noopener noreferrer"><b>iReceptor Gateway</b></a>
+      — Discovery, analysis and download of AIRR-seq data across the AIRR Data Commons
+    </li>
+    <li>
+      <a href="https://www.biorxiv.org/content/10.1101/2024.11.20.624436v1" target="_blank" rel="noopener noreferrer"><b>TRAIT</b></a>
+      — Comprehensive database for TCR–antigen interactions (~7 million pairs)
+    </li>
+    <li>
+      <a href="https://github.com/immunogenomics/hlabud" target="_blank" rel="noopener noreferrer"><b>hlabud</b></a>
+      — R package to retrieve IMGT/HLA alignment data as analysis-ready matrices
+    </li>
+    <li>
+      <a href="https://github.com/jlangoncais/Stitchr" target="_blank" rel="noopener noreferrer"><b>Stitchr</b></a>
+      — Stitches coding TCR nucleotide sequences from V/J/CDR3 information
+    </li>
+    <li>
+      <a href="https://immunonavigator.com/" target="_blank" rel="noopener noreferrer"><b>Immuno-Navigator</b></a>
+      — Database for gene co-expression in the immune system
+    </li>
+  </ul>
+
+  <!-- ─── MULTI-OMICS INTEGRATION ─── -->
+  <h3 id="res-multiomics">Multi-Omics Integration Tools</h3>
+  <ul>
+    <li>
+      <a href="https://github.com/immunedynamics/spectre" target="_blank" rel="noopener noreferrer"><b>Spectre</b></a>
+      — R package for high-dimensional cytometry and multi-omics data integration
+    </li>
+    <li>
+      <a href="https://satijalab.org/seurat/" target="_blank" rel="noopener noreferrer"><b>Seurat</b></a>
+      — Leading R toolkit for single-cell multi-modal data analysis and integration
+    </li>
+    <li>
+      <a href="https://scverse.org/scanpy/" target="_blank" rel="noopener noreferrer"><b>Scanpy</b></a>
+      — Scalable Python toolkit for single-cell gene expression analysis
+    </li>
+    <li>
+      <a href="https://github.com/theislab/muon" target="_blank" rel="noopener noreferrer"><b>muon</b></a>
+      — Multi-modal omics framework built on AnnData; bridges CITE-seq, ATAC, and RNA modalities
+    </li>
+    <li>
+      <a href="https://github.com/sqjin/CellChat" target="_blank" rel="noopener noreferrer"><b>CellChat</b></a>
+      — Inference and analysis of cell-cell communication from scRNA-seq data
+    </li>
+    <li>
+      <a href="https://github.com/saeyslab/nichenetr" target="_blank" rel="noopener noreferrer"><b>NicheNet</b></a>
+      — Modeling intercellular communication by linking ligands to target genes
+    </li>
+    <li>
+      <a href="https://github.com/cole-trapnell-lab/monocle3" target="_blank" rel="noopener noreferrer"><b>Monocle 3</b></a>
+      — Trajectory inference and pseudotime analysis for single-cell transcriptomics
+    </li>
+    <li>
+      <a href="https://github.com/stuart-lab/signac" target="_blank" rel="noopener noreferrer"><b>Signac</b></a>
+      — R toolkit for single-cell chromatin accessibility analysis (scATAC-seq)
+    </li>
+    <li>
+      <a href="https://www.10xgenomics.com/products/single-cell-immune-profiling" target="_blank" rel="noopener noreferrer"><b>10x Genomics 5' Immune Profiling</b></a>
+      — Simultaneous V(D)J, gene expression, and surface protein profiling
+    </li>
+  </ul>
+
+</main>
+<!-- END RESOURCES SECTION -->
+
+
+        
 
   <!-- CONTACT SECTION -->
   <main id="contact-me" class="main-card section-content" style="display:none;">
