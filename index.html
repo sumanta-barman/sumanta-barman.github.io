@@ -2437,7 +2437,8 @@ function showSection(sectionId, subSectionId = null, updateHash = true) {
   target.style.display = 'block';
 
   if (updateHash) {
-    history.replaceState(null, '', '#' + sectionId);
+    //history.replaceState(null, '', '#' + sectionId);
+    sessionStorage.setItem('activeSection', sectionId);
   }
 
   closeMobileMenu();
@@ -2558,45 +2559,31 @@ window.addEventListener('hashchange', function() {
 
 // ── SINGLE PAGE-LOAD HANDLER ──────────────────────────────────────
 window.addEventListener('DOMContentLoaded', function() {
+  var savedSection = sessionStorage.getItem('activeSection');
   var hash = window.location.hash.replace('#', '').trim();
 
-  if (hash) {
-    // 1. Blog post?
-    if (hash.startsWith('blog')) {
-      updateMetaTags(hash);
-      showSection('blog', null, false);
-      setTimeout(function() {
-        var blogToggle  = document.getElementById(hash + '-toggle');
-        var blogContent = document.getElementById(hash + '-content');
-        if (blogToggle && blogContent) {
-          blogToggle.classList.add('open');
-          blogContent.classList.add('open');
-          blogContent.style.display = 'block';
-          blogToggle.scrollIntoView({ behavior: 'smooth' });
-        }
-      }, 100);
-      return;
-    }
+  var sectionToShow = hash || savedSection || 'home';
 
-    // 2. Main section?
-    const mainSection = document.getElementById(hash);
-    if (mainSection && mainSection.classList.contains('section-content')) {
-      showSection(hash, null, false);
-      return;
-    }
-
-    // 3. Subsection inside a section?
-    if (mainSection) {
-      const parentSection = mainSection.closest('.section-content');
-      if (parentSection) {
-        showSection(parentSection.id, hash, false);
-        return;
+  if (sectionToShow.startsWith('blog')) {
+    showSection('blog', null, false);
+    setTimeout(function() {
+      var blogToggle  = document.getElementById(sectionToShow + '-toggle');
+      var blogContent = document.getElementById(sectionToShow + '-content');
+      if (blogToggle && blogContent) {
+        blogToggle.classList.add('open');
+        blogContent.classList.add('open');
+        blogContent.style.display = 'block';
+        blogToggle.scrollIntoView({ behavior: 'smooth' });
       }
+    }, 100);
+  } else {
+    var target = document.getElementById(sectionToShow);
+    if (target && target.classList.contains('section-content')) {
+      showSection(sectionToShow, null, false);
+    } else {
+      showSection('home', null, false);
     }
   }
-
-  // Default
-  showSection('home', null, false);
 });
 </script>
   
