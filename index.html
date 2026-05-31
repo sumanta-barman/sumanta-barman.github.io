@@ -2399,7 +2399,8 @@ function showSection(sectionId, subSectionId = null) {
   document.getElementById(sectionId).style.display = 'block';
 
   // Save current section in URL hash
-  window.location.hash = sectionId;
+  // window.location.hash = sectionId;
+  history.replaceState(null, '', '#' + sectionId);
   
   // Close mobile menu when any menu item is clicked
   closeMobileMenu();
