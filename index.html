@@ -1824,6 +1824,194 @@
     </p>
   </div>
 </div>
+
+
+
+ <!-- Blog 9 -->
+
+<div class="collapse" id="blog9-toggle">
+  <span class="arrow">►</span>
+  <b>Blog 9: Is AI Eating Its Own Tail? Model Collapse and the Future of Generative Systems</b>&nbsp;&nbsp;&nbsp;(click to read more)
+</div>
+
+<div class="collapse-content" id="blog9-content">
+  <div class="blog-justify">
+    <h2>Model Collapse: When Generative AI Trains on Itself</h2>
+    <p>Reading time: approximately 10–12 minutes (বাংলায় পড়তে নিচে স্ক্রল করুন)</p>
+
+    <img src="https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/Image/blog9.jpg"
+         alt="Why eat plant foods"
+         style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
+
+    <p>Model collapse refers to a degenerative learning process in which models start forgetting improbable events over time, as the model becomes poisoned with its own projection of reality</p>
+
+    <h3>What Is Model Collapse?</h3>
+    <p>
+      As generative models like large language models (LLMs), GANs, VAEs and diffusion models spread across the internet, more and more of the data they will be trained on in the future is itself AI‑generated. [web:93][web:98]
+      <b>Model collapse</b> is the phenomenon that occurs when new models are trained on this synthetic content and gradually lose the ability to represent the true diversity of the original, human world.
+    </p>
+    <p>
+      A 2024 study in <i>Nature</i>, titled “AI models collapse when trained on recursively generated data,” shows that when generative models repeatedly train on data produced by earlier models, they progressively forget rare but important patterns and converge onto a narrow set of high‑probability modes. [web:93][web:100]
+      Over generations, outputs become more homogeneous, blurrier, and less accurate, even under idealized assumptions about learning. [web:93]
+    </p>
+
+    <h3>How Collapse Happens Across LLMs, GANs, VAEs and Other Models</h3>
+    <p>
+      Model collapse has been demonstrated across several different generative architectures. In the Nature study, researchers repeatedly trained three types of models on their own outputs: Gaussian mixture models (GMMs), variational autoencoders (VAEs), and a transformer‑based LLM. [web:93][web:98]
+    </p>
+    <p>
+      For the VAE, synthetic training led digit images to become progressively blurred until different classes were almost indistinguishable; for the GMM, the mixture distribution lost its separate clusters; and for the LLM, outputs drifted from coherent answers to irrelevant text as generations progressed. [web:93][web:98]
+      This shows that collapse is not just “modal collapse” in GANs—where a generator produces only a few modes—but a broader problem whenever synthetic data recursively replaces real data. [web:92][web:98]
+    </p>
+
+    <h3>Why Human-Generated Data Matters</h3>
+    <p>
+      Generative models ultimately learn patterns from the data we give them. If we feed them mostly AI‑generated text and images, they learn from an increasingly distorted reflection of reality. [web:94][web:98]
+      Studies have shown that training only on synthetic data causes a model to overestimate common patterns and underestimate rare events—the “tails” of the distribution that contain much of the nuance, minority cases, and edge conditions. [web:93][web:98][web:99]
+    </p>
+    <p>
+      IBM’s analysis points out that this can create large‑scale <b>data pollution</b>: internet content becomes saturated with low‑value synthetic text, making genuine human data harder to find and more valuable. [web:94][web:98]
+      Organizations that hold large archives of pre‑AI human data—books, news, scientific articles, historical web snapshots—will have a strategic advantage in building future models that stay connected to reality. [web:94][web:98][web:106]
+    </p>
+
+    <h3>Short-Term vs. Long-Term Impacts on Generative Models</h3>
+    <p>
+      In the short term, moderate use of synthetic data can help scale training and provide additional supervision signals, especially when carefully filtered and mixed with high‑quality human datasets. [web:93][web:100]
+      Some experiments show that small fractions of verified synthetic data do not immediately destroy performance and can even help fill gaps, for example by balancing class distributions. [web:93][web:105]
+    </p>
+    <p>
+      However, the Nature study and follow‑up analyses suggest that strong model collapse can arise even when synthetic data is a minority of the training set, especially for very large models. [web:93][web:99][web:100]
+      Over time, repeated training cycles on polluted data can break scaling laws, reduce diversity, and lock future models into narrow, self‑referential representations that no longer reflect the real world. [web:93][web:98][web:101]
+    </p>
+
+    <h3>How Companies Are Trying to Prevent Collapse</h3>
+    <p>
+      Major AI labs, cloud providers, and data platforms are beginning to take model collapse seriously and are experimenting with several mitigation strategies. [web:94][web:99][web:101]
+      IBM and others highlight three broad lines of defense:
+    </p>
+    <ul>
+      <li><b>Data provenance and filtering:</b> tracking the origin of training data, separating human‑generated content from synthetic content, and aggressively filtering out low‑quality or recursively generated samples. [web:94][web:98][web:99]</li>
+      <li><b>Human data “reserves”:</b> preserving large pre‑2023 corpora and negotiating direct access to curated human datasets (news archives, scientific literature, books, human‑moderated platforms) to keep future models anchored in real distributions. [web:94][web:98][web:106]</li>
+      <li><b>Verified synthetic data:</b> generating synthetic examples with strong constraints or human oversight (for example, labelling, adversarial review, or ground-truth checks) so that synthetic data acts as a controlled augmentation rather than an uncontrolled feedback loop. [web:93][web:99][web:105]</li>
+    </ul>
+    <p>
+      Researchers are also exploring community‑wide coordination to share information about training sets and avoid accidental contamination—essentially, a kind of “nutrition label” for datasets and models that reveals how much synthetic content is inside. [web:98][web:99][web:106]
+    </p>
+
+    <h3>Are These Approaches Realistic?</h3>
+    <p>
+      In principle, provenance tracking, human data curation, and careful synthetic data design can slow or prevent collapse. In practice, there are serious challenges. The web is vast and becoming increasingly saturated with AI‑generated content, and there is currently no universal, reliable way to detect all LLM-generated text or synthetic images at scale. [web:94][web:98][web:101]
+    </p>
+    <p>
+      Economically, acquiring and maintaining large clean human datasets is expensive, and incentives may push smaller companies toward heavy reliance on synthetic data because it is cheap and easy to generate. [web:94][web:99]
+      Legal and ethical constraints around scraping, copyright, and privacy further limit access to high‑quality human corpora. This means that, without strong coordination or regulation, some actors will continue to train on polluted data, contributing to the very collapse the field is trying to avoid. [web:94][web:98][web:106]
+    </p>
+
+    <h3>What Could Model Collapse Mean for the Future of Generative AI?</h3>
+    <p>
+      If model collapse is not managed, the long‑term future of generative AI could become a kind of “hall of mirrors,” where models increasingly imitate each other rather than the world. Outputs may remain fluent and visually appealing, but the underlying diversity, accuracy, and grounding in reality could erode. [web:93][web:98][web:104]
+    </p>
+    <p>
+      This has implications far beyond chatbots and image generators. Collapsing models could misrepresent rare diseases in medical data, fail to capture minority dialects or cultures in language models, and distort financial or scientific predictions by oversampling common scenarios and ignoring the tails. [web:93][web:99][web:106]
+      In the worst case, poorly grounded models deployed at scale could amplify misinformation, bias and systemic error, while becoming harder and harder to correct because their training data is recursively contaminated. [web:94][web:98][web:99]
+    </p>
+
+    <h3>Why Human Creativity and Organic Text Still Matter</h3>
+    <p>
+      One of the key messages from both the Nature paper and industry analyses is that future AI performance depends critically on continued access to <b>organic, human‑generated data</b>. [web:93][web:94][web:98]
+      Human writing, conversation, art, and scientific work provide the rich, messy, long‑tailed distributions that give generative models their depth and robustness.
+    </p>
+    <p>
+      As synthetic content floods social media, blogs, and even academic venues, human‑authored text may become a scarce resource, with value not only for culture but for the integrity of our AI systems. [web:94][web:98][web:106]
+      Some legal scholars have begun to discuss a “right to uncontaminated human data,” arguing that societies may need to protect spaces where human communication is preserved for future training. [web:106]
+    </p>
+    <p>
+      In that sense, the future of AI and the future of human creativity are intertwined. If we stop investing in human knowledge production, or if we allow synthetic content to drown out real experiences, we risk building generations of models that are fluent but hollow—powerful mirrors that gradually forget what they were meant to reflect. [web:93][web:94][web:99]
+    </p>
+
+    <h4>Source</h4>
+    <p>
+      This blog is based on the Nature paper <em>“AI models collapse when trained on recursively generated data”</em>, IBM’s analysis of model collapse, and recent technical and popular discussions of synthetic data feedback loops in generative AI. [web:93][web:94][web:98][web:100][web:99][web:101]
+    </p>
+
+    <!-- Bangla translation -->
+    <hr style="margin:40px 0 30px 0;">
+    <h3 style="color:#1a237e;">বাংলা অনুবাদ (এআই ব্যবহার করে)</h3>
+
+    <h2>মডেল কল্যাপ্স: যখন এআই নিজের তৈরি ডেটাই খেয়ে ফেলে</h2>
+
+    <h3>মডেল কল্যাপ্স কী?</h3>
+    <p>
+      বড় ভাষা মডেল (LLM), GAN, VAE, ডিফিউশন মডেলের মতো জেনারেটিভ এআই এখন ইন্টারনেট জুড়ে লেখা, ছবি ও অডিও তৈরি করছে। ভবিষ্যতে নতুন মডেলগুলোর ট্রেনিং–ডেটার বড় অংশই এআই–তৈরি কনটেন্ট হতে পারে। [web:93][web:94][web:98]
+      <b>মডেল কল্যাপ্স</b> হচ্ছে সেই পরিস্থিতি, যখন এই ধরনের সিনথেটিক ডেটার ওপর বারবার ট্রেনিং করতে করতে মডেল আসল মানব–জগতের বৈচিত্র্য ও বাস্তবতা ধীরে ধীরে হারিয়ে ফেলে।
+    </p>
+    <p>
+      ২০২৪ সালে <i>Nature</i>–এ প্রকাশিত “AI models collapse when trained on recursively generated data” শীর্ষক কাজটি দেখায়, পুরনো জেনারেটিভ মডেলের আউটপুট দিয়ে নতুন মডেলকে বারবার ট্রেনিং দিলে ধীরে ধীরে বিরল কিন্তু গুরুত্বপূর্ণ প্যাটার্নগুলো সম্পূর্ণ হারিয়ে যায়, এবং মডেল কয়েকটি উচ্চ–প্রবণতার মোডে আটকে যায়। [web:93][web:100]
+      অনেক জেনারেশন পরে আউটপুটগুলো এক নিয়মে গড়া, কম বৈচিত্র্যময় ও কম নির্ভুল হয়ে যায়—even যদি শেখার শর্তগুলো তাত্ত্বিকভাবে আদর্শ ধরা হয়। [web:93]
+    </p>
+
+    <h3>LLM, GAN, VAE–সহ বিভিন্ন মডেলে কীভাবে ঘটে?</h3>
+    <p>
+      এই কল্যাপ্স শুধু GAN–এর “মোড কল্যাপ্স”–এর সীমাবদ্ধ সমস্যা নয়; Nature–এর কাজটি GMM, VAE ও ট্রান্সফরমার–ভিত্তিক LLM—তিন ধরনের মডেলেই সিনথেটিক ডেটা দিয়ে পুনরাবৃত্ত ট্রেনিং করে দেখিয়েছে। [web:93][web:98]
+    </p>
+    <p>
+      VAE–এর ক্ষেত্রে সংখ্যাগুলোর ছবি ক্রমে এতটাই ঝাপসা হয়েছে যে আলাদা ডিজিট আলাদা করে বোঝা কঠিন; GMM–এর ক্ষেত্রে আলাদা ক্লাস্টারগুলো মিলিয়ে গেছে; আর LLM–এর উত্তর ধীরে ধীরে প্রশ্নের প্রসঙ্গ থেকে সরে গিয়ে সম্পূর্ণ অপ্রাসঙ্গিক টেক্সটে চলে গেছে। [web:93][web:98]
+      অর্থাৎ সিনথেটিক ডেটা নিজের ওপরই ফিরে এসে ট্রেনিং–সাইকেলে ঢুকলে প্রায় সব ধরনের জেনারেটিভ মডেলেই একই ধরনের পতন দেখা যায়। [web:92][web:98]
+    </p>
+
+    <h3>কেন মানব–তৈরি ডেটা এত গুরুত্বপূর্ণ?</h3>
+    <p>
+      জেনারেটিভ মডেল শেষ পর্যন্ত আমাদের দেওয়া ডেটা থেকেই শেখে। যদি আমরা মূলত এআই–তৈরি লেখা ও ছবি খাওয়াই, তাহলে তারা বাস্তবতার একটি বিকৃত প্রতিচ্ছবি থেকে শেখে। [web:94][web:98]
+      গবেষণা দেখাচ্ছে, শুধু সিনথেটিক ডেটা দিয়ে ট্রেনিং দিলে মডেল সাধারণ প্যাটার্নগুলো অতিমাত্রায় শিখে ফেলে, আর বিরল ঘটনা—যেগুলোতে অনেক নুয়ান্স, সংখ্যালঘু অভিজ্ঞতা ও edge–কেস থাকে—সেগুলোকে ক্রমে ভুলে যায়। [web:93][web:98][web:99]
+    </p>
+    <p>
+      IBM–এর বিশ্লেষণ এই প্রক্রিয়াকে এক ধরনের <b>ডেটা দূষণ</b> বলে—ইন্টারনেটের কনটেন্ট এআই–তৈরি টেক্সটে ভরে গেলে খাঁটি মানব–লেখা ডেটা খুঁজে পাওয়া কঠিন হয়ে যায়, অথচ ভবিষ্যৎ এআই–এর জন্য সেই ডেটাই সবচেয়ে বেশি দরকার। [web:94][web:98]
+      যে সংস্থার কাছে বই, সংবাদ, বৈজ্ঞানিক নিবন্ধ ও পুরনো ওয়েব–স্ন্যাপশটের বড় আর্কাইভ আছে, তারা ভবিষ্যতে বাস্তবতায়–গ্রাউন্ডেড মডেল বানাতে তুলনামূলক এগিয়ে থাকবে। [web:94][web:98][web:106]
+    </p>
+
+    <h3>কোম্পানিগুলো কীভাবে সমাধান খুঁজছে?</h3>
+    <p>
+      বড় এআই ল্যাব ও ক্লাউড কোম্পানিগুলো এখন মডেল কল্যাপ্সকে বাস্তব ঝুঁকি ধরে নিয়ে কিছু প্রতিরোধ–কৌশল নিয়ে কাজ করছে। [web:94][web:99][web:101]
+      প্রধান কয়েকটি পথ হলো:
+    </p>
+    <ul>
+      <li><b>ডেটার উৎস শনাক্ত ও ফিল্টারিং:</b> ট্রেনিং–ডেটা কোথা থেকে এসেছে তা ট্র্যাক করা, মানব–তৈরি ও এআই–তৈরি কনটেন্ট আলাদা করা এবং নিম্নমানের বা পুনরাবৃত্ত সিনথেটিক ডেটা আক্রমণাত্মকভাবে বাদ দেওয়া। [web:94][web:98][web:99]</li>
+      <li><b>মানব–ডেটার “রিজার্ভ”:</b> বড় প্রাক–২০২৩ কর্পাস সংরক্ষণ করা এবং বই, সংবাদ, বৈজ্ঞানিক ডাটাবেসের মতো মানসম্মত মানব–ডেটায় সরাসরি অ্যাক্সেস গড়ে তোলা। [web:94][web:98][web:106]</li>
+      <li><b>নিয়ন্ত্রিত সিনথেটিক ডেটা:</b> শক্ত নিয়ন্ত্রণ বা মানব–ওভারসাইটের মাধ্যমে সিনথেটিক উদাহরণ তৈরি করা, যাতে এগুলো এলোমেলো ফিডব্যাক–লুপ নয়, বরং টার্গেটেড অগমেন্টেশন হিসেবে কাজ করে। [web:93][web:99][web:105]</li>
+    </ul>
+    <p>
+      পাশাপাশি, গবেষকেরা ডেটাসেটের জন্য “পুষ্টি–লেবেল”–এর মতো ব্যবস্থা ভাবছে, যেখানে কত শতাংশ সিনথেটিক কনটেন্ট আছে তা প্রকাশ করে সহযোগিতা গড়ে তোলা যায়। [web:98][web:99][web:106]
+    </p>
+
+    <h3>ভবিষ্যতের এআই কি নিজেই ভেঙে পড়বে?</h3>
+    <p>
+      যদি মডেল কল্যাপ্সকে গুরুত্ব না দেওয়া হয়, তবে জেনারেটিভ এআই–এর ভবিষ্যৎ এক ধরনের “হল–অফ–মিররস” হয়ে যেতে পারে—যেখানে মডেলগুলো কেবল একে–অপরকে অনুকরণ করে, বাস্তব জগতকে নয়। [web:93][web:98][web:104]
+      তখন আউটপুট হয়তো দেখতে সুন্দর ও সাবলীল থাকবে, কিন্তু ভেতরের বৈচিত্র্য, নির্ভুলতা ও বাস্তবতায়–গ্রাউন্ডিং অনেকটাই ক্ষয়ে যাবে।
+    </p>
+    <p>
+      এর প্রভাব শুধু চ্যাটবট বা ছবির জেনারেটরে সীমাবদ্ধ নয়; বিরল রোগের ডেটা, সংখ্যালঘু ভাষা, আর্থিক পূর্বাভাস বা বৈজ্ঞানিক মডেল—সব ক্ষেত্রেই ভুল বাড়তে পারে, কারণ মডেল সাধারণ ঘটনাকে অতিরিক্ত গুরুত্ব দিয়ে আর “টেইল”–এর তথ্য উপেক্ষা করে। [web:93][web:99][web:106]
+      এই অবস্থায় বৃহৎ স্কেলে ব্যবহৃত এআই সিস্টেম ভুল, পক্ষপাত ও বিভ্রান্তি বাড়াতে পারে, এবং ট্রেনিং–ডেটা নিজেই দূষিত হওয়ায় সেগুলোকে ঠিক করাও কঠিন হয়ে যাবে। [web:94][web:98][web:99]
+    </p>
+
+    <h3>মানব–সৃজনশীলতা ও অর্গানিক লেখা কেন আরও জরুরি?</h3>
+    <p>
+      Nature–এর কাজ ও বিভিন্ন বিশ্লেষণের মূল বার্তাই হলো—ভবিষ্যতের এআই পারফরম্যান্স অনেকটাই নির্ভর করছে অর্গানিক, মানব–তৈরি ডেটা ধরে রাখার ওপর। [web:93][web:94][web:98]
+      মানুষের লেখা, কথা, শিল্প ও বিজ্ঞান—এই সবকিছু মিলেই জেনারেটিভ মডেলকে গভীরতা ও স্থিতি দেয়।
+    </p>
+    <p>
+      এআই–তৈরি কনটেন্ট যখন সোশ্যাল মিডিয়া থেকে ব্লগ, এমনকি গবেষণা–জার্নাল পর্যন্ত ছেয়ে ফেলছে, তখন মানব–লেখা টেক্সট যেন এক ধরনের “রেয়ার রিসোর্স” হয়ে উঠছে—যা সংস্কৃতির জন্য যেমন গুরুত্বপূর্ণ, ভবিষ্যৎ এআই–এর বাস্তবতা ধরে রাখার জন্যও তেমন। [web:94][web:98][web:106]
+      তাই কিছু আইনজ্ঞ ও নীতিনির্ধারক “অদূষিত মানব–ডেটার অধিকার” নিয়ে কথা বলা শুরু করেছেন। [web:106]
+    </p>
+    <p>
+      এই অর্থে, মানব–সৃজনশীলতার ভবিষ্যৎ আর এআই–এর ভবিষ্যৎ আলাদা নয়; একে অপরের ওপরই দাঁড়িয়ে আছে। যদি আমরা মানব–জ্ঞান উৎপাদনে বিনিয়োগ কমিয়ে দিই, বা সিনথেটিক কনটেন্টকে বাস্তব অভিজ্ঞতার জায়গা দখল করতে দিই, তাহলে হয়তো এমন মডেলই তৈরি হবে, যারা ভাষার দিক থেকে শক্তিশালী, কিন্তু ভেতরে ফাঁপা—যারা আয়না, কিন্তু ধীরে ধীরে ভুলে যায় তারা কী প্রতিফলিত করার কথা ছিল। [web:93][web:94][web:99]
+    </p>
+
+    <h4>সূত্র</h4>
+    <p>
+      এই ব্লগটি Nature–এ প্রকাশিত <em>“AI models collapse when trained on recursively generated data”</em> প্রবন্ধ, IBM–এর মডেল কল্যাপ্স বিশ্লেষণ এবং জেনারেটিভ এআইতে সিনথেটিক ডেটা–ফিডব্যাক নিয়ে সাম্প্রতিক আলোচনা থেকে অনুপ্রাণিত। [web:93][web:94][web:98][web:100][web:99][web:101]
+    </p>
+  </div>
+</div>   
     
 
 <script>
@@ -1833,7 +2021,7 @@ function toggleBlogCollapse(id) {
   toggle.classList.toggle('open');
   content.classList.toggle('open');
 }
-['blog1','blog2','blog3','blog4', 'blog5', 'blog6', 'blog7', 'blog8'].forEach(function(id){
+['blog1','blog2','blog3','blog4', 'blog5', 'blog6', 'blog7', 'blog8', 'blog8'].forEach(function(id){
   document.getElementById(id+'-toggle').onclick = function() { toggleBlogCollapse(id); };
   if (window.location.hash === "#" + id) {
     document.getElementById(id + '-toggle').classList.add('open');
@@ -2540,6 +2728,13 @@ const blogData = {
     description: 'From Steak to Spinach: How Going Meat-Light Reshapes Your Body.',
     image:       'https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/Image/blog8.jpg',
     url:         'https://sumanta-barman.github.io/#blog8'
+  },
+
+    'blog9': {
+    title:       'Model Collapse: When Generative AI Trains on Itself - Dr. Sumanta Barman',
+    description: 'Is AI Eating Its Own Tail? Model Collapse and the Future of Generative Systems',
+    image:       'https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/Image/blog9.jpg',
+    url:         'https://sumanta-barman.github.io/#blog9'
   }
 };
 
