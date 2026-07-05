@@ -1839,7 +1839,7 @@
     <h2>Model Collapse: When Generative AI Trains on Itself</h2>
     <p>Reading time: approximately 10–12 minutes (বাংলায় পড়তে নিচে স্ক্রল করুন)</p>
 
-    <img src="https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/Image/blog9.jpg"
+    <img src="https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/Image/blog9.png"
          alt="Why eat plant foods"
          style="max-width:100%;height:auto;margin-bottom:20px;border-radius:6px;">
 
@@ -2049,7 +2049,7 @@ function toggleBlogCollapse(id) {
   toggle.classList.toggle('open');
   content.classList.toggle('open');
 }
-['blog1','blog2','blog3','blog4', 'blog5', 'blog6', 'blog7', 'blog8', 'blog8'].forEach(function(id){
+['blog1','blog2','blog3','blog4', 'blog5', 'blog6', 'blog7', 'blog8', 'blog9'].forEach(function(id){
   document.getElementById(id+'-toggle').onclick = function() { toggleBlogCollapse(id); };
   if (window.location.hash === "#" + id) {
     document.getElementById(id + '-toggle').classList.add('open');
@@ -2761,7 +2761,7 @@ const blogData = {
     'blog9': {
     title:       'Model Collapse: When Generative AI Trains on Itself - Dr. Sumanta Barman',
     description: 'Is AI Eating Its Own Tail? Model Collapse and the Future of Generative Systems',
-    image:       'https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/Image/blog9.jpg',
+    image:       'https://raw.githubusercontent.com/sumanta-barman/sumanta-barman.github.io/main/Image/blog9.png',
     url:         'https://sumanta-barman.github.io/#blog9'
   }
 };
