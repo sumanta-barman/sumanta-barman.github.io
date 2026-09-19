@@ -248,9 +248,9 @@
     gap: 36px;
   }
   .profile-pic {
-    width: 140px;
+    width: 150px;
     height: 150px;
-    border-radius: 50%;
+    border-radius: 70%;
     object-fit: cover;
     background: var(--card-bg);
     box-shadow: none; /* Remove border and shadow */
